@@ -7,13 +7,27 @@
     padding: 0;
     list-style-type: none;
 }
+#usage {
+    ul {
+        width: 50%;
+        float: left;
+        padding: 10px;
+    }
+}
 .glyph {
     border-bottom: 1px dotted #ccc;
     padding: 10px 20px;
     margin-bottom: 20px;
 }
 
-.preview-glyphs { vertical-align: bottom; }
+.preview-glyphs { 
+    span {
+        vertical-align: middle;
+        i {
+            vertical-align: middle;
+        }   
+    }
+}
 
 .preview-scale {
     color: #888;
@@ -27,25 +41,6 @@
     position: relative;
     width: 10%;
 }
-
-.step .letters,
-.step i {
-    -webkit-transition: opacity .3s;
-    -moz-transition: opacity .3s;
-    -ms-transition: opacity .3s;
-    -o-transition: opacity .3s;
-    transition: opacity .3s;
-}
-
-.letters {
-    opacity: .3;
-    position: absolute;
-}
-
-.characters-off .letters { display: none; }
-.characters-off .step:hover i { opacity: 1; }
-
-
 .size-12 { font-size: 12px; }
 
 .size-14 { font-size: 14px; }

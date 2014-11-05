@@ -6,6 +6,7 @@ Navigation
 nav {
     list-style: none;
     position: fixed;
+    clear: both;
     width: 100%;
     //Background gradients
     background: -moz-linear-gradient(top,  rgba(68,68,68,0.77) 0%, rgba(43,43,43,1) 100%); /* FF3.6+ */
@@ -24,7 +25,6 @@ nav {
             *zoom: 1;
             overflow: hidden;
             a {
-                border: 1px solid white;
                 padding: 0.3em 30px;
                 margin: 5px 0;
                 display: block;

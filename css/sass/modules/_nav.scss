@@ -7,22 +7,14 @@ nav {
     list-style: none;
     position: fixed;
     width: 100%;
-    
-    
-    background: -moz-linear-gradient(top,  rgba(193,193,193,0.03) 0%, rgba(86,86,86,0.57) 100%); /* FF3.6+ */
-    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(193,193,193,0.03)), color-stop(100%,rgba(86,86,86,0.57))); /* Chrome,Safari4+ */
-    background: -webkit-linear-gradient(top,  rgba(193,193,193,0.03) 0%,rgba(86,86,86,0.57) 100%); /* Chrome10+,Safari5.1+ */
-    background: -o-linear-gradient(top,  rgba(193,193,193,0.03) 0%,rgba(86,86,86,0.57) 100%); /* Opera 11.10+ */
-    background: -ms-linear-gradient(top,  rgba(193,193,193,0.03) 0%,rgba(86,86,86,0.57) 100%); /* IE10+ */
-    background: linear-gradient(to bottom,  rgba(193,193,193,0.03) 0%,rgba(86,86,86,0.57) 100%); /* W3C */
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#08c1c1c1', endColorstr='#91565656',GradientType=0 ); /* IE6-9 */
-
-
-
-
-
-
-
+    //Background gradients
+    background: -moz-linear-gradient(top,  rgba(68,68,68,0.77) 0%, rgba(43,43,43,1) 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(68,68,68,0.77)), color-stop(100%,rgba(43,43,43,1))); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  rgba(68,68,68,0.77) 0%,rgba(43,43,43,1) 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  rgba(68,68,68,0.77) 0%,rgba(43,43,43,1) 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  rgba(68,68,68,0.77) 0%,rgba(43,43,43,1) 100%); /* IE10+ */
+    background: linear-gradient(to bottom,  rgba(68,68,68,0.77) 0%,rgba(43,43,43,1) 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c4444444', endColorstr='#2b2b2b',GradientType=0 ); /* IE6-9 */
     ul {
         margin: 0 10%;
         float: right;
@@ -34,6 +26,7 @@ nav {
             a {
                 border: 1px solid white;
                 padding: 0.3em 30px;
+                margin: 5px 0;
                 display: block;
                 color: #fff;
                 font-size: 1.2em;

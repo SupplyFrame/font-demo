@@ -31,34 +31,42 @@ a {
 
 h1 {
     @include font-size($h1-size);
+    font-weight: 700;
 }
 
 h2 {
     @include font-size($h2-size);
+    font-weight: 700;
 }
 
 h3 {
     @include font-size($h3-size);
+    font-weight: 700;
 }
 
 h4 {
     @include font-size($h4-size);
+    font-weight: 700;
 }
 
 h5 {
     @include font-size($h5-size);
+    font-weight: 700;
 }
 
 h6 {
     @include font-size($h6-size);
+    font-weight: 700;
 }
 h2 {
     @include font-size(30px);
-    font-family: $secondary-font-family;
-    margin: 0 0 10px 0;
+    font-weight: 700;
 }
 
 p {
+
+    font-family: $base-font-family;
+    font-size: 18px;
     font-weight: 300;
 }
 #{headings()} {

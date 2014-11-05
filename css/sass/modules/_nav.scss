@@ -4,22 +4,26 @@ Navigation
 *****************************************************************/
 
 nav {
-    height: 2.5em;
     list-style: none;
-    padding: 0;
     position: fixed;
     width: 100%;
-    background: -moz-linear-gradient(top,  rgba(224,224,224,0.11) 0%, rgba(122,122,122,0.25) 100%); /* FF3.6+ */
-    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(224,224,224,0.11)), color-stop(100%,rgba(122,122,122,0.25))); /* Chrome,Safari4+ */
-    background: -webkit-linear-gradient(top,  rgba(224,224,224,0.11) 0%,rgba(122,122,122,0.25) 100%); /* Chrome10+,Safari5.1+ */
-    background: -o-linear-gradient(top,  rgba(224,224,224,0.11) 0%,rgba(122,122,122,0.25) 100%); /* Opera 11.10+ */
-    background: -ms-linear-gradient(top,  rgba(224,224,224,0.11) 0%,rgba(122,122,122,0.25) 100%); /* IE10+ */
-    background: linear-gradient(to bottom,  rgba(224,224,224,0.11) 0%,rgba(122,122,122,0.25) 100%); /* W3C */
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1ce0e0e0', endColorstr='#407a7a7a',GradientType=0 ); /* IE6-9 */
+    
+    
+    background: -moz-linear-gradient(top,  rgba(193,193,193,0.03) 0%, rgba(86,86,86,0.57) 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(193,193,193,0.03)), color-stop(100%,rgba(86,86,86,0.57))); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  rgba(193,193,193,0.03) 0%,rgba(86,86,86,0.57) 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  rgba(193,193,193,0.03) 0%,rgba(86,86,86,0.57) 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  rgba(193,193,193,0.03) 0%,rgba(86,86,86,0.57) 100%); /* IE10+ */
+    background: linear-gradient(to bottom,  rgba(193,193,193,0.03) 0%,rgba(86,86,86,0.57) 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#08c1c1c1', endColorstr='#91565656',GradientType=0 ); /* IE6-9 */
+
+
+
+
+
 
 
     ul {
-        margin: 0;
         margin: 0 10%;
         float: right;
         li {
@@ -28,7 +32,8 @@ nav {
             *zoom: 1;
             overflow: hidden;
             a {
-                padding: 0.3em 1.3em;
+                border: 1px solid white;
+                padding: 0.3em 30px;
                 display: block;
                 color: #fff;
                 font-size: 1.2em;
@@ -42,15 +47,26 @@ nav {
         }
     }
     p {
-        color: #fff;
-        display: inline-block;
-        float: left;
-        margin: 0 10%;
-        font-size: 1.5em;
-        font-weight: 700;
-        padding: 0.1em 0;
+        a {
+            color: #fff;
+            display: inline-block;
+            float: left;
+            margin: 0 10%;
+            font-size: 1.5em;
+            font-weight: 700;
+            padding: 0.1em 0;
+            &:hover {
+                color: darken(#fff,10%);   
+            }
+        }
     }
-    .active-nav {
-        color: #000;   
+    .scrolling {
+        ul {
+            li {
+                a {
+                    color: #000; 
+                }
+            }
+        }
     }
 }

@@ -8,16 +8,14 @@
     height: 12em;
     background: #353C47 url('../img/public-bck.png') top center no-repeat;
     background-size: cover;
-    position: relative;
     @include hidpi {
         background: #353C47 url('../img/public-bck@2x.png') top center no-repeat;
         background-size: cover;
     }
-    p {
-        float: left;
-        margin: 6% 0 0 10px;
+   p {
+       float: left;
+        margin: 5em 0 0 10px;
         color: white;
-        font-size: 25px;
     }   
 }
 // Logo
@@ -27,7 +25,8 @@
         float: left;
         width: 150px;
         height: 40px;
-        margin: 6% 0 0 10%;
+        margin: 2em 0 0 6%;
+        display: block;
         background: url('../img/parts-io-logo.png') center center no-repeat;
         @include hide-text; // Mixin
         @include transition(all 0.10s ease-in);

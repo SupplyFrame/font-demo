@@ -12,6 +12,9 @@
         width: 50%;
         float: left;
         padding: 10px;
+        @media (max-width: 750px) {
+            width: 100%;
+        }
     }
 }
 .glyph {
@@ -61,6 +64,15 @@
 
 .size-72 { font-size: 72px; }
 
+@media (max-width: 750px) {
+    .size-60, .size-48, .size-36, .size-24, .size-21, .size-18, .size-16, .size-14, .size-12, .preview-scale  {
+        display: none;   
+    }
+    .size-72 {
+        text-align: center;
+        display: block;
+    }
+}
 
 .usage { margin-top: 10px; }
 

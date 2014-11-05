@@ -5,9 +5,14 @@ Navigation
 
 nav {
     list-style: none;
+    display: table;
     position: fixed;
-    clear: both;
     width: 100%;
+    @media (max-width: 750px) {
+        position: relative;
+        top: 0%;
+        left: 0%;
+    }
     //Background gradients
     background: -moz-linear-gradient(top,  rgba(68,68,68,0.77) 0%, rgba(43,43,43,1) 100%); /* FF3.6+ */
     background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(68,68,68,0.77)), color-stop(100%,rgba(43,43,43,1))); /* Chrome,Safari4+ */
@@ -19,10 +24,22 @@ nav {
     ul {
         margin: 0 10%;
         float: right;
+        @media (max-width: 750px) {
+            float: none;
+        }
+        @media (max-width: 600px) {
+            margin: 0 5%;
+        }
+        @media (max-width: 500px) {
+            margin: 0 2%;
+        }
         li {
             display: inline-block;
             *display: inline;
             *zoom: 1;
+            @media (max-width: 750px) {
+                text-align: center;
+            }
             overflow: hidden;
             a {
                 padding: 0.3em 30px;
@@ -32,6 +49,12 @@ nav {
                 font-size: 1.2em;
                 &:hover {
                     color: darken(#fff,10%);   
+                }
+                @media (max-width: 750px) {
+                    padding: 15px;
+                }
+                @media (max-width: 600px) {
+                    padding: 10px;
                 }
             }
             &:hover {
@@ -50,15 +73,6 @@ nav {
             padding: 0.1em 0;
             &:hover {
                 color: darken(#fff,10%);   
-            }
-        }
-    }
-    .scrolling {
-        ul {
-            li {
-                a {
-                    color: #000; 
-                }
             }
         }
     }

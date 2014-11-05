@@ -1,0 +1,17 @@
+
+/*****************************************************************
+    Buttons
+*****************************************************************/
+
+.demo-button {
+    background: #e37235;
+    padding: 0.7em 1.2em;
+    display: inline-block;
+    color: #ffffff;
+    @include border-radius(3px);
+
+    &:hover {
+        color: #ffffff;
+        background: #e0621f;
+    }
+}

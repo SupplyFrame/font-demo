@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="53px" height="33px" viewBox="0 0 53 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="category-icons" transform="translate(-926.000000, -146.000000)">
+            <g id="terminal-blocks" transform="translate(922.000000, 143.000000)">
+                <path d="M4.31893536,8.56518303 L15.959805,17.9298214 L56.4092432,17.9298214 L44.7683736,8.56518303 L4.31893536,8.56518303 Z" id="Rectangle-45" stroke="#CC5555" stroke-width="1.01123596" transform="translate(30.273992, 13.310946) rotate(-20.000000) translate(-30.273992, -13.310946) "></path>
+                <path d="M18.8346709,15.2374772 L14.1745471,28.0147128 L55.1269397,27.6232804 L59.6894816,16.1406896 L18.8346709,15.2374772 Z" id="Rectangle-46" stroke="#CC5555" stroke-width="1.01123596" transform="translate(36.932014, 21.626095) rotate(-20.000000) translate(-36.932014, -21.626095) "></path>
+                <path d="M21.7454211,21.8590429 L18.6993249,30.1767203 L28.2190294,30.3992395 L31.2651256,22.081562 L21.7454211,21.8590429 Z" id="Rectangle-48" fill="#CC5555" transform="translate(24.885632, 26.224936) rotate(-20.000000) translate(-24.885632, -26.224936) "></path>
+                <path d="M33.0795351,17.4875973 L30.033439,25.8052748 L41.0165923,25.8052748 L44.2546924,17.7798484 L33.0795351,17.4875973 Z" id="Rectangle-49" fill="#CC5555" transform="translate(37.144066, 21.646436) rotate(-20.000000) translate(-37.144066, -21.646436) "></path>
+                <path d="M45.2882282,13.7574539 L42.3473515,21.2648728 L52.2166466,21.2648726 L55.2248654,13.7574539 L45.2882282,13.7574539 Z" id="Rectangle-50" fill="#CC5555" transform="translate(48.786108, 17.511163) rotate(-20.000000) translate(-48.786108, -17.511163) "></path>
+                <path d="M7.69258928,15.9027 L3.31282753,27.9645496 L14.317884,37.0994716 L19.0239358,24.7097058 L7.69258928,15.9027 Z" id="Rectangle-47" stroke="#CC5555" stroke-width="1.01123596" transform="translate(11.168382, 26.501086) rotate(-20.000000) translate(-11.168382, -26.501086) "></path>
+                <ellipse id="Oval-41" stroke="#CC5555" stroke-width="1.01123596" transform="translate(18.202247, 17.627119) rotate(-6.000000) translate(-18.202247, -17.627119) " cx="18.2022472" cy="17.6280471" rx="2.69662921" ry="1.3568607"></ellipse>
+                <ellipse id="Oval-42" stroke="#CC5555" stroke-width="1.01123596" transform="translate(30.337079, 12.881356) rotate(-6.000000) translate(-30.337079, -12.881356) " cx="30.3370787" cy="12.8822844" rx="2.69662921" ry="1.3568607"></ellipse>
+                <ellipse id="Oval-43" stroke="#CC5555" stroke-width="1.01123596" transform="translate(42.471910, 8.813559) rotate(-6.000000) translate(-42.471910, -8.813559) " cx="42.4719101" cy="8.81448781" rx="2.69662921" ry="1.3568607"></ellipse>
+                <path d="M16.057312,18.5316162 L20.4049683,16.6904907" id="Line" stroke="#CC5555" stroke-width="0.674157303" stroke-linecap="square"></path>
+                <path d="M28.2107544,13.7659912 L32.546875,11.9628296" id="Line-2" stroke="#CC5555" stroke-width="0.674157303" stroke-linecap="square"></path>
+                <path d="M40.3153076,9.689148 L44.7105103,7.8873291" id="Line-3" stroke="#CC5555" stroke-width="0.674157303" stroke-linecap="square"></path>
+            </g>
+        </g>
+    </g>
+</svg>

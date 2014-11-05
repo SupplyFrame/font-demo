@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="43px" height="21px" viewBox="0 0 43 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="category-icons" transform="translate(-667.000000, -312.000000)" stroke="#CC5555" stroke-width="1.5">
+            <g id="logic" transform="translate(668.000000, 312.000000)">
+                <path d="M6.08,-1.24196449e-13 C6.08,-1.24196449e-13 10.1333333,7.23827465 10.1333333,10.857412 C10.1333333,14.2061801 6.08,20.9037162 6.08,20.9037162 C6.08,20.9037162 13.4293056,20.9037162 16.2133333,20.9037162 C18.9973611,20.9037162 29.7244444,16.3609685 29.7244444,10.6859362 C29.7244444,5.01090384 22.2141667,1.41433189e-08 16.2133333,-1.24196449e-13 C10.2125,-1.41435671e-08 6.08,-1.24196449e-13 6.08,-1.24196449e-13 Z" id="Rectangle-52"></path>
+                <path d="M34.44,10.3125 L40.7733333,10.3125" id="Line" stroke-linecap="square"></path>
+                <path d="M0.337777778,4.3125 L8.57111111,4.3125" id="Line-82" stroke-linecap="square"></path>
+                <path d="M0.337777778,15.5625 L8.57111111,15.5625" id="Line-85" stroke-linecap="square"></path>
+                <ellipse id="Oval-27" cx="32.0755556" cy="10.4518581" rx="2.02666667" ry="2.09037162"></ellipse>
+            </g>
+        </g>
+    </g>
+</svg>

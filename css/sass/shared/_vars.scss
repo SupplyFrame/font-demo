@@ -1,0 +1,95 @@
+
+/*****************************************************************
+    Variables
+*****************************************************************/
+
+// DO NOT CHANGE VARIABLE NAMES
+
+/*
+    Legacy Support for IE
+*/
+// http://susy.oddbird.net/guides/reference/#ref-browser-support
+// http://compass-style.org/reference/compass/support/
+// https://groups.google.com/forum/#!topic/compass-users/JOLaN9G86WU
+$legacy-support-for-ie:                                 true;
+$legacy-support-for-ie6:                                $legacy-support-for-ie;
+$legacy-support-for-ie7:                                $legacy-support-for-ie;
+// $legacy-support-for-ie8:                                $legacy-support-for-ie;
+
+
+/*
+    Grids Susy
+*/
+
+$total-columns:                                         12;                             // a 12-column grid
+$column-width:                                          4em;                            // each column is 4em wide
+$gutter-width:                                          2.5em;                          // 2.5em gutters between columns except computer
+$grid-padding:                                          $gutter-width;                  // grid-padding equal to gutters
+
+$container-style:                                       fluid;                          // http://susy.oddbird.net/guides/reference/#ref-container-style
+
+
+/*
+    Typography
+*/
+
+// H1-H6 Set DO NOT CHANGE VARIABLE NAMES
+$h1-size:                                               36px;
+$h2-size:                                               24px;
+$h3-size:                                               21px;
+$h4-size:                                               18px;
+$h5-size:                                               16px;
+$h6-size:                                               14px;
+
+// Font Family
+$base-font-family:                                      Helvetica, Arial, sans-serif;
+$secondary-font-family:                                 'Lato', sans-serif;
+// Base Size
+$base-font-size:                                        14px;
+
+// Other Sizes
+$font-size-1:                                           $base-font-size + 1px; // 15px
+$font-size-2:                                           $base-font-size + 2px; // 16px
+$font-size-3:                                           $base-font-size + 3px; // 17px
+$font-size-4:                                           $base-font-size + 4px; // 18px
+
+$font-size--1:                                          $base-font-size - 1px; // 13px
+$font-size--2:                                          $base-font-size - 2px; // 12px
+$font-size--3:                                          $base-font-size - 3px; // 11px
+$font-size--4:                                          $base-font-size - 4px; // 10px
+
+
+/*
+    Colors
+*/
+// Text Colors
+$base-text-color:                                       #333333;
+$secondary-text-color:                                  #555555;
+
+// Links Colors
+$base-link-color:                                       #2D619E;
+$hover-link-color:                                      darken($base-link-color, 10%);
+$focus-link-color:                                      darken($base-link-color, 20%);
+
+$disable-link-color:                                    #999999;
+
+// Background Colors
+$base-background-color:                                 #ffffff;
+
+// Border Colors
+$primary-border-color:                                  #D4D4D4;
+
+
+
+/*
+    Z-index [ DON'T CHANGE THIS - Add new var if is necessary ]
+*/
+$zindex-dropdown:                                       1000;
+$zindex-popover:                                        1020;
+$zindex-tooltip:                                        1040;
+$zindex-fixed-navbar:                                   1060;
+$zindex-modal-background:                               1080;
+$zindex-modal:                                          2000;
+$zindex-modal-content:                                  2020;
+
+

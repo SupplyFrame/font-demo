@@ -1,0 +1,60 @@
+
+/*****************************************************************
+    Base
+*****************************************************************/
+
+// http://compass-style.org/reference/compass/
+@import "compass"; // Base Compass Mixins
+
+// https://github.com/necolas/normalize.css/tree/v1
+@import "shared/normalize"; // Reset
+
+/*
+    Shared
+    - All shared files across all pages in this project
+*/
+@import "shared/vars"; // Base Variables
+@import "shared/mixins"; // Base Mixins
+@import "shared/susy"; // Susy Grids ( Susy One )
+
+@import "shared/default"; // Default  - global styles across project
+@import "shared/buttons"; // Buttons - all buttons across project
+@import "shared/icons"; // Icons - all icons across project
+@import "shared/forms"; // Forms - base styles for form items across project
+
+@import "fonts/lato"; // Google Fonts
+
+/*
+    Structure
+    - Base Structure (header, footer and layout) 
+      we also have pages sub-directory for specific styles for each page (home-page, contact-page etc...)
+*/
+@import "structure/header"; // Header
+@import "structure/footer"; // footer
+@import "structure/layout"; // Layout
+
+@import "structure/pages/home-page"; // Home Page specific stuff
+/*
+    Modules
+    - Sections in project ( newsletter signup, custom autocomplete etc... )
+      each of this section should be modular and can be movable without additional styles
+*/
+
+@import "modules/nav"; // Import sidebar
+@import "modules/sidebar-navigation"; // Import sidebar
+
+/*
+    Help Classes
+*/
+@import "shared/utilities"; // Utilities Helper Classes
+
+
+/*
+    Vendor
+    - All plugins across web ( autocomplete, jquery-ui etc... )
+*/
+@import "sass/vendors/highlight/sunburst.css"; // Layout
+
+
+
+

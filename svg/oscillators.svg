@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="64px" height="45px" viewBox="0 0 64 45" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="category-icons" transform="translate(-524.000000, 3.000000)" stroke="#CC5555" stroke-width="1.5">
+            <g id="oscillators" transform="translate(526.000000, 0.000000)">
+                <rect id="Rectangle-60" x="6.34615385" y="8.75" width="28.8461538" height="25"></rect>
+                <rect id="Rectangle-65" x="9.23076923" y="11.875" width="11.5384615" height="18.75"></rect>
+                <path d="M21.0576923,17.75 L29.067864,17.75" id="Line" stroke-linecap="square"></path>
+                <path id="Line-decoration-1" d="M21.0576923,20.75 C22.0376923,19.7 25.2776923,18.8 29.0576923,17.75 C25.2776923,16.7 22.0376923,15.8 21.0576923,14.75" stroke-linecap="square"></path>
+                <path d="M21.0576923,23.75 L29.067864,23.75" id="Line-2" stroke-linecap="square"></path>
+                <path id="Line-2-decoration-1" d="M21.0576923,26.75 C22.0376923,25.7 25.2776923,24.8 29.0576923,23.75 C25.2776923,22.7 22.0376923,21.8 21.0576923,20.75" stroke-linecap="square"></path>
+                <path d="M30.2884615,17.75 L36.0100127,17.75" id="Line-4" stroke-linecap="square"></path>
+                <path d="M3.75,17.75 L9.47155118,17.75" id="Line-6" stroke-linecap="square"></path>
+                <path d="M10.0961538,36.75 L15.817705,36.75" id="Line-7" stroke-linecap="square"></path>
+                <path d="M10.0961538,38.75 L15.817705,38.75" id="Line-8" stroke-linecap="square"></path>
+                <path d="M30.2884615,23.75 L36.0100127,23.75" id="Line-3" stroke-linecap="square"></path>
+                <path d="M12.75,30.3125 L12.75,36.171875" id="Line" stroke-linecap="square"></path>
+                <path d="M12,11.5625 L12,-0.15625" id="Line-5" stroke-linecap="square"></path>
+                <path id="Line-5-decoration-1" d="M15,11.3625 C13.95,7.5825 13.05,4.3425 12,0.5625 C10.95,4.3425 10.05,7.5825 9,11.3625" stroke-linecap="square"></path>
+                <ellipse id="Oval-33" cx="1.73076923" cy="18.125" rx="1.73076923" ry="1.875"></ellipse>
+                <ellipse id="Oval-34" cx="38.6538462" cy="18.125" rx="1.73076923" ry="1.875"></ellipse>
+                <ellipse id="Oval-35" cx="38.6538462" cy="24.375" rx="1.73076923" ry="1.875"></ellipse>
+                <path d="M42.8317308,25.4829545 L45.6659405,22.6420455 L48.606896,25.4829545 L51.1971154,22.6420455 L54.0162821,25.5142372 L56.9031669,22.8571445 L59.5249354,25.5282252" id="Line" stroke-linecap="square"></path>
+                <path d="M42.1773746,18.6190518 L44.7080028,18.6190518 L44.7080028,15.7226544 L47.4022485,15.7226544 L47.4022485,18.6748204 L49.9724712,18.6748204 L49.9724712,15.5809877 L52.5247946,15.5809877 L52.5247946,18.8554244 L54.9925832,18.8554244 L54.9925832,15.6505238 L57.6276514,15.6505238 L57.6276514,18.8636371 L60.0974205,18.8636371" id="Path-167"></path>
+            </g>
+        </g>
+    </g>
+</svg>

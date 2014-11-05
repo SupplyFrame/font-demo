@@ -1,0 +1,37 @@
+
+/*****************************************************************
+    Utility
+*****************************************************************/
+
+// Quick floats
+.pull-right {
+    float: right;
+}
+
+.pull-left {
+    float: left;
+}
+
+// Quick Center
+.pull-center {
+    @include center-block; // Mixin
+}
+
+// Toggling Content
+.hide {
+    display: none;
+}
+
+.show {
+    display: block;
+}
+
+// Visibility
+.invisible {
+    visibility: hidden;
+}
+
+// Image Replacement
+.hide-text {
+    @include hide-text(); // Mixin
+}

@@ -1,0 +1,83 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]-->
+<!--[if IE 9]>    <html class="no-js ie9" lang="en"> <![endif]-->
+<!--[if gt IE 9]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Examples - SF Get Started Template</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="css/style.css">
+    <link href="fontcustom/fontcustom.css" rel="stylesheet">
+</head>
+<body class="home-page">
+    <!--[if lt IE 7]>
+<p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+<![endif]-->
+        <nav>
+            <p>Hardware Icons</p>
+            <ul>
+                <li><a href="#intro" class="active">Introduction</a></li>
+                <li><a href="#install">Installation</a></li>
+                <li><a href="#usage">Usage</a></li>
+                <li><a href="#glyph">Glyph Set</a></li>
+            </ul>
+        </nav>
+        <header class="header">
+            <h1 class="logo">
+                <a href="/" title="Home Page">Parts.io</a>
+            </h1>
+            <p>- Electronic Component Icons</p>
+        </header>
+        <main>
+            <div id="intro" class="intro">
+                <h4>Introduction</h4>
+                <p>A custom SVG font created for parts.io icons using <a href="http://endtwist.github.io/fontcustom/">Font Custom</a>. Icons are scalable and look great in any browser.</p>
+            </div>
+            <div id ="install" class="install">
+                <h4>Installing</h4>
+                <li>
+                    <ul>
+                        <p>Install Homebrew</p>
+                        <code>ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"</code>
+                    </ul>
+                    <ul>
+                        <p>Copy/Paste SVG folder into directory</p>
+                        <img src="../img/svg-directory.png" height="350px"/>
+                    </ul>
+                    <ul>
+                        <p>Install Font Custom</p>
+                        <code>1. brew install fontforge eot-utils ttfautohint
+                        <br><br>
+                        2. gem install fontcustom</code>
+                    </ul>
+                    <ul>
+                        <p>Run Font Custom</p>
+                        <code>fontcustom watch /path/to/vectors</code>
+                    </ul>
+                    <ul>
+                        <p>Include Font Custom CSS in project</p>
+                        <code>&lt;link href="path/to/fontcustom/fontcustom.css" rel="stylesheet"&gt;</code>
+                    </ul>
+                </li>
+            </div>
+            <div class="usage">
+                <h4>Usage</h4>
+                <li>
+                    <ul>
+                        <p>Add icon to selector</p>
+                        <code>&lt;span class="icon-active-filters"&gt;&lt;/span&gt;</code>
+                    </ul>
+                    <ul>
+                        <p>Result</p>
+                        <span class="icon-active-filters" style="font-size:120px; color: blue;"></span>
+                    </ul>
+                </li>
+            </div>
+        </main>
+    
+</body>
+</html>

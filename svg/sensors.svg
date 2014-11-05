@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="60px" height="30px" viewBox="0 0 60 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="category-icons" transform="translate(2.000000, -158.000000)">
+            <g id="sensors" transform="translate(0.000000, 159.000000)">
+                <circle id="Oval-42" stroke="#CC5555" stroke-width="1.5" cx="26.212766" cy="13.106383" r="13.106383"></circle>
+                <path d="M12.5106383,8.75 L0.595744681,8.75" id="Line" stroke="#CC5555" stroke-width="1.5" stroke-linecap="square"></path>
+                <path d="M12.5106383,15.75 L0.595744681,15.75" id="Path" stroke="#CC5555" stroke-width="1.5" stroke-linecap="square"></path>
+                <path d="M49.6382979,5.5625 L42.4,5.5625" id="Line-2" stroke="#CC5555" stroke-width="1.5" stroke-linecap="square"></path>
+                <path d="M49.6382979,13.5625 L42.4,13.5625" id="Line-3" stroke="#CC5555" stroke-width="1.5" stroke-linecap="square"></path>
+                <path d="M49.6382979,21.5625 L42.4,21.5625" id="Line-4" stroke="#CC5555" stroke-width="1.5" stroke-linecap="square"></path>
+                <path d="M39.5625,0.595744681 L39.5625,25.6688252" id="Line" stroke="#CC5555" stroke-width="1.5" stroke-linecap="square"></path>
+                <path d="M22.75,8.93617021 L22.75,17.106383" id="Line" stroke="#CC5555" stroke-width="1.5" stroke-linecap="square"></path>
+                <rect id="Rectangle-45" fill="#CC5555" x="25.0212766" y="9.53191489" width="2.38297872" height="7.14893617"></rect>
+                <path d="M29.75,8.93617021 L29.75,17.106383" id="Line-2" stroke="#CC5555" stroke-width="1.5" stroke-linecap="square"></path>
+                <path d="M50.2340426,8.57446809 L50.2340426,2.57446809 L56.2340426,5.57446809 L50.2340426,8.57446809 Z" id="Triangle-1" fill="#CC5555"></path>
+                <path d="M50.2340426,16.5744681 L50.2340426,10.5744681 L56.2340426,13.5744681 L50.2340426,16.5744681 Z" id="Triangle-2" fill="#CC5555"></path>
+                <path d="M50.2340426,24.5744681 L50.2340426,18.5744681 L56.2340426,21.5744681 L50.2340426,24.5744681 Z" id="Triangle-3" fill="#CC5555"></path>
+            </g>
+        </g>
+    </g>
+</svg>

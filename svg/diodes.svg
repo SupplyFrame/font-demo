@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="43px" height="28px" viewBox="0 0 43 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="square">
+        <g id="category-icons" transform="translate(-930.000000, -6.000000)" stroke="#CC5555" stroke-width="1.5">
+            <g id="diodes" transform="translate(932.000000, 7.000000)">
+                <path d="M40.2167183,12.804878 L32.7113238,12.804878 M7.21362229,12.804878 L-0.291772211,12.804878 M8.32817337,25 L8.32817337,0.609756098 L30.619195,12.804878 L8.32817337,25 Z M31.3003096,0.203252033 L31.3003096,24.7136449" id="Diode"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,31 @@
+
+/*****************************************************************
+    Layout Global
+*****************************************************************/
+
+.container {
+    @include container;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.left-content {
+    @include span-columns(2);
+    @include fixed(top left);
+    background: #535353;
+    height: 100%;
+}
+
+.right-content {
+    @include span-columns(10 omega);
+}
+
+.section {
+    border-bottom: 1px solid #ededed;
+    padding: 1em 0 1em 0;
+    display: block;
+    overflow: hidden;
+}
+main {
+    margin: 0 10%;
+}

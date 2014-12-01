@@ -4,14 +4,15 @@
 *****************************************************************/
 
 .demo-button {
-    background: #e37235;
+    background: #00c46a;
     padding: 0.7em 1.2em;
     display: inline-block;
     color: #ffffff;
     @include border-radius(3px);
+    box-shadow: none;
 
     &:hover {
         color: #ffffff;
-        background: #e0621f;
+        background: darken(#35e36b, 20%);
     }
 }

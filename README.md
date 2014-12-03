@@ -1,5 +1,6 @@
 Parts.io Hardware Icons
 =========
+http://supplyframe.github.io/font-demo/
 ### Installation ###
 
 1. Fork the repo into your account and clone it from there

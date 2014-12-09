@@ -4,11 +4,11 @@
 
 @font-face {
   font-family: "fontcustom";
-  src: url("./fontcustom_6d205049767643f06f0b79d408eed4f8.eot");
-  src: url("./fontcustom_6d205049767643f06f0b79d408eed4f8.eot?#iefix") format("embedded-opentype"),
-       url("./fontcustom_6d205049767643f06f0b79d408eed4f8.woff") format("woff"),
-       url("./fontcustom_6d205049767643f06f0b79d408eed4f8.ttf") format("truetype"),
-       url("./fontcustom_6d205049767643f06f0b79d408eed4f8.svg#fontcustom") format("svg");
+  src: url("./fontcustom_5dda555f1b48bea1fdfe82fad5412d76.eot");
+  src: url("./fontcustom_5dda555f1b48bea1fdfe82fad5412d76.eot?#iefix") format("embedded-opentype"),
+       url("./fontcustom_5dda555f1b48bea1fdfe82fad5412d76.woff") format("woff"),
+       url("./fontcustom_5dda555f1b48bea1fdfe82fad5412d76.ttf") format("truetype"),
+       url("./fontcustom_5dda555f1b48bea1fdfe82fad5412d76.svg#fontcustom") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -16,7 +16,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "fontcustom";
-    src: url("./fontcustom_6d205049767643f06f0b79d408eed4f8.svg#fontcustom") format("svg");
+    src: url("./fontcustom_5dda555f1b48bea1fdfe82fad5412d76.svg#fontcustom") format("svg");
   }
 }
 
@@ -24,39 +24,55 @@
 
 [data-icon]:before,
 .icon-active-filters:before,
+.icon-addaconverters:before,
 .icon-amplifier-circuits:before,
+.icon-amplifiercircuits:before,
 .icon-analog-integration:before,
+.icon-analogintegratedcircuits:before,
 .icon-audio-video:before,
+.icon-audiovideocircuits:before,
 .icon-capacitors:before,
 .icon-circuit-protection:before,
+.icon-circuitprotection:before,
 .icon-connectors:before,
 .icon-da-converters:before,
 .icon-diodes:before,
+.icon-driversandinterfaces:before,
 .icon-drives-and-interfaces:before,
 .icon-fiber-optics:before,
+.icon-fiberoptics:before,
 .icon-filters:before,
 .icon-inductors:before,
+.icon-inductorscoilschokes:before,
 .icon-interconnect:before,
 .icon-logic:before,
 .icon-memory:before,
 .icon-microcontrollers:before,
+.icon-microcontrollersandprocessors:before,
 .icon-optoelectronics:before,
 .icon-oscillators:before,
 .icon-programmable-logic:before,
+.icon-programmablelogic:before,
 .icon-rc-network:before,
+.icon-rcnetworks:before,
 .icon-regulator:before,
+.icon-regulatorcircuits:before,
 .icon-relays:before,
 .icon-resistors:before,
 .icon-resonators:before,
 .icon-rf-and-microwave:before,
-.icon-sensors:before,
+.icon-rfandmicrowave:before,
+.icon-sensorstransducers:before,
 .icon-sockets:before,
 .icon-switches:before,
+.icon-telecommunicationcircuits:before,
 .icon-telecommunications:before,
 .icon-terminal-blocks:before,
+.icon-terminalblocks:before,
 .icon-transformers:before,
 .icon-transistors:before,
-.icon-trigger-devices:before {
+.icon-trigger-devices:before,
+.icon-triggerdevices:before {
   display: inline-block;
   font-family: "fontcustom";
   font-style: normal;
@@ -72,36 +88,52 @@
 }
 
 .icon-active-filters:before { content: "\f100"; }
+.icon-addaconverters:before { content: "\f123"; }
 .icon-amplifier-circuits:before { content: "\f101"; }
+.icon-amplifiercircuits:before { content: "\f124"; }
 .icon-analog-integration:before { content: "\f102"; }
+.icon-analogintegratedcircuits:before { content: "\f125"; }
 .icon-audio-video:before { content: "\f103"; }
+.icon-audiovideocircuits:before { content: "\f126"; }
 .icon-capacitors:before { content: "\f104"; }
 .icon-circuit-protection:before { content: "\f105"; }
+.icon-circuitprotection:before { content: "\f127"; }
 .icon-connectors:before { content: "\f106"; }
 .icon-da-converters:before { content: "\f107"; }
 .icon-diodes:before { content: "\f108"; }
+.icon-driversandinterfaces:before { content: "\f128"; }
 .icon-drives-and-interfaces:before { content: "\f109"; }
 .icon-fiber-optics:before { content: "\f10a"; }
+.icon-fiberoptics:before { content: "\f129"; }
 .icon-filters:before { content: "\f10b"; }
 .icon-inductors:before { content: "\f10c"; }
+.icon-inductorscoilschokes:before { content: "\f12a"; }
 .icon-interconnect:before { content: "\f10d"; }
 .icon-logic:before { content: "\f10e"; }
 .icon-memory:before { content: "\f10f"; }
 .icon-microcontrollers:before { content: "\f110"; }
+.icon-microcontrollersandprocessors:before { content: "\f12b"; }
 .icon-optoelectronics:before { content: "\f111"; }
 .icon-oscillators:before { content: "\f112"; }
 .icon-programmable-logic:before { content: "\f113"; }
+.icon-programmablelogic:before { content: "\f12c"; }
 .icon-rc-network:before { content: "\f114"; }
+.icon-rcnetworks:before { content: "\f12d"; }
 .icon-regulator:before { content: "\f115"; }
+.icon-regulatorcircuits:before { content: "\f12e"; }
 .icon-relays:before { content: "\f116"; }
 .icon-resistors:before { content: "\f117"; }
 .icon-resonators:before { content: "\f118"; }
 .icon-rf-and-microwave:before { content: "\f119"; }
-.icon-sensors:before { content: "\f11a"; }
+.icon-rfandmicrowave:before { content: "\f12f"; }
+.icon-sensorstransducers:before { content: "\f122"; }
 .icon-sockets:before { content: "\f11b"; }
 .icon-switches:before { content: "\f11c"; }
+.icon-telecommunicationcircuits:before { content: "\f130"; }
 .icon-telecommunications:before { content: "\f11d"; }
 .icon-terminal-blocks:before { content: "\f11e"; }
+.icon-terminalblocks:before { content: "\f131"; }
 .icon-transformers:before { content: "\f11f"; }
 .icon-transistors:before { content: "\f120"; }
 .icon-trigger-devices:before { content: "\f121"; }
+.icon-triggerdevices:before { content: "\f132"; }

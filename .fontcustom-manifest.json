@@ -1,30 +1,46 @@
 {
   "checksum": {
-    "previous": "6d205049767643f06f0b79d408eed4f8bccdf1efcf2cfff88d3da5dc52880c52",
-    "current": "6d205049767643f06f0b79d408eed4f8bccdf1efcf2cfff88d3da5dc52880c52"
+    "previous": "5dda555f1b48bea1fdfe82fad5412d7697708b6a286a543248d80db1332ace09",
+    "current": "5dda555f1b48bea1fdfe82fad5412d7697708b6a286a543248d80db1332ace09"
   },
   "fonts": [
-    "fontcustom/fontcustom_6d205049767643f06f0b79d408eed4f8.ttf",
-    "fontcustom/fontcustom_6d205049767643f06f0b79d408eed4f8.svg",
-    "fontcustom/fontcustom_6d205049767643f06f0b79d408eed4f8.woff",
-    "fontcustom/fontcustom_6d205049767643f06f0b79d408eed4f8.eot"
+    "fontcustom/fontcustom_5dda555f1b48bea1fdfe82fad5412d76.ttf",
+    "fontcustom/fontcustom_5dda555f1b48bea1fdfe82fad5412d76.svg",
+    "fontcustom/fontcustom_5dda555f1b48bea1fdfe82fad5412d76.woff",
+    "fontcustom/fontcustom_5dda555f1b48bea1fdfe82fad5412d76.eot"
   ],
   "glyphs": {
     "active-filters": {
       "codepoint": 61696,
       "source": "svg/active filters.svg"
     },
+    "addaconverters": {
+      "codepoint": 61731,
+      "source": "svg/addaconverters.svg"
+    },
     "amplifier-circuits": {
       "codepoint": 61697,
       "source": "svg/amplifier circuits.svg"
+    },
+    "amplifiercircuits": {
+      "codepoint": 61732,
+      "source": "svg/amplifiercircuits.svg"
     },
     "analog-integration": {
       "codepoint": 61698,
       "source": "svg/analog integration.svg"
     },
+    "analogintegratedcircuits": {
+      "codepoint": 61733,
+      "source": "svg/analogintegratedcircuits.svg"
+    },
     "audio-video": {
       "codepoint": 61699,
       "source": "svg/audio video.svg"
+    },
+    "audiovideocircuits": {
+      "codepoint": 61734,
+      "source": "svg/audiovideocircuits.svg"
     },
     "capacitors": {
       "codepoint": 61700,
@@ -33,6 +49,10 @@
     "circuit-protection": {
       "codepoint": 61701,
       "source": "svg/circuit protection.svg"
+    },
+    "circuitprotection": {
+      "codepoint": 61735,
+      "source": "svg/circuitprotection.svg"
     },
     "connectors": {
       "codepoint": 61702,
@@ -46,6 +66,10 @@
       "codepoint": 61704,
       "source": "svg/diodes.svg"
     },
+    "driversandinterfaces": {
+      "codepoint": 61736,
+      "source": "svg/driversandinterfaces.svg"
+    },
     "drives-and-interfaces": {
       "codepoint": 61705,
       "source": "svg/drives and interfaces.svg"
@@ -54,6 +78,10 @@
       "codepoint": 61706,
       "source": "svg/fiber optics.svg"
     },
+    "fiberoptics": {
+      "codepoint": 61737,
+      "source": "svg/fiberoptics.svg"
+    },
     "filters": {
       "codepoint": 61707,
       "source": "svg/filters.svg"
@@ -61,6 +89,10 @@
     "inductors": {
       "codepoint": 61708,
       "source": "svg/inductors.svg"
+    },
+    "inductorscoilschokes": {
+      "codepoint": 61738,
+      "source": "svg/inductorscoilschokes.svg"
     },
     "interconnect": {
       "codepoint": 61709,
@@ -78,6 +110,10 @@
       "codepoint": 61712,
       "source": "svg/microcontrollers.svg"
     },
+    "microcontrollersandprocessors": {
+      "codepoint": 61739,
+      "source": "svg/microcontrollersandprocessors.svg"
+    },
     "optoelectronics": {
       "codepoint": 61713,
       "source": "svg/optoelectronics.svg"
@@ -90,13 +126,25 @@
       "codepoint": 61715,
       "source": "svg/programmable logic.svg"
     },
+    "programmablelogic": {
+      "codepoint": 61740,
+      "source": "svg/programmablelogic.svg"
+    },
     "rc-network": {
       "codepoint": 61716,
       "source": "svg/rc network.svg"
     },
+    "rcnetworks": {
+      "codepoint": 61741,
+      "source": "svg/rcnetworks.svg"
+    },
     "regulator": {
       "codepoint": 61717,
       "source": "svg/regulator.svg"
+    },
+    "regulatorcircuits": {
+      "codepoint": 61742,
+      "source": "svg/regulatorcircuits.svg"
     },
     "relays": {
       "codepoint": 61718,
@@ -114,9 +162,13 @@
       "codepoint": 61721,
       "source": "svg/rf and microwave.svg"
     },
-    "sensors": {
-      "codepoint": 61722,
-      "source": "svg/sensors.svg"
+    "rfandmicrowave": {
+      "codepoint": 61743,
+      "source": "svg/rfandmicrowave.svg"
+    },
+    "sensorstransducers": {
+      "codepoint": 61730,
+      "source": "svg/sensorstransducers.svg"
     },
     "sockets": {
       "codepoint": 61723,
@@ -126,6 +178,10 @@
       "codepoint": 61724,
       "source": "svg/switches.svg"
     },
+    "telecommunicationcircuits": {
+      "codepoint": 61744,
+      "source": "svg/telecommunicationcircuits.svg"
+    },
     "telecommunications": {
       "codepoint": 61725,
       "source": "svg/telecommunications.svg"
@@ -133,6 +189,10 @@
     "terminal-blocks": {
       "codepoint": 61726,
       "source": "svg/terminal blocks.svg"
+    },
+    "terminalblocks": {
+      "codepoint": 61745,
+      "source": "svg/terminalblocks.svg"
     },
     "transformers": {
       "codepoint": 61727,
@@ -145,6 +205,10 @@
     "trigger-devices": {
       "codepoint": 61729,
       "source": "svg/trigger devices.svg"
+    },
+    "triggerdevices": {
+      "codepoint": 61746,
+      "source": "svg/triggerdevices.svg"
     }
   },
   "options": {

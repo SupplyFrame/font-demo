@@ -1,22 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="44px" height="24px" viewBox="0 0 44 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2 (9961) - http://www.bohemiancoding.com/sketch -->
+    <title>connectors</title>
+    <desc>Created with Sketch.</desc>
     <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="square">
-        <g id="category-icons" transform="translate(-271.000000, -6.000000)" stroke="#CC5555" stroke-width="1.5">
-            <g id="connectors" transform="translate(273.000000, 7.000000)">
-                <path d="M40.464364,5.01611332 L22.5217803,5.01611332" id="Diode-Icon-6"></path>
-                <path d="M18.0000003,4.53579935 L-0.478219697,4.53579935" id="Diode-Icon-7"></path>
-                <path d="M18.5,4.5 L14.5,0.5" id="Line"></path>
-                <path d="M23,5 L18.9644661,0.964466095" id="Line-2"></path>
-                <path d="M18.5,4.5 L13.9644661,9.03553391" id="Line-5"></path>
-                <path d="M23,5 L18.9644661,9.03553391" id="Line-4"></path>
-                <path d="M40.4738594,17.0042994 L22.8493485,17.0042994" id="Diode-Icon-9"></path>
-                <path d="M17.4999998,16.7148554 L-0.461355396,16.7148554" id="Diode-Icon-8"></path>
-                <path d="M18.5,16.5 L14.5,12.5" id="Line-3"></path>
-                <path d="M23,17 L18.9644661,12.9644661" id="Line-6"></path>
-                <path d="M18.5,16.5 L13.9644661,21.0355339" id="Line-7"></path>
-                <path d="M23,17 L18.9644661,21.0355339" id="Line-8"></path>
-            </g>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="connectors" sketch:type="MSLayerGroup" transform="translate(1.000000, 16.000000)" stroke="#CC5555" stroke-width="2">
+            <path d="M57.2603122,6 L32.4824585,6" id="Diode-Icon-6" sketch:type="MSShapeGroup"></path>
+            <path d="M26.2380957,6 L0.720553752,6" id="Diode-Icon-7" sketch:type="MSShapeGroup"></path>
+            <path d="M26.9285714,6.13636364 L21.4047619,0.681818182" id="Line" sketch:type="MSShapeGroup"></path>
+            <path d="M33.1428571,6.81818182 L27.569977,1.31518104" id="Line-2" sketch:type="MSShapeGroup"></path>
+            <path d="M26.9285714,5.13636364 L20.6652151,11.3211826" id="Line-5" sketch:type="MSShapeGroup"></path>
+            <path d="M33.1428571,5.81818182 L27.569977,11.3211826" id="Line-4" sketch:type="MSShapeGroup"></path>
+            <path d="M57.2734249,23 L32.9348146,23" id="Diode-Icon-9" sketch:type="MSShapeGroup"></path>
+            <path d="M25.5476188,22 L0.743842548,22" id="Diode-Icon-8" sketch:type="MSShapeGroup"></path>
+            <path d="M26.9285714,22.5 L21.4047619,17.0454545" id="Line-3" sketch:type="MSShapeGroup"></path>
+            <path d="M33.1428571,23.1818182 L27.569977,17.6788174" id="Line-6" sketch:type="MSShapeGroup"></path>
+            <path d="M26.9285714,21.5 L20.6652151,27.684819" id="Line-7" sketch:type="MSShapeGroup"></path>
+            <path d="M33.1428571,22.1818182 L27.569977,27.684819" id="Line-8" sketch:type="MSShapeGroup"></path>
         </g>
     </g>
 </svg>

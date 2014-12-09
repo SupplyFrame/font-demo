@@ -1,15 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="43px" height="21px" viewBox="0 0 43 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2 (9961) - http://www.bohemiancoding.com/sketch -->
+    <title>logic</title>
+    <desc>Created with Sketch.</desc>
     <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="category-icons" transform="translate(-667.000000, -312.000000)" stroke="#CC5555" stroke-width="1.5">
-            <g id="logic" transform="translate(668.000000, 312.000000)">
-                <path d="M6.08,-1.24196449e-13 C6.08,-1.24196449e-13 10.1333333,7.23827465 10.1333333,10.857412 C10.1333333,14.2061801 6.08,20.9037162 6.08,20.9037162 C6.08,20.9037162 13.4293056,20.9037162 16.2133333,20.9037162 C18.9973611,20.9037162 29.7244444,16.3609685 29.7244444,10.6859362 C29.7244444,5.01090384 22.2141667,1.41433189e-08 16.2133333,-1.24196449e-13 C10.2125,-1.41435671e-08 6.08,-1.24196449e-13 6.08,-1.24196449e-13 Z" id="Rectangle-52"></path>
-                <path d="M34.44,10.3125 L40.7733333,10.3125" id="Line" stroke-linecap="square"></path>
-                <path d="M0.337777778,4.3125 L8.57111111,4.3125" id="Line-82" stroke-linecap="square"></path>
-                <path d="M0.337777778,15.5625 L8.57111111,15.5625" id="Line-85" stroke-linecap="square"></path>
-                <ellipse id="Oval-27" cx="32.0755556" cy="10.4518581" rx="2.02666667" ry="2.09037162"></ellipse>
-            </g>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="logic" sketch:type="MSLayerGroup" transform="translate(1.000000, 16.000000)" stroke="#CC5555" stroke-width="2">
+            <path d="M8.60097561,0.409090909 C8.60097561,0.409090909 14.3349593,10.6084779 14.3349593,15.7081715 C14.3349593,20.4268901 8.60097561,29.8643274 8.60097561,29.8643274 L22.9359349,29.8643274 C26.8743157,29.8643274 42.049214,23.4631829 42.049214,15.4665465 C42.049214,7.46990996 31.4249187,0.409090929 22.9359349,0.409090909 C14.4469512,0.409090889 8.60097561,0.409090909 8.60097561,0.409090909 L8.60097561,0.409090909 Z" id="Rectangle-52" sketch:type="MSShapeGroup"></path>
+            <path d="M48.72,15 L57.6793495,15" id="Line" sketch:type="MSShapeGroup"></path>
+            <path d="M0.477831979,9 L12.1249864,9" id="Line-82" sketch:type="MSShapeGroup"></path>
+            <path d="M0.477831979,22 L12.1249864,22" id="Line-85" sketch:type="MSShapeGroup"></path>
+            <ellipse id="Oval-27" sketch:type="MSShapeGroup" cx="45.3751762" cy="15.1367091" rx="2.86699187" ry="2.94552365"></ellipse>
         </g>
     </g>
 </svg>

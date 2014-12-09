@@ -1,17 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="51px" height="52px" viewBox="0 0 51 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2 (9961) - http://www.bohemiancoding.com/sketch -->
+    <title>drives and interfaces</title>
+    <desc>Created with Sketch.</desc>
     <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="category-icons" transform="translate(-794.000000, -449.000000)" stroke="#CC5555">
-            <g id="drives-and-interfaces" transform="translate(796.000000, 449.000000)">
-                <rect id="Rectangle-62" stroke-width="1.5" x="3" y="0" width="40" height="50"></rect>
-                <path d="M-0.314453125,6.546875 L17.3764133,6.546875 L17.3764133,16.757232 L34.0192155,16.757232 L34.0192155,36.8749827 L18.5880324,36.8749827 L18.5880324,26.4531206 L-0.251953125,26.4531206" id="Path-183"></path>
-                <path d="M-0.44140625,39.9121094 L19.1909441,39.9121094 L19.1909441,32.2734367 L32.6464844,32.2734367 L46.7277657,32.2734367" id="Path-184"></path>
-                <path d="M-0.03125,16.4023438 L20.1171875,16.4023438 L20.1171875,9.34570312 L47.6476655,9.34570312" id="Path-185"></path>
-                <path d="M17,43 L17,37 L23,40 L17,43 Z" id="Triangle-1" fill="#CC5555"></path>
-                <path d="M25,20 L25,14 L31,17 L25,20 Z" id="Triangle-2" fill="#CC5555" transform="translate(28.000000, 17.000000) rotate(-180.000000) translate(-28.000000, -17.000000) "></path>
-                <path d="M29.3632813,8.89453125 L29.3632813,36.5394514" id="Path-186"></path>
-            </g>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="drives-and-interfaces" sketch:type="MSLayerGroup" transform="translate(3.000000, 2.000000)">
+            <rect id="Rectangle-62" stroke="#CC5555" stroke-width="2.24" sketch:type="MSShapeGroup" x="4.48979592" y="0" width="44.8979592" height="56"></rect>
+            <path d="M0.76949139,10.3325 L20.6265864,10.3325 L20.6265864,21.7680998 L39.3072827,21.7680998 L39.3072827,44.2999806 L21.986567,44.2999806 L21.986567,32.6274951 L0.839644452,32.6274951" id="Path-183" stroke="#CC5555" stroke-width="1.12" sketch:type="MSShapeGroup"></path>
+            <path d="M0.626992985,48.7015625 L22.6633046,48.7015625 L22.6633046,40.1462491 L37.7664621,40.1462491 L53.5719819,40.1462491" id="Path-184" stroke="#CC5555" stroke-width="1.12" sketch:type="MSShapeGroup"></path>
+            <path d="M1.08737245,18.3706251 L23.7029656,18.3706251 L23.7029656,10.4671875 L54.6045225,10.4671875" id="Path-185" stroke="#CC5555" stroke-width="1.12" sketch:type="MSShapeGroup"></path>
+            <path d="M20.2040816,52.16 L20.2040816,45.44 L26.9387755,48.8 L20.2040816,52.16 L20.2040816,52.16 Z" id="Triangle-1" fill="#CC5555" sketch:type="MSShapeGroup"></path>
+            <path d="M35.7966102,6.68 L35.7966102,13.4 L29.0847458,10.04 L35.7966102,6.68 L35.7966102,6.68 Z" id="Triangle-2" fill="#CC5555" sketch:type="MSShapeGroup"></path>
+            <path d="M33.6734694,9.961875 L33.6734694,40.9241856" id="Path-186" stroke="#CC5555" stroke-width="1.12" sketch:type="MSShapeGroup"></path>
         </g>
     </g>
 </svg>

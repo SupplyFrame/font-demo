@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "843af96468cf7391740474aef3ddcc418e634ba8d8464c7d63cb0e4404541dad",
-    "current": "843af96468cf7391740474aef3ddcc418e634ba8d8464c7d63cb0e4404541dad"
+    "previous": "6d205049767643f06f0b79d408eed4f8bccdf1efcf2cfff88d3da5dc52880c52",
+    "current": "6d205049767643f06f0b79d408eed4f8bccdf1efcf2cfff88d3da5dc52880c52"
   },
   "fonts": [
-    "fontcustom/fontcustom_843af96468cf7391740474aef3ddcc41.ttf",
-    "fontcustom/fontcustom_843af96468cf7391740474aef3ddcc41.svg",
-    "fontcustom/fontcustom_843af96468cf7391740474aef3ddcc41.woff",
-    "fontcustom/fontcustom_843af96468cf7391740474aef3ddcc41.eot"
+    "fontcustom/fontcustom_6d205049767643f06f0b79d408eed4f8.ttf",
+    "fontcustom/fontcustom_6d205049767643f06f0b79d408eed4f8.svg",
+    "fontcustom/fontcustom_6d205049767643f06f0b79d408eed4f8.woff",
+    "fontcustom/fontcustom_6d205049767643f06f0b79d408eed4f8.eot"
   ],
   "glyphs": {
     "active-filters": {
@@ -159,8 +159,8 @@
     "font_name": "fontcustom",
     "force": false,
     "input": {
-      "templates": "svg",
-      "vectors": "svg"
+      "templates": "svg/",
+      "vectors": "svg/"
     },
     "no_hash": false,
     "output": {
@@ -170,7 +170,6 @@
     },
     "preprocessor_path": null,
     "quiet": false,
-    "skip_first": false,
     "templates": [
       "css",
       "preview"

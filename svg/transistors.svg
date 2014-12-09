@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="41px" height="52px" viewBox="0 0 41 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2 (9961) - http://www.bohemiancoding.com/sketch -->
+    <title>transistors</title>
+    <desc>Created with Sketch.</desc>
     <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="category-icons" transform="translate(-139.000000, -295.000000)">
-            <g id="transistors" transform="translate(140.000000, 296.000000)">
-                <ellipse id="Oval-7" fill="#CC5555" cx="22.5730776" cy="18.2457409" rx="1.42692238" ry="1.2295082"></ellipse>
-                <ellipse id="Oval-8" fill="#CC5555" cx="23.4220693" cy="31.12289" rx="1.23913043" ry="1.2295082"></ellipse>
-                <path d="M11.8955478,31.12289 C11.8955478,30.4438514 11.3966407,29.8933818 10.7812076,29.8933818 C10.1657745,29.8933818 9.66686736,30.4438514 9.66686736,31.12289 C9.66686736,31.8019286 10.1657745,32.3523982 10.7812076,32.3523982 C11.3966407,32.3523982 11.8955478,31.8019286 11.8955478,31.12289 Z" id="Oval-13" fill="#CC5555"></path>
-                <ellipse id="Oval-14" stroke="#CC5555" stroke-width="1.5" cx="1.11189235" cy="31.2730764" rx="1.35897954" ry="1.37969455"></ellipse>
-                <path d="M24.122304,48.4519838 C24.1076416,47.546599 23.3089776,46.8126395 22.3384379,46.8126395 C21.3678982,46.8126395 20.5930066,47.546599 20.607669,48.4519838 C20.6223314,49.3573686 21.4209955,50.0913281 22.3915351,50.0913281 C23.3620748,50.0913281 24.1369664,49.3573686 24.122304,48.4519838 Z" id="Oval-15" stroke="#CC5555" stroke-width="1.5"></path>
-                <ellipse id="Oval-16" stroke="#CC5555" stroke-width="1.5" cx="23.0090258" cy="1.3765453" rx="1.65217391" ry="1.63934426"></ellipse>
-                <path d="M13.8369565,15.9666115 L13.8369565,19.2778784" id="Line" stroke="#CC5555" stroke-width="1.5" stroke-linecap="square"></path>
-                <path d="M13.8369565,22.405186 L13.8369565,25.716453" id="Line-54" stroke="#CC5555" stroke-width="1.5" stroke-linecap="square"></path>
-                <path d="M13.8369565,29.6634327 L13.8369565,32.9746996" id="Line-55" stroke="#CC5555" stroke-width="1.5" stroke-linecap="square"></path>
-                <path d="M14.2555581,17.8278689 L32.3633724,17.8278689" id="Line" stroke="#CC5555" stroke-width="1.5" stroke-linecap="square"></path>
-                <path d="M15.1943359,24.2582728 L22.5524345,24.2582728" id="Line-58" stroke="#CC5555" stroke-width="1.5" stroke-linecap="square"></path>
-                <path id="Line-58-decoration-1" d="M22.5524345,27.2582728 C22.5524345,26.2082728 19.7743359,25.3082728 15.9943359,24.2582728 C19.7743359,23.2082728 22.5524345,22.3082728 22.5524345,21.2582728" stroke="#CC5555" stroke-width="1.5" stroke-linecap="square"></path>
-                <path d="M14.2555581,30.942623 L32.3633724,30.942623" id="Line-56" stroke="#CC5555" stroke-width="1.5" stroke-linecap="square"></path>
-                <path d="M2.4502813,30.8060109 L11.2984178,30.8060109" id="Line-73" stroke="#CC5555" stroke-width="1.5" stroke-linecap="square"></path>
-                <path d="M32.0108696,18.607258 L32.0108696,30.6705124" id="Line" stroke="#CC5555" stroke-width="1.5" stroke-linecap="square"></path>
-                <path d="M32.0108696,23.2248582 L32.0108696,29.4414129" id="Line-59" stroke="#CC5555" stroke-width="1.5" stroke-linecap="square"></path>
-                <path id="Line-59-decoration-1" d="M29.0108696,29.4414129 C30.0608696,29.4414129 30.9608696,27.8048582 32.0108696,24.0248582 C33.0608696,27.8048582 33.9608696,29.4414129 35.0108696,29.4414129" stroke="#CC5555" stroke-width="1.5" stroke-linecap="square"></path>
-                <path d="M22.6440927,25.0644509 L22.6440927,45.9040023" id="Line-57" stroke="#CC5555" stroke-width="1.5" stroke-linecap="square"></path>
-                <path d="M22.6440927,4.00610953 L22.6440927,17.1283861" id="Line-71" stroke="#CC5555" stroke-width="1.5" stroke-linecap="square"></path>
-                <path d="M11.2497072,16.7833528 L11.2497072,30.5811267" id="Line-72" stroke="#CC5555" stroke-width="1.5" stroke-linecap="square"></path>
-                <ellipse id="Oval-12" stroke="#CC5555" stroke-width="1.5" cx="21.8397622" cy="25.4257995" rx="16.5273876" ry="16.5563345"></ellipse>
-            </g>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="transistors" sketch:type="MSLayerGroup" transform="translate(7.000000, 2.000000)">
+            <circle id="Oval-7" fill="#CC5555" sketch:type="MSShapeGroup" cx="25.9144246" cy="19.0950288" r="2"></circle>
+            <circle id="Oval-8" fill="#CC5555" sketch:type="MSShapeGroup" cx="26.0808062" cy="33.4580028" r="2"></circle>
+            <path d="M16.0002258,32.4580028 C16.0002258,31.3534333 15.1047953,30.4580028 14.0002258,30.4580028 C12.8956563,30.4580028 12.0002258,31.3534333 12.0002258,32.4580028 C12.0002258,33.5625722 12.8956563,34.4580028 14.0002258,34.4580028 C15.1047953,34.4580028 16.0002258,33.5625722 16.0002258,32.4580028 L16.0002258,32.4580028 Z" id="Oval-13" fill="#CC5555" sketch:type="MSShapeGroup"></path>
+            <circle id="Oval-14" stroke="#CC5555" stroke-width="2" sketch:type="MSShapeGroup" cx="2.84702691" cy="34.4580028" r="2"></circle>
+            <path d="M27.3081644,53.3294825 C27.2914791,52.2249131 26.3826269,51.3294825 25.2781859,51.3294825 C24.173745,51.3294825 23.291945,52.2249131 23.3086303,53.3294825 C23.3253156,54.4340519 24.234168,55.3294825 25.3386087,55.3294825 C26.4430496,55.3294825 27.3248497,54.4340519 27.3081644,53.3294825 L27.3081644,53.3294825 Z" id="Oval-15" stroke="#CC5555" stroke-width="2" sketch:type="MSShapeGroup"></path>
+            <circle id="Oval-16" stroke="#CC5555" stroke-width="2" sketch:type="MSShapeGroup" cx="26.1514584" cy="2.8222627" r="2"></circle>
+            <path d="M17,16.9242974 L17,20.9242974" id="Line" stroke="#CC5555" stroke-width="2" sketch:type="MSShapeGroup"></path>
+            <path d="M18,25.1057844 L18,29.1057844" id="Line-54" stroke="#CC5555" stroke-width="2" sketch:type="MSShapeGroup"></path>
+            <path d="M18,31.2015211 L18,35.2015211" id="Line-55" stroke="#CC5555" stroke-width="2" sketch:type="MSShapeGroup"></path>
+            <path d="M16.1625029,19 L36.533794,19" id="Line" stroke="#CC5555" stroke-width="2" sketch:type="MSShapeGroup"></path>
+            <path d="M18.2186279,27 L26.4964888,27" id="Line-58" stroke="#CC5555" stroke-width="2" sketch:type="MSShapeGroup"></path>
+            <path d="M25.4964888,30.5188427 C25.4964888,29.3476889 22.3711279,28.3438427 18.1186279,27.1726889 C22.3711279,26.001535 25.4964888,24.9976889 25.4964888,23.826535" id="Line-58-decoration-1" stroke="#CC5555" stroke-width="2" sketch:type="MSShapeGroup"></path>
+            <path d="M18.1625029,33 L38.533794,33" id="Line-56" stroke="#CC5555" stroke-width="2" sketch:type="MSShapeGroup"></path>
+            <path d="M4.88156646,33 L14.83572,33" id="Line-73" stroke="#CC5555" stroke-width="2" sketch:type="MSShapeGroup"></path>
+            <path d="M38,20.8696339 L38,34.3248023" id="Line" stroke="#CC5555" stroke-width="2" sketch:type="MSShapeGroup"></path>
+            <path d="M34.7622283,26.9538836 C35.9434783,26.9538836 36.9559783,25.1284957 38.1372283,20.9123418 C39.3184783,25.1284957 40.3309783,26.9538836 41.5122283,26.9538836" id="Line-59-decoration-1" stroke="#CC5555" stroke-width="2" sketch:type="MSShapeGroup"></path>
+            <path d="M26,28.0718875 L26,51.3160026" id="Line-57" stroke="#CC5555" stroke-width="2" sketch:type="MSShapeGroup"></path>
+            <path d="M26,5 L26,19.6363854" id="Line-71" stroke="#CC5555" stroke-width="2" sketch:type="MSShapeGroup"></path>
+            <path d="M14,18.8352781 L14,34.2251029" id="Line-72" stroke="#CC5555" stroke-width="2" sketch:type="MSShapeGroup"></path>
+            <ellipse id="Oval-12" stroke="#CC5555" stroke-width="2" sketch:type="MSShapeGroup" cx="26.5933111" cy="28.4666808" rx="18.5933111" ry="18.4666808"></ellipse>
         </g>
     </g>
 </svg>

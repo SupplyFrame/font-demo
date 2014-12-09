@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="42px" height="39px" viewBox="0 0 42 39" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2 (9961) - http://www.bohemiancoding.com/sketch -->
+    <title>optoelectronics</title>
+    <desc>Created with Sketch.</desc>
     <defs></defs>
-    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="square">
-        <g id="category-icons" transform="translate(-140.000000, -147.000000)" stroke="#CC5555" stroke-width="1.5">
-            <g id="optoelectronics" transform="translate(141.000000, 150.000000)">
-                <g id="Line-+-Line-49" transform="translate(15.625000, 0.000000)">
-                    <path d="M0.3125,11.2264151 L5.11098869,0.00871491032" id="Line"></path>
-                    <path id="Line-decoration-1" d="M3.54269148,11.3029853 C4.06393951,7.41464364 4.51072353,4.0817794 5.03197155,0.193437785 C2.5799525,3.25587188 0.47822188,5.88081538 -1.97379717,8.94324948"></path>
-                    <path d="M5.3125,13.7924528 L10.5897025,2.7393929" id="Line-49"></path>
-                    <path id="Line-49-decoration-1" d="M8.53678963,14.0021106 C9.21787712,10.1385604 9.8016664,6.82694603 10.4827539,2.96339587 C7.90658143,5.9221516 5.69843361,8.45822793 3.12226115,11.4169837"></path>
-                </g>
-                <path d="M39.9862939,23.3603313 L30.6112939,23.3603313 M9.12425826,23.3603313 L-0.250741744,23.3603313 M9.65702399,34 L9.65702399,12.7206627 L28.8133707,23.3603313 L9.65702399,34 Z M29.3987036,12.3660071 L29.3987036,33.7501687" id="Diode-Icon-6"></path>
-            </g>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="optoelectronics" sketch:type="MSLayerGroup" transform="translate(2.000000, 6.000000)" stroke="#CC5555" stroke-width="2">
+            <path d="M22.9603659,15.8490566 L29.7484718,0.0123034028" id="Line" sketch:type="MSShapeGroup"></path>
+            <path d="M27.529905,15.9571557 C28.2672803,10.4677322 28.8993162,5.76251209 29.6366915,0.273088638 C26.1679816,4.59652501 23.1948017,8.3023276 19.7260918,12.625764" id="Line-decoration-1" sketch:type="MSShapeGroup"></path>
+            <path d="M30.0335366,19.4716981 L37.4988474,3.86737821" id="Line-49" sketch:type="MSShapeGroup"></path>
+            <path d="M34.5947268,19.7676856 C35.5582164,14.3132617 36.3840647,9.63804145 37.3475543,4.1836177 C33.7032128,8.36068461 30.5794914,11.9410277 26.9351499,16.1180946" id="Line-49-decoration-1" sketch:type="MSShapeGroup"></path>
+            <path d="M56.7184158,32.9792912 L42.7184158,32.9792912 L56.7184158,32.9792912 Z M13.3221214,32.9792912 L0.0599263134,32.9792912 L13.3221214,32.9792912 Z M14.07579,48 L14.07579,17.9585826 L41.1750122,32.9792912 L14.07579,48 L14.07579,48 Z M42.0030441,17.4578924 L42.0030441,47.647297 L42.0030441,17.4578924 Z" id="Diode-Icon-6" sketch:type="MSShapeGroup"></path>
         </g>
     </g>
 </svg>

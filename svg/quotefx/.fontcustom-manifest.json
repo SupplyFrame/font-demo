@@ -1,0 +1,90 @@
+{
+  "checksum": {
+    "previous": "15ec79848f131aa58ca03ca29dc6bbf93865b7135b3a887641ce624718231b35",
+    "current": "15ec79848f131aa58ca03ca29dc6bbf93865b7135b3a887641ce624718231b35"
+  },
+  "fonts": [
+    "fontcustom/fontcustom_15ec79848f131aa58ca03ca29dc6bbf9.ttf",
+    "fontcustom/fontcustom_15ec79848f131aa58ca03ca29dc6bbf9.svg",
+    "fontcustom/fontcustom_15ec79848f131aa58ca03ca29dc6bbf9.woff",
+    "fontcustom/fontcustom_15ec79848f131aa58ca03ca29dc6bbf9.eot"
+  ],
+  "glyphs": {
+    "add": {
+      "codepoint": 61707,
+      "source": "./add.svg"
+    },
+    "arrow-down": {
+      "codepoint": 61708,
+      "source": "./arrow-down.svg"
+    },
+    "arrow-up": {
+      "codepoint": 61709,
+      "source": "./arrow-up.svg"
+    },
+    "arrow-up-down": {
+      "codepoint": 61710,
+      "source": "./arrow-up-down.svg"
+    },
+    "calendar": {
+      "codepoint": 61717,
+      "source": "./calendar.svg"
+    },
+    "close": {
+      "codepoint": 61711,
+      "source": "./close.svg"
+    },
+    "file": {
+      "codepoint": 61712,
+      "source": "./file.svg"
+    },
+    "reload": {
+      "codepoint": 61713,
+      "source": "./reload.svg"
+    },
+    "search": {
+      "codepoint": 61714,
+      "source": "./search.svg"
+    },
+    "sidebar-hide": {
+      "codepoint": 61715,
+      "source": "./sidebar-hide.svg"
+    },
+    "sidebar-show": {
+      "codepoint": 61716,
+      "source": "./sidebar-show.svg"
+    }
+  },
+  "options": {
+    "autowidth": false,
+    "config": false,
+    "css_selector": ".icon-{{glyph}}",
+    "debug": false,
+    "font_ascent": 448,
+    "font_descent": 64,
+    "font_design_size": 16,
+    "font_em": 512,
+    "font_name": "fontcustom",
+    "force": false,
+    "input": {
+      "templates": ".",
+      "vectors": "."
+    },
+    "no_hash": false,
+    "output": {
+      "css": "fontcustom",
+      "fonts": "fontcustom",
+      "preview": "fontcustom"
+    },
+    "preprocessor_path": null,
+    "quiet": false,
+    "templates": [
+      "css",
+      "preview"
+    ]
+  },
+  "templates": [
+    "fontcustom/fontcustom.css",
+    "fontcustom/fontcustom-preview.html"
+  ]
+}

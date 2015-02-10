@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "bfdc32a1c323e77e73bd2b3d5252db10081a50f1deb580b245ed0bd18d6d091a",
-    "current": "bfdc32a1c323e77e73bd2b3d5252db10081a50f1deb580b245ed0bd18d6d091a"
+    "previous": "cae58e1554ae9b411030d366761ae1bba4aff2e67f95286fd36778b4d3fcd3a6",
+    "current": "cae58e1554ae9b411030d366761ae1bba4aff2e67f95286fd36778b4d3fcd3a6"
   },
   "fonts": [
-    "fontcustom/fontcustom_bfdc32a1c323e77e73bd2b3d5252db10.ttf",
-    "fontcustom/fontcustom_bfdc32a1c323e77e73bd2b3d5252db10.svg",
-    "fontcustom/fontcustom_bfdc32a1c323e77e73bd2b3d5252db10.woff",
-    "fontcustom/fontcustom_bfdc32a1c323e77e73bd2b3d5252db10.eot"
+    "fontcustom/fontcustom_cae58e1554ae9b411030d366761ae1bb.ttf",
+    "fontcustom/fontcustom_cae58e1554ae9b411030d366761ae1bb.svg",
+    "fontcustom/fontcustom_cae58e1554ae9b411030d366761ae1bb.woff",
+    "fontcustom/fontcustom_cae58e1554ae9b411030d366761ae1bb.eot"
   ],
   "glyphs": {
     "active-filters": {

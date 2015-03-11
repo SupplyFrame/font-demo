@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="54px" height="69px" viewBox="0 0 54 69" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.2.2 (9983) - http://www.bohemiancoding.com/sketch -->
+    <title>location</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="location" sketch:type="MSLayerGroup" transform="translate(3.000000, 3.000000)" stroke="#383E49" stroke-width="6">
+            <path d="M0,22.0170455 C0,43.0389205 24,62 24,62 C24,62 48,43.0389205 48,22.0170455 C48,9.85747159 37.25472,0 24,0 C10.74336,0 0,9.85835227 0,22.0170455 Z" id="Path" sketch:type="MSShapeGroup"></path>
+            <path d="M11.04,23.4809343 C11.04,16.2519895 16.84128,10.3920455 24,10.3920455 C31.1568,10.3920455 36.96,16.2519895 36.96,23.4809343 C36.96,30.7098792 31.1568,36.5698232 24,36.5698232 C16.84128,36.5698232 11.04,30.7098792 11.04,23.4809343 Z" id="Path" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

@@ -4,11 +4,11 @@
 
 @font-face {
   font-family: "fontcustom";
-  src: url("./fontcustom_6a7c40ce4814cdd32f9e7734f89f6dd1.eot");
-  src: url("./fontcustom_6a7c40ce4814cdd32f9e7734f89f6dd1.eot?#iefix") format("embedded-opentype"),
-       url("./fontcustom_6a7c40ce4814cdd32f9e7734f89f6dd1.woff") format("woff"),
-       url("./fontcustom_6a7c40ce4814cdd32f9e7734f89f6dd1.ttf") format("truetype"),
-       url("./fontcustom_6a7c40ce4814cdd32f9e7734f89f6dd1.svg#fontcustom") format("svg");
+  src: url("./fontcustom_6dfd0d5fdb330ce02c8105ee33e295df.eot");
+  src: url("./fontcustom_6dfd0d5fdb330ce02c8105ee33e295df.eot?#iefix") format("embedded-opentype"),
+       url("./fontcustom_6dfd0d5fdb330ce02c8105ee33e295df.woff") format("woff"),
+       url("./fontcustom_6dfd0d5fdb330ce02c8105ee33e295df.ttf") format("truetype"),
+       url("./fontcustom_6dfd0d5fdb330ce02c8105ee33e295df.svg#fontcustom") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -16,7 +16,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "fontcustom";
-    src: url("./fontcustom_6a7c40ce4814cdd32f9e7734f89f6dd1.svg#fontcustom") format("svg");
+    src: url("./fontcustom_6dfd0d5fdb330ce02c8105ee33e295df.svg#fontcustom") format("svg");
   }
 }
 
@@ -30,8 +30,13 @@
 .icon-arrow-up-down:before,
 .icon-calendar:before,
 .icon-close:before,
+.icon-edit:before,
+.icon-email:before,
 .icon-file:before,
 .icon-info:before,
+.icon-list:before,
+.icon-location:before,
+.icon-phone:before,
 .icon-reload:before,
 .icon-search:before,
 .icon-sidebar-hide:before,
@@ -59,8 +64,13 @@
 .icon-arrow-up-down:before { content: "\f10e"; }
 .icon-calendar:before { content: "\f115"; }
 .icon-close:before { content: "\f10f"; }
+.icon-edit:before { content: "\f11a"; }
+.icon-email:before { content: "\f11b"; }
 .icon-file:before { content: "\f110"; }
 .icon-info:before { content: "\f116"; }
+.icon-list:before { content: "\f11c"; }
+.icon-location:before { content: "\f11d"; }
+.icon-phone:before { content: "\f11e"; }
 .icon-reload:before { content: "\f111"; }
 .icon-search:before { content: "\f112"; }
 .icon-sidebar-hide:before { content: "\f113"; }

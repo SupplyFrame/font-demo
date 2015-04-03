@@ -1,0 +1,78 @@
+{
+  "checksum": {
+    "previous": "092d1300703801e34db591c2fc0e1042b66f5375c6da7e209d75917fe03c65c4",
+    "current": "092d1300703801e34db591c2fc0e1042b66f5375c6da7e209d75917fe03c65c4"
+  },
+  "fonts": [
+    "fontcustom/fontcustom_092d1300703801e34db591c2fc0e1042.ttf",
+    "fontcustom/fontcustom_092d1300703801e34db591c2fc0e1042.svg",
+    "fontcustom/fontcustom_092d1300703801e34db591c2fc0e1042.woff",
+    "fontcustom/fontcustom_092d1300703801e34db591c2fc0e1042.eot"
+  ],
+  "glyphs": {
+    "arrowdown": {
+      "codepoint": 61696,
+      "source": "./arrowdown.svg"
+    },
+    "arrowleft": {
+      "codepoint": 61697,
+      "source": "./arrowleft.svg"
+    },
+    "arrowright": {
+      "codepoint": 61698,
+      "source": "./arrowright.svg"
+    },
+    "arrowup": {
+      "codepoint": 61699,
+      "source": "./arrowup.svg"
+    },
+    "back": {
+      "codepoint": 61700,
+      "source": "./back.svg"
+    },
+    "edit": {
+      "codepoint": 61701,
+      "source": "./edit.svg"
+    },
+    "hadlogo": {
+      "codepoint": 61702,
+      "source": "./hadlogo.svg"
+    },
+    "search": {
+      "codepoint": 61703,
+      "source": "./search.svg"
+    }
+  },
+  "options": {
+    "autowidth": false,
+    "config": false,
+    "css_selector": ".icon-{{glyph}}",
+    "debug": false,
+    "font_ascent": 448,
+    "font_descent": 64,
+    "font_design_size": 16,
+    "font_em": 512,
+    "font_name": "fontcustom",
+    "force": false,
+    "input": {
+      "templates": ".",
+      "vectors": "."
+    },
+    "no_hash": false,
+    "output": {
+      "css": "fontcustom",
+      "fonts": "fontcustom",
+      "preview": "fontcustom"
+    },
+    "preprocessor_path": null,
+    "quiet": false,
+    "templates": [
+      "css",
+      "preview"
+    ]
+  },
+  "templates": [
+    "fontcustom/fontcustom.css",
+    "fontcustom/fontcustom-preview.html"
+  ]
+}

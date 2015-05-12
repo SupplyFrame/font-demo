@@ -1,0 +1,111 @@
+/*
+  Icon Font: fontcustom
+*/
+
+@font-face {
+  font-family: "fontcustom";
+  src: url("./fontcustom_af4eff02840830f38944d8f5d416114a.eot");
+  src: url("./fontcustom_af4eff02840830f38944d8f5d416114a.eot?#iefix") format("embedded-opentype"),
+       url("./fontcustom_af4eff02840830f38944d8f5d416114a.woff") format("woff"),
+       url("./fontcustom_af4eff02840830f38944d8f5d416114a.ttf") format("truetype"),
+       url("./fontcustom_af4eff02840830f38944d8f5d416114a.svg#fontcustom") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "fontcustom";
+    src: url("./fontcustom_af4eff02840830f38944d8f5d416114a.svg#fontcustom") format("svg");
+  }
+}
+
+[data-icon]:before { content: attr(data-icon); }
+
+[data-icon]:before,
+.icon-add:before,
+.icon-alert:before,
+.icon-arrowdown:before,
+.icon-arrowleft:before,
+.icon-arrowright:before,
+.icon-arrowup:before,
+.icon-calendar:before,
+.icon-calendaradd:before,
+.icon-circleprogress:before,
+.icon-close:before,
+.icon-completed:before,
+.icon-discussions:before,
+.icon-eye:before,
+.icon-facebook:before,
+.icon-feed:before,
+.icon-follow:before,
+.icon-githublogo:before,
+.icon-googleplus:before,
+.icon-importimage:before,
+.icon-list:before,
+.icon-location:before,
+.icon-longarrowdown:before,
+.icon-longarrowleft:before,
+.icon-longarrowright:before,
+.icon-longarrowup:before,
+.icon-messages:before,
+.icon-options:before,
+.icon-page:before,
+.icon-project-update:before,
+.icon-search:before,
+.icon-skull:before,
+.icon-star:before,
+.icon-twitter:before,
+.icon-twitterlogo:before,
+.icon-user:before,
+.icon-users:before {
+  display: inline-block;
+  font-family: "fontcustom";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+}
+
+.icon-add:before { content: "\f100"; }
+.icon-alert:before { content: "\f101"; }
+.icon-arrowdown:before { content: "\f102"; }
+.icon-arrowleft:before { content: "\f103"; }
+.icon-arrowright:before { content: "\f104"; }
+.icon-arrowup:before { content: "\f105"; }
+.icon-calendar:before { content: "\f106"; }
+.icon-calendaradd:before { content: "\f107"; }
+.icon-circleprogress:before { content: "\f108"; }
+.icon-close:before { content: "\f109"; }
+.icon-completed:before { content: "\f10a"; }
+.icon-discussions:before { content: "\f10b"; }
+.icon-eye:before { content: "\f10c"; }
+.icon-facebook:before { content: "\f10d"; }
+.icon-feed:before { content: "\f10e"; }
+.icon-follow:before { content: "\f10f"; }
+.icon-githublogo:before { content: "\f110"; }
+.icon-googleplus:before { content: "\f111"; }
+.icon-importimage:before { content: "\f112"; }
+.icon-list:before { content: "\f113"; }
+.icon-location:before { content: "\f114"; }
+.icon-longarrowdown:before { content: "\f115"; }
+.icon-longarrowleft:before { content: "\f116"; }
+.icon-longarrowright:before { content: "\f117"; }
+.icon-longarrowup:before { content: "\f118"; }
+.icon-messages:before { content: "\f119"; }
+.icon-options:before { content: "\f11a"; }
+.icon-page:before { content: "\f11b"; }
+.icon-project-update:before { content: "\f11c"; }
+.icon-search:before { content: "\f11d"; }
+.icon-skull:before { content: "\f11e"; }
+.icon-star:before { content: "\f11f"; }
+.icon-twitter:before { content: "\f120"; }
+.icon-twitterlogo:before { content: "\f121"; }
+.icon-user:before { content: "\f122"; }
+.icon-users:before { content: "\f123"; }

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="74px" height="74px" viewBox="0 0 74 74" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.1 (12002) - http://www.bohemiancoding.com/sketch -->
+    <title>circleprogress</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icons-/-Resources" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <path d="M6.93865625,37 C6.93865625,53.6025937 20.3974063,67.0625 37.0011563,67.0625 C45.301875,67.0625 52.8175,63.6978125 58.2576562,58.2576562 L37,37 L37,6.9375 C20.3974063,6.9375 6.93865625,20.3974062 6.93865625,37 L6.93865625,37 Z M37.0011563,74 C16.5655937,74 0,57.4344063 0,37 C0,16.5655937 16.5655937,0 37.0011563,0 C57.4344063,0 74,16.5655937 74,37 C74,57.4344063 57.4344063,74 37.0011563,74 L37.0011563,74 Z" id="circleprogress" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+    </g>
+</svg>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="75px" height="75px" viewBox="0 0 75 75" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.1 (12002) - http://www.bohemiancoding.com/sketch -->
+    <title>add</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icons-/-Resources" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <path d="M42.2375,33.1 L42.2375,4.90742683 C42.2375,2.47932124 40.2675529,0.5 37.8375,0.5 C35.4123918,0.5 33.4375,2.47327221 33.4375,4.90742683 L33.4375,33.1 L5.24492683,33.1 C2.81682124,33.1 0.8375,35.0699471 0.8375,37.5 C0.8375,39.9251082 2.81077221,41.9 5.24492683,41.9 L33.4375,41.9 L33.4375,70.0925732 C33.4375,72.5206788 35.4074471,74.5 37.8375,74.5 C40.2626082,74.5 42.2375,72.5267278 42.2375,70.0925732 L42.2375,41.9 L70.4300732,41.9 C72.8581788,41.9 74.8375,39.9300529 74.8375,37.5 C74.8375,35.0748918 72.8642278,33.1 70.4300732,33.1 L42.2375,33.1 Z" id="add" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+    </g>
+</svg>

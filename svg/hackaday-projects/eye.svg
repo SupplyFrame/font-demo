@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="76px" height="45px" viewBox="0 0 76 45" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.3.1 (12002) - http://www.bohemiancoding.com/sketch -->
+    <title>eye</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icons-/-Resources" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <path d="M38,45 C59.9060855,45 76,22.5 76,22.5 C76,22.5 57.9714655,0 38,0 C18.0285345,1.31408067e-15 0,22.5 0,22.5 C0,22.5 16.0939145,45 38,45 Z M38,36.4655172 C45.7094443,36.4655172 51.9591837,30.2129422 51.9591837,22.5 C51.9591837,14.7870578 45.7094443,8.53448276 38,8.53448276 C30.2905557,8.53448276 24.0408163,14.7870578 24.0408163,22.5 C24.0408163,30.2129422 30.2905557,36.4655172 38,36.4655172 Z M38,31.0344828 C42.711327,31.0344828 46.5306122,27.2134647 46.5306122,22.5 C46.5306122,17.7865353 42.711327,13.9655172 38,13.9655172 C33.288673,13.9655172 29.4693878,17.7865353 29.4693878,22.5 C29.4693878,27.2134647 33.288673,31.0344828 38,31.0344828 Z" id="eye" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+    </g>
+</svg>

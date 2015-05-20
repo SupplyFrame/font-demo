@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "6d38d4dc30803700eed0334b49066d1672279cdda0f704e2cb8b615e1e882575",
-    "current": "6d38d4dc30803700eed0334b49066d1672279cdda0f704e2cb8b615e1e882575"
+    "previous": "e1dc81abfd565dec292790abe80613821093e371133c925140b74ece988b1df8",
+    "current": "e1dc81abfd565dec292790abe80613821093e371133c925140b74ece988b1df8"
   },
   "fonts": [
-    "fontcustom/fontcustom_6d38d4dc30803700eed0334b49066d16.ttf",
-    "fontcustom/fontcustom_6d38d4dc30803700eed0334b49066d16.svg",
-    "fontcustom/fontcustom_6d38d4dc30803700eed0334b49066d16.woff",
-    "fontcustom/fontcustom_6d38d4dc30803700eed0334b49066d16.eot"
+    "fontcustom/fontcustom_e1dc81abfd565dec292790abe8061382.ttf",
+    "fontcustom/fontcustom_e1dc81abfd565dec292790abe8061382.svg",
+    "fontcustom/fontcustom_e1dc81abfd565dec292790abe8061382.woff",
+    "fontcustom/fontcustom_e1dc81abfd565dec292790abe8061382.eot"
   ],
   "glyphs": {
     "add": {
@@ -58,6 +58,10 @@
       "codepoint": 61707,
       "source": "./discussions.svg"
     },
+    "dropbox": {
+      "codepoint": 61736,
+      "source": "./dropbox.svg"
+    },
     "eye": {
       "codepoint": 61708,
       "source": "./eye.svg"
@@ -65,6 +69,10 @@
     "facebook": {
       "codepoint": 61709,
       "source": "./facebook.svg"
+    },
+    "facebook-circle": {
+      "codepoint": 61737,
+      "source": "./facebook-circle.svg"
     },
     "feed": {
       "codepoint": 61710,
@@ -74,6 +82,10 @@
       "codepoint": 61711,
       "source": "./follow.svg"
     },
+    "github": {
+      "codepoint": 61738,
+      "source": "./github.svg"
+    },
     "githublogo": {
       "codepoint": 61712,
       "source": "./githublogo.svg"
@@ -81,6 +93,18 @@
     "googleplus": {
       "codepoint": 61713,
       "source": "./googleplus.svg"
+    },
+    "googleplus-circle": {
+      "codepoint": 61739,
+      "source": "./googleplus-circle.svg"
+    },
+    "hardware": {
+      "codepoint": 61733,
+      "source": "./hardware.svg"
+    },
+    "home": {
+      "codepoint": 61740,
+      "source": "./home.svg"
     },
     "importimage": {
       "codepoint": 61714,
@@ -114,6 +138,10 @@
       "codepoint": 61721,
       "source": "./messages.svg"
     },
+    "misc": {
+      "codepoint": 61734,
+      "source": "./misc.svg"
+    },
     "move": {
       "codepoint": 61732,
       "source": "./move.svg"
@@ -138,6 +166,10 @@
       "codepoint": 61726,
       "source": "./skull.svg"
     },
+    "software": {
+      "codepoint": 61735,
+      "source": "./software.svg"
+    },
     "star": {
       "codepoint": 61727,
       "source": "./star.svg"
@@ -145,6 +177,10 @@
     "twitter": {
       "codepoint": 61728,
       "source": "./twitter.svg"
+    },
+    "twitter-circle": {
+      "codepoint": 61741,
+      "source": "./twitter-circle.svg"
     },
     "twitterlogo": {
       "codepoint": 61729,

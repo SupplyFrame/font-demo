@@ -4,11 +4,11 @@
 
 @font-face {
   font-family: "fontcustom";
-  src: url("./fontcustom_6d38d4dc30803700eed0334b49066d16.eot");
-  src: url("./fontcustom_6d38d4dc30803700eed0334b49066d16.eot?#iefix") format("embedded-opentype"),
-       url("./fontcustom_6d38d4dc30803700eed0334b49066d16.woff") format("woff"),
-       url("./fontcustom_6d38d4dc30803700eed0334b49066d16.ttf") format("truetype"),
-       url("./fontcustom_6d38d4dc30803700eed0334b49066d16.svg#fontcustom") format("svg");
+  src: url("./fontcustom_e1dc81abfd565dec292790abe8061382.eot");
+  src: url("./fontcustom_e1dc81abfd565dec292790abe8061382.eot?#iefix") format("embedded-opentype"),
+       url("./fontcustom_e1dc81abfd565dec292790abe8061382.woff") format("woff"),
+       url("./fontcustom_e1dc81abfd565dec292790abe8061382.ttf") format("truetype"),
+       url("./fontcustom_e1dc81abfd565dec292790abe8061382.svg#fontcustom") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -16,7 +16,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "fontcustom";
-    src: url("./fontcustom_6d38d4dc30803700eed0334b49066d16.svg#fontcustom") format("svg");
+    src: url("./fontcustom_e1dc81abfd565dec292790abe8061382.svg#fontcustom") format("svg");
   }
 }
 
@@ -35,12 +35,18 @@
 .icon-close:before,
 .icon-completed:before,
 .icon-discussions:before,
+.icon-dropbox:before,
 .icon-eye:before,
 .icon-facebook:before,
+.icon-facebook-circle:before,
 .icon-feed:before,
 .icon-follow:before,
+.icon-github:before,
 .icon-githublogo:before,
 .icon-googleplus:before,
+.icon-googleplus-circle:before,
+.icon-hardware:before,
+.icon-home:before,
 .icon-importimage:before,
 .icon-list:before,
 .icon-location:before,
@@ -49,14 +55,17 @@
 .icon-longarrowright:before,
 .icon-longarrowup:before,
 .icon-messages:before,
+.icon-misc:before,
 .icon-move:before,
 .icon-options:before,
 .icon-page:before,
 .icon-project-update:before,
 .icon-search:before,
 .icon-skull:before,
+.icon-software:before,
 .icon-star:before,
 .icon-twitter:before,
+.icon-twitter-circle:before,
 .icon-twitterlogo:before,
 .icon-user:before,
 .icon-users:before {
@@ -86,12 +95,18 @@
 .icon-close:before { content: "\f109"; }
 .icon-completed:before { content: "\f10a"; }
 .icon-discussions:before { content: "\f10b"; }
+.icon-dropbox:before { content: "\f128"; }
 .icon-eye:before { content: "\f10c"; }
 .icon-facebook:before { content: "\f10d"; }
+.icon-facebook-circle:before { content: "\f129"; }
 .icon-feed:before { content: "\f10e"; }
 .icon-follow:before { content: "\f10f"; }
+.icon-github:before { content: "\f12a"; }
 .icon-githublogo:before { content: "\f110"; }
 .icon-googleplus:before { content: "\f111"; }
+.icon-googleplus-circle:before { content: "\f12b"; }
+.icon-hardware:before { content: "\f125"; }
+.icon-home:before { content: "\f12c"; }
 .icon-importimage:before { content: "\f112"; }
 .icon-list:before { content: "\f113"; }
 .icon-location:before { content: "\f114"; }
@@ -100,14 +115,17 @@
 .icon-longarrowright:before { content: "\f117"; }
 .icon-longarrowup:before { content: "\f118"; }
 .icon-messages:before { content: "\f119"; }
+.icon-misc:before { content: "\f126"; }
 .icon-move:before { content: "\f124"; }
 .icon-options:before { content: "\f11a"; }
 .icon-page:before { content: "\f11b"; }
 .icon-project-update:before { content: "\f11c"; }
 .icon-search:before { content: "\f11d"; }
 .icon-skull:before { content: "\f11e"; }
+.icon-software:before { content: "\f127"; }
 .icon-star:before { content: "\f11f"; }
 .icon-twitter:before { content: "\f120"; }
+.icon-twitter-circle:before { content: "\f12d"; }
 .icon-twitterlogo:before { content: "\f121"; }
 .icon-user:before { content: "\f122"; }
 .icon-users:before { content: "\f123"; }

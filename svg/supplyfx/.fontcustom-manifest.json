@@ -1,0 +1,110 @@
+{
+  "checksum": {
+    "previous": "0268d54ab661ec364ebb0fe43ab4a999df5b59a8a3311b4d3173d404590daf3b",
+    "current": "0268d54ab661ec364ebb0fe43ab4a999df5b59a8a3311b4d3173d404590daf3b"
+  },
+  "fonts": [
+    "fontcustom/fontcustom_0268d54ab661ec364ebb0fe43ab4a999.ttf",
+    "fontcustom/fontcustom_0268d54ab661ec364ebb0fe43ab4a999.svg",
+    "fontcustom/fontcustom_0268d54ab661ec364ebb0fe43ab4a999.woff",
+    "fontcustom/fontcustom_0268d54ab661ec364ebb0fe43ab4a999.eot"
+  ],
+  "glyphs": {
+    "add": {
+      "codepoint": 61696,
+      "source": "./add.svg"
+    },
+    "arrowdown": {
+      "codepoint": 61697,
+      "source": "./arrowdown.svg"
+    },
+    "arrowleft": {
+      "codepoint": 61698,
+      "source": "./arrowleft.svg"
+    },
+    "arrowright": {
+      "codepoint": 61699,
+      "source": "./arrowright.svg"
+    },
+    "arrowtop": {
+      "codepoint": 61700,
+      "source": "./arrowtop.svg"
+    },
+    "close": {
+      "codepoint": 61701,
+      "source": "./close.svg"
+    },
+    "dot": {
+      "codepoint": 61702,
+      "source": "./dot.svg"
+    },
+    "file": {
+      "codepoint": 61703,
+      "source": "./file.svg"
+    },
+    "info": {
+      "codepoint": 61704,
+      "source": "./info.svg"
+    },
+    "location": {
+      "codepoint": 61705,
+      "source": "./location.svg"
+    },
+    "messages": {
+      "codepoint": 61706,
+      "source": "./messages.svg"
+    },
+    "options": {
+      "codepoint": 61707,
+      "source": "./options.svg"
+    },
+    "phone": {
+      "codepoint": 61708,
+      "source": "./phone.svg"
+    },
+    "search": {
+      "codepoint": 61709,
+      "source": "./search.svg"
+    },
+    "write": {
+      "codepoint": 61710,
+      "source": "./write.svg"
+    },
+    "yes": {
+      "codepoint": 61711,
+      "source": "./yes.svg"
+    }
+  },
+  "options": {
+    "autowidth": false,
+    "config": false,
+    "css_selector": ".icon-{{glyph}}",
+    "debug": false,
+    "font_ascent": 448,
+    "font_descent": 64,
+    "font_design_size": 16,
+    "font_em": 512,
+    "font_name": "fontcustom",
+    "force": false,
+    "input": {
+      "templates": ".",
+      "vectors": "."
+    },
+    "no_hash": false,
+    "output": {
+      "css": "fontcustom",
+      "fonts": "fontcustom",
+      "preview": "fontcustom"
+    },
+    "preprocessor_path": null,
+    "quiet": false,
+    "templates": [
+      "css",
+      "preview"
+    ]
+  },
+  "templates": [
+    "fontcustom/fontcustom.css",
+    "fontcustom/fontcustom-preview.html"
+  ]
+}

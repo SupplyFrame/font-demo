@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "5ee3e4edeb83a20160c86195049f3c1d85f2b464648a67c7fe8b4b1f91722d9a",
-    "current": "5ee3e4edeb83a20160c86195049f3c1d85f2b464648a67c7fe8b4b1f91722d9a"
+    "previous": "862c085a37592a798075a0234f599e963148bfb8f843f9ef0cd36503936f93b3",
+    "current": "862c085a37592a798075a0234f599e963148bfb8f843f9ef0cd36503936f93b3"
   },
   "fonts": [
-    "fontcustom/fontcustom_5ee3e4edeb83a20160c86195049f3c1d.ttf",
-    "fontcustom/fontcustom_5ee3e4edeb83a20160c86195049f3c1d.svg",
-    "fontcustom/fontcustom_5ee3e4edeb83a20160c86195049f3c1d.woff",
-    "fontcustom/fontcustom_5ee3e4edeb83a20160c86195049f3c1d.eot"
+    "fontcustom/fontcustom_862c085a37592a798075a0234f599e96.ttf",
+    "fontcustom/fontcustom_862c085a37592a798075a0234f599e96.svg",
+    "fontcustom/fontcustom_862c085a37592a798075a0234f599e96.woff",
+    "fontcustom/fontcustom_862c085a37592a798075a0234f599e96.eot"
   ],
   "glyphs": {
     "add": {
@@ -61,6 +61,10 @@
     "dropbox": {
       "codepoint": 61736,
       "source": "./dropbox.svg"
+    },
+    "edit": {
+      "codepoint": 61744,
+      "source": "./edit.svg"
     },
     "eye": {
       "codepoint": 61708,

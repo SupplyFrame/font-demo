@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "0268d54ab661ec364ebb0fe43ab4a999df5b59a8a3311b4d3173d404590daf3b",
-    "current": "0268d54ab661ec364ebb0fe43ab4a999df5b59a8a3311b4d3173d404590daf3b"
+    "previous": "d53586a0cae888225922a6d24f2fecee1622b6effb2c86dfd80ed123fbff411e",
+    "current": "d53586a0cae888225922a6d24f2fecee1622b6effb2c86dfd80ed123fbff411e"
   },
   "fonts": [
-    "fontcustom/fontcustom_0268d54ab661ec364ebb0fe43ab4a999.ttf",
-    "fontcustom/fontcustom_0268d54ab661ec364ebb0fe43ab4a999.svg",
-    "fontcustom/fontcustom_0268d54ab661ec364ebb0fe43ab4a999.woff",
-    "fontcustom/fontcustom_0268d54ab661ec364ebb0fe43ab4a999.eot"
+    "fontcustom/fontcustom_d53586a0cae888225922a6d24f2fecee.ttf",
+    "fontcustom/fontcustom_d53586a0cae888225922a6d24f2fecee.svg",
+    "fontcustom/fontcustom_d53586a0cae888225922a6d24f2fecee.woff",
+    "fontcustom/fontcustom_d53586a0cae888225922a6d24f2fecee.eot"
   ],
   "glyphs": {
     "add": {
@@ -29,6 +29,10 @@
     "arrowtop": {
       "codepoint": 61700,
       "source": "./arrowtop.svg"
+    },
+    "attachment": {
+      "codepoint": 61712,
+      "source": "./attachment.svg"
     },
     "close": {
       "codepoint": 61701,

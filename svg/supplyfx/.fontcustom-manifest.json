@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "65c923a92a60f785f5434d89d1928e4329729072c37b347820bf6e4d229d2f6a",
-    "current": "65c923a92a60f785f5434d89d1928e4329729072c37b347820bf6e4d229d2f6a"
+    "previous": "8e8d66c757154aaa47d2d2c42eb0ee21e90f3c6fe00eae309b70f664a509186f",
+    "current": "8e8d66c757154aaa47d2d2c42eb0ee21e90f3c6fe00eae309b70f664a509186f"
   },
   "fonts": [
-    "fontcustom/fontcustom_65c923a92a60f785f5434d89d1928e43.ttf",
-    "fontcustom/fontcustom_65c923a92a60f785f5434d89d1928e43.svg",
-    "fontcustom/fontcustom_65c923a92a60f785f5434d89d1928e43.woff",
-    "fontcustom/fontcustom_65c923a92a60f785f5434d89d1928e43.eot"
+    "fontcustom/fontcustom_8e8d66c757154aaa47d2d2c42eb0ee21.ttf",
+    "fontcustom/fontcustom_8e8d66c757154aaa47d2d2c42eb0ee21.svg",
+    "fontcustom/fontcustom_8e8d66c757154aaa47d2d2c42eb0ee21.woff",
+    "fontcustom/fontcustom_8e8d66c757154aaa47d2d2c42eb0ee21.eot"
   ],
   "glyphs": {
     "add": {
@@ -81,6 +81,14 @@
     "phone": {
       "codepoint": 61708,
       "source": "./phone.svg"
+    },
+    "quotedown": {
+      "codepoint": 61719,
+      "source": "./quotedown.svg"
+    },
+    "quoteup": {
+      "codepoint": 61720,
+      "source": "./quoteup.svg"
     },
     "search": {
       "codepoint": 61709,

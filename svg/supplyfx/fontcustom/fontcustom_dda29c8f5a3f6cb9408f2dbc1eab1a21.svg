@@ -1,11 +1,11 @@
 <?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
 <!--
-2015-9-23: Created with FontForge (http://fontforge.org)
+2015-10-6: Created with FontForge (http://fontforge.org)
 -->
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
 <metadata>
-Created by FontForge 20150828 at Wed Sep 23 15:42:26 2015
+Created by FontForge 20150828 at Tue Oct  6 20:36:27 2015
  By Jovan Stojanovic
 Copyright (c) 2015, Jovan Stojanovic
 </metadata>
@@ -22,11 +22,14 @@ Copyright (c) 2015, Jovan Stojanovic
     bbox="0 -64 512 448.146"
     underline-thickness="25.6"
     underline-position="-51.2"
-    unicode-range="U+0020-F119"
+    unicode-range="U+0020-F11A"
   />
     <missing-glyph />
     <glyph glyph-name="space" unicode=" " horiz-adv-x="200" 
  />
+    <glyph glyph-name="uniF11A" unicode="&#xf11a;" 
+d="M167.345 231.963l-166.029 73.7363v28.2461l166.029 83.0967v-48.7744l-101.818 -46.4746l101.818 -41.3848v-48.4453zM327.791 446.274l-89.502 -246.828h-56.8213l89.502 246.828h56.8213zM340.271 280.408l101.818 41.3848l-101.818 46.4746v48.7744l166.03 -83.0967
+v-28.2461l-166.03 -73.7363v48.4453z" />
     <glyph glyph-name="uniF118" unicode="&#xf118;" 
 d="M226.748 161.094c0 -29.8213 -9.76855 -53.7305 -29.3076 -71.7266c-19.5381 -17.9961 -44.2178 -26.9932 -74.04 -26.9932c-35.9922 0 -65.5566 11.8252 -88.6943 35.4775c-23.1377 23.6514 -34.7061 57.5859 -34.7061 101.805c0 47.3037 13.625 93.8359 40.876 139.597
 c27.252 45.7617 65.5566 82.0098 114.917 108.747l35.4775 -53.9873c-26.7363 -18.5107 -48.0742 -39.0771 -64.0137 -61.7002c-15.9395 -22.624 -26.4795 -48.8467 -31.6211 -78.668c9.25488 4.11328 20.0518 6.16992 32.3926 6.16992

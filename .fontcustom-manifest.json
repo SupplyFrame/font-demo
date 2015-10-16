@@ -1,214 +1,218 @@
 {
   "checksum": {
-    "previous": "5dda555f1b48bea1fdfe82fad5412d7697708b6a286a543248d80db1332ace09",
-    "current": "5dda555f1b48bea1fdfe82fad5412d7697708b6a286a543248d80db1332ace09"
+    "previous": "6626a22958952346b3a135bcd917d48f9b3272c546c251eac9e8132750e519b3",
+    "current": "6626a22958952346b3a135bcd917d48f9b3272c546c251eac9e8132750e519b3"
   },
   "fonts": [
-    "fontcustom/fontcustom_5dda555f1b48bea1fdfe82fad5412d76.ttf",
-    "fontcustom/fontcustom_5dda555f1b48bea1fdfe82fad5412d76.svg",
-    "fontcustom/fontcustom_5dda555f1b48bea1fdfe82fad5412d76.woff",
-    "fontcustom/fontcustom_5dda555f1b48bea1fdfe82fad5412d76.eot"
+    "svg/hackaday-projects/fontcustom/fontcustom_6626a22958952346b3a135bcd917d48f.ttf",
+    "svg/hackaday-projects/fontcustom/fontcustom_6626a22958952346b3a135bcd917d48f.svg",
+    "svg/hackaday-projects/fontcustom/fontcustom_6626a22958952346b3a135bcd917d48f.woff",
+    "svg/hackaday-projects/fontcustom/fontcustom_6626a22958952346b3a135bcd917d48f.eot"
   ],
   "glyphs": {
-    "active-filters": {
-      "codepoint": 61696,
-      "source": "svg/active filters.svg"
+    "add": {
+      "codepoint": 61747,
+      "source": "svg/hackaday-projects/add.svg"
     },
-    "addaconverters": {
-      "codepoint": 61731,
-      "source": "svg/addaconverters.svg"
+    "alert": {
+      "codepoint": 61748,
+      "source": "svg/hackaday-projects/alert.svg"
     },
-    "amplifier-circuits": {
-      "codepoint": 61697,
-      "source": "svg/amplifier circuits.svg"
+    "arrowdown": {
+      "codepoint": 61749,
+      "source": "svg/hackaday-projects/arrowdown.svg"
     },
-    "amplifiercircuits": {
-      "codepoint": 61732,
-      "source": "svg/amplifiercircuits.svg"
+    "arrowleft": {
+      "codepoint": 61750,
+      "source": "svg/hackaday-projects/arrowleft.svg"
     },
-    "analog-integration": {
-      "codepoint": 61698,
-      "source": "svg/analog integration.svg"
+    "arrowright": {
+      "codepoint": 61751,
+      "source": "svg/hackaday-projects/arrowright.svg"
     },
-    "analogintegratedcircuits": {
-      "codepoint": 61733,
-      "source": "svg/analogintegratedcircuits.svg"
+    "arrowup": {
+      "codepoint": 61752,
+      "source": "svg/hackaday-projects/arrowup.svg"
     },
-    "audio-video": {
-      "codepoint": 61699,
-      "source": "svg/audio video.svg"
+    "calendar": {
+      "codepoint": 61753,
+      "source": "svg/hackaday-projects/calendar.svg"
     },
-    "audiovideocircuits": {
-      "codepoint": 61734,
-      "source": "svg/audiovideocircuits.svg"
+    "calendaradd": {
+      "codepoint": 61754,
+      "source": "svg/hackaday-projects/calendaradd.svg"
     },
-    "capacitors": {
-      "codepoint": 61700,
-      "source": "svg/capacitors.svg"
+    "circleprogress": {
+      "codepoint": 61755,
+      "source": "svg/hackaday-projects/circleprogress.svg"
     },
-    "circuit-protection": {
-      "codepoint": 61701,
-      "source": "svg/circuit protection.svg"
+    "close": {
+      "codepoint": 61756,
+      "source": "svg/hackaday-projects/close.svg"
     },
-    "circuitprotection": {
-      "codepoint": 61735,
-      "source": "svg/circuitprotection.svg"
+    "completed": {
+      "codepoint": 61757,
+      "source": "svg/hackaday-projects/completed.svg"
     },
-    "connectors": {
-      "codepoint": 61702,
-      "source": "svg/connectors.svg"
+    "discussions": {
+      "codepoint": 61758,
+      "source": "svg/hackaday-projects/discussions.svg"
     },
-    "da-converters": {
-      "codepoint": 61703,
-      "source": "svg/da converters.svg"
+    "dropbox": {
+      "codepoint": 61759,
+      "source": "svg/hackaday-projects/dropbox.svg"
     },
-    "diodes": {
-      "codepoint": 61704,
-      "source": "svg/diodes.svg"
+    "edit": {
+      "codepoint": 61760,
+      "source": "svg/hackaday-projects/edit.svg"
     },
-    "driversandinterfaces": {
-      "codepoint": 61736,
-      "source": "svg/driversandinterfaces.svg"
+    "eye": {
+      "codepoint": 61761,
+      "source": "svg/hackaday-projects/eye.svg"
     },
-    "drives-and-interfaces": {
-      "codepoint": 61705,
-      "source": "svg/drives and interfaces.svg"
+    "facebook": {
+      "codepoint": 61762,
+      "source": "svg/hackaday-projects/facebook.svg"
     },
-    "fiber-optics": {
-      "codepoint": 61706,
-      "source": "svg/fiber optics.svg"
+    "facebook-circle": {
+      "codepoint": 61763,
+      "source": "svg/hackaday-projects/facebook-circle.svg"
     },
-    "fiberoptics": {
-      "codepoint": 61737,
-      "source": "svg/fiberoptics.svg"
+    "feed": {
+      "codepoint": 61764,
+      "source": "svg/hackaday-projects/feed.svg"
     },
-    "filters": {
-      "codepoint": 61707,
-      "source": "svg/filters.svg"
+    "follow": {
+      "codepoint": 61765,
+      "source": "svg/hackaday-projects/follow.svg"
     },
-    "inductors": {
-      "codepoint": 61708,
-      "source": "svg/inductors.svg"
+    "github": {
+      "codepoint": 61766,
+      "source": "svg/hackaday-projects/github.svg"
     },
-    "inductorscoilschokes": {
-      "codepoint": 61738,
-      "source": "svg/inductorscoilschokes.svg"
+    "githublogo": {
+      "codepoint": 61767,
+      "source": "svg/hackaday-projects/githublogo.svg"
     },
-    "interconnect": {
-      "codepoint": 61709,
-      "source": "svg/interconnect.svg"
+    "googleplus": {
+      "codepoint": 61768,
+      "source": "svg/hackaday-projects/googleplus.svg"
     },
-    "logic": {
-      "codepoint": 61710,
-      "source": "svg/logic.svg"
+    "googleplus-circle": {
+      "codepoint": 61769,
+      "source": "svg/hackaday-projects/googleplus-circle.svg"
     },
-    "memory": {
-      "codepoint": 61711,
-      "source": "svg/memory.svg"
+    "hardware": {
+      "codepoint": 61770,
+      "source": "svg/hackaday-projects/hardware.svg"
     },
-    "microcontrollers": {
-      "codepoint": 61712,
-      "source": "svg/microcontrollers.svg"
+    "home": {
+      "codepoint": 61771,
+      "source": "svg/hackaday-projects/home.svg"
     },
-    "microcontrollersandprocessors": {
-      "codepoint": 61739,
-      "source": "svg/microcontrollersandprocessors.svg"
+    "importimage": {
+      "codepoint": 61772,
+      "source": "svg/hackaday-projects/importimage.svg"
     },
-    "optoelectronics": {
-      "codepoint": 61713,
-      "source": "svg/optoelectronics.svg"
+    "list": {
+      "codepoint": 61773,
+      "source": "svg/hackaday-projects/list.svg"
     },
-    "oscillators": {
-      "codepoint": 61714,
-      "source": "svg/oscillators.svg"
+    "location": {
+      "codepoint": 61774,
+      "source": "svg/hackaday-projects/location.svg"
     },
-    "programmable-logic": {
-      "codepoint": 61715,
-      "source": "svg/programmable logic.svg"
+    "lock": {
+      "codepoint": 61798,
+      "source": "svg/hackaday-projects/lock.svg"
     },
-    "programmablelogic": {
-      "codepoint": 61740,
-      "source": "svg/programmablelogic.svg"
+    "longarrowdown": {
+      "codepoint": 61775,
+      "source": "svg/hackaday-projects/longarrowdown.svg"
     },
-    "rc-network": {
-      "codepoint": 61716,
-      "source": "svg/rc network.svg"
+    "longarrowleft": {
+      "codepoint": 61776,
+      "source": "svg/hackaday-projects/longarrowleft.svg"
     },
-    "rcnetworks": {
-      "codepoint": 61741,
-      "source": "svg/rcnetworks.svg"
+    "longarrowright": {
+      "codepoint": 61777,
+      "source": "svg/hackaday-projects/longarrowright.svg"
     },
-    "regulator": {
-      "codepoint": 61717,
-      "source": "svg/regulator.svg"
+    "longarrowup": {
+      "codepoint": 61778,
+      "source": "svg/hackaday-projects/longarrowup.svg"
     },
-    "regulatorcircuits": {
-      "codepoint": 61742,
-      "source": "svg/regulatorcircuits.svg"
+    "messages": {
+      "codepoint": 61779,
+      "source": "svg/hackaday-projects/messages.svg"
     },
-    "relays": {
-      "codepoint": 61718,
-      "source": "svg/relays.svg"
+    "misc": {
+      "codepoint": 61780,
+      "source": "svg/hackaday-projects/misc.svg"
     },
-    "resistors": {
-      "codepoint": 61719,
-      "source": "svg/resistors.svg"
+    "move": {
+      "codepoint": 61781,
+      "source": "svg/hackaday-projects/move.svg"
     },
-    "resonators": {
-      "codepoint": 61720,
-      "source": "svg/resonators.svg"
+    "options": {
+      "codepoint": 61782,
+      "source": "svg/hackaday-projects/options.svg"
     },
-    "rf-and-microwave": {
-      "codepoint": 61721,
-      "source": "svg/rf and microwave.svg"
+    "other": {
+      "codepoint": 61783,
+      "source": "svg/hackaday-projects/other.svg"
     },
-    "rfandmicrowave": {
-      "codepoint": 61743,
-      "source": "svg/rfandmicrowave.svg"
+    "page": {
+      "codepoint": 61784,
+      "source": "svg/hackaday-projects/page.svg"
     },
-    "sensorstransducers": {
-      "codepoint": 61730,
-      "source": "svg/sensorstransducers.svg"
+    "prize": {
+      "codepoint": 61785,
+      "source": "svg/hackaday-projects/prize.svg"
     },
-    "sockets": {
-      "codepoint": 61723,
-      "source": "svg/sockets.svg"
+    "project-update": {
+      "codepoint": 61786,
+      "source": "svg/hackaday-projects/project-update.svg"
     },
-    "switches": {
-      "codepoint": 61724,
-      "source": "svg/switches.svg"
+    "search": {
+      "codepoint": 61787,
+      "source": "svg/hackaday-projects/search.svg"
     },
-    "telecommunicationcircuits": {
-      "codepoint": 61744,
-      "source": "svg/telecommunicationcircuits.svg"
+    "skull": {
+      "codepoint": 61788,
+      "source": "svg/hackaday-projects/skull.svg"
     },
-    "telecommunications": {
-      "codepoint": 61725,
-      "source": "svg/telecommunications.svg"
+    "software": {
+      "codepoint": 61789,
+      "source": "svg/hackaday-projects/software.svg"
     },
-    "terminal-blocks": {
-      "codepoint": 61726,
-      "source": "svg/terminal blocks.svg"
+    "star": {
+      "codepoint": 61790,
+      "source": "svg/hackaday-projects/star.svg"
     },
-    "terminalblocks": {
-      "codepoint": 61745,
-      "source": "svg/terminalblocks.svg"
+    "twitter": {
+      "codepoint": 61791,
+      "source": "svg/hackaday-projects/twitter.svg"
     },
-    "transformers": {
-      "codepoint": 61727,
-      "source": "svg/transformers.svg"
+    "twitter-circle": {
+      "codepoint": 61792,
+      "source": "svg/hackaday-projects/twitter-circle.svg"
     },
-    "transistors": {
-      "codepoint": 61728,
-      "source": "svg/transistors.svg"
+    "twitterlogo": {
+      "codepoint": 61793,
+      "source": "svg/hackaday-projects/twitterlogo.svg"
     },
-    "trigger-devices": {
-      "codepoint": 61729,
-      "source": "svg/trigger devices.svg"
+    "unlock": {
+      "codepoint": 61799,
+      "source": "svg/hackaday-projects/unlock.svg"
     },
-    "triggerdevices": {
-      "codepoint": 61746,
-      "source": "svg/triggerdevices.svg"
+    "user": {
+      "codepoint": 61794,
+      "source": "svg/hackaday-projects/user.svg"
+    },
+    "users": {
+      "codepoint": 61795,
+      "source": "svg/hackaday-projects/users.svg"
     }
   },
   "options": {
@@ -223,14 +227,14 @@
     "font_name": "fontcustom",
     "force": false,
     "input": {
-      "templates": "svg/",
-      "vectors": "svg/"
+      "templates": "svg/hackaday-projects",
+      "vectors": "svg/hackaday-projects"
     },
     "no_hash": false,
     "output": {
-      "css": "fontcustom",
-      "fonts": "fontcustom",
-      "preview": "fontcustom"
+      "css": "svg/hackaday-projects/fontcustom",
+      "fonts": "svg/hackaday-projects/fontcustom",
+      "preview": "svg/hackaday-projects/fontcustom"
     },
     "preprocessor_path": null,
     "quiet": false,
@@ -240,7 +244,7 @@
     ]
   },
   "templates": [
-    "fontcustom/fontcustom.css",
-    "fontcustom/fontcustom-preview.html"
+    "svg/hackaday-projects/fontcustom/fontcustom.css",
+    "svg/hackaday-projects/fontcustom/fontcustom-preview.html"
   ]
 }

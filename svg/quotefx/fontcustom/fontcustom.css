@@ -1,0 +1,103 @@
+/*
+  Icon Font: fontcustom
+*/
+
+@font-face {
+  font-family: "fontcustom";
+  src: url("./fontcustom_c9ebe2b46d0f1869f4f0a1233e463e1c.eot");
+  src: url("./fontcustom_c9ebe2b46d0f1869f4f0a1233e463e1c.eot?#iefix") format("embedded-opentype"),
+       url("./fontcustom_c9ebe2b46d0f1869f4f0a1233e463e1c.woff") format("woff"),
+       url("./fontcustom_c9ebe2b46d0f1869f4f0a1233e463e1c.ttf") format("truetype"),
+       url("./fontcustom_c9ebe2b46d0f1869f4f0a1233e463e1c.svg#fontcustom") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "fontcustom";
+    src: url("./fontcustom_c9ebe2b46d0f1869f4f0a1233e463e1c.svg#fontcustom") format("svg");
+  }
+}
+
+[data-icon]:before { content: attr(data-icon); }
+
+[data-icon]:before,
+.icon-activity:before,
+.icon-add:before,
+.icon-aml:before,
+.icon-arrow-down:before,
+.icon-arrow-up:before,
+.icon-arrow-up-down:before,
+.icon-avl:before,
+.icon-bom:before,
+.icon-calendar:before,
+.icon-chain:before,
+.icon-close:before,
+.icon-contactpricing:before,
+.icon-dashboard:before,
+.icon-edit:before,
+.icon-email:before,
+.icon-empty:before,
+.icon-file:before,
+.icon-info:before,
+.icon-list:before,
+.icon-location:before,
+.icon-partlist:before,
+.icon-phone:before,
+.icon-purchase:before,
+.icon-question-mark:before,
+.icon-reload:before,
+.icon-reports:before,
+.icon-rfq:before,
+.icon-search:before,
+.icon-sidebar-hide:before,
+.icon-sidebar-show:before,
+.icon-warning:before,
+.icon-yes:before {
+  display: inline-block;
+  font-family: "fontcustom";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+}
+
+.icon-activity:before { content: "\f119"; }
+.icon-add:before { content: "\f10b"; }
+.icon-aml:before { content: "\f121"; }
+.icon-arrow-down:before { content: "\f10c"; }
+.icon-arrow-up:before { content: "\f10d"; }
+.icon-arrow-up-down:before { content: "\f10e"; }
+.icon-avl:before { content: "\f122"; }
+.icon-bom:before { content: "\f123"; }
+.icon-calendar:before { content: "\f115"; }
+.icon-chain:before { content: "\f124"; }
+.icon-close:before { content: "\f10f"; }
+.icon-contactpricing:before { content: "\f125"; }
+.icon-dashboard:before { content: "\f126"; }
+.icon-edit:before { content: "\f11a"; }
+.icon-email:before { content: "\f11b"; }
+.icon-empty:before { content: "\f120"; }
+.icon-file:before { content: "\f110"; }
+.icon-info:before { content: "\f116"; }
+.icon-list:before { content: "\f11c"; }
+.icon-location:before { content: "\f11d"; }
+.icon-partlist:before { content: "\f127"; }
+.icon-phone:before { content: "\f11e"; }
+.icon-purchase:before { content: "\f128"; }
+.icon-question-mark:before { content: "\f11f"; }
+.icon-reload:before { content: "\f111"; }
+.icon-reports:before { content: "\f129"; }
+.icon-rfq:before { content: "\f12a"; }
+.icon-search:before { content: "\f112"; }
+.icon-sidebar-hide:before { content: "\f113"; }
+.icon-sidebar-show:before { content: "\f114"; }
+.icon-warning:before { content: "\f117"; }
+.icon-yes:before { content: "\f118"; }

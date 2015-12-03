@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "fa02117977d79a8e13a3320a09cb2c62af183ed6dcea7c4c4fef482723be52df",
-    "current": "fa02117977d79a8e13a3320a09cb2c62af183ed6dcea7c4c4fef482723be52df"
+    "previous": "c9ebe2b46d0f1869f4f0a1233e463e1cf209601115b803ec5445b75399cb42c2",
+    "current": "c9ebe2b46d0f1869f4f0a1233e463e1cf209601115b803ec5445b75399cb42c2"
   },
   "fonts": [
-    "fontcustom/fontcustom_fa02117977d79a8e13a3320a09cb2c62.ttf",
-    "fontcustom/fontcustom_fa02117977d79a8e13a3320a09cb2c62.svg",
-    "fontcustom/fontcustom_fa02117977d79a8e13a3320a09cb2c62.woff",
-    "fontcustom/fontcustom_fa02117977d79a8e13a3320a09cb2c62.eot"
+    "fontcustom/fontcustom_c9ebe2b46d0f1869f4f0a1233e463e1c.ttf",
+    "fontcustom/fontcustom_c9ebe2b46d0f1869f4f0a1233e463e1c.svg",
+    "fontcustom/fontcustom_c9ebe2b46d0f1869f4f0a1233e463e1c.woff",
+    "fontcustom/fontcustom_c9ebe2b46d0f1869f4f0a1233e463e1c.eot"
   ],
   "glyphs": {
     "activity": {
@@ -17,6 +17,10 @@
     "add": {
       "codepoint": 61707,
       "source": "./add.svg"
+    },
+    "aml": {
+      "codepoint": 61729,
+      "source": "./aml.svg"
     },
     "arrow-down": {
       "codepoint": 61708,
@@ -30,13 +34,33 @@
       "codepoint": 61710,
       "source": "./arrow-up-down.svg"
     },
+    "avl": {
+      "codepoint": 61730,
+      "source": "./avl.svg"
+    },
+    "bom": {
+      "codepoint": 61731,
+      "source": "./bom.svg"
+    },
     "calendar": {
       "codepoint": 61717,
       "source": "./calendar.svg"
     },
+    "chain": {
+      "codepoint": 61732,
+      "source": "./chain.svg"
+    },
     "close": {
       "codepoint": 61711,
       "source": "./close.svg"
+    },
+    "contactpricing": {
+      "codepoint": 61733,
+      "source": "./contactpricing.svg"
+    },
+    "dashboard": {
+      "codepoint": 61734,
+      "source": "./dashboard.svg"
     },
     "edit": {
       "codepoint": 61722,
@@ -66,9 +90,17 @@
       "codepoint": 61725,
       "source": "./location.svg"
     },
+    "partlist": {
+      "codepoint": 61735,
+      "source": "./partlist.svg"
+    },
     "phone": {
       "codepoint": 61726,
       "source": "./phone.svg"
+    },
+    "purchase": {
+      "codepoint": 61736,
+      "source": "./purchase.svg"
     },
     "question-mark": {
       "codepoint": 61727,
@@ -77,6 +109,14 @@
     "reload": {
       "codepoint": 61713,
       "source": "./reload.svg"
+    },
+    "reports": {
+      "codepoint": 61737,
+      "source": "./reports.svg"
+    },
+    "rfq": {
+      "codepoint": 61738,
+      "source": "./rfq.svg"
     },
     "search": {
       "codepoint": 61714,

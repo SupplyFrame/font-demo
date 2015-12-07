@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "c9ebe2b46d0f1869f4f0a1233e463e1cf209601115b803ec5445b75399cb42c2",
-    "current": "c9ebe2b46d0f1869f4f0a1233e463e1cf209601115b803ec5445b75399cb42c2"
+    "previous": "4b2bed51df855d9072dcf88ab2cad6a1de327faa4bd4d660a545d1a623f32a4f",
+    "current": "4b2bed51df855d9072dcf88ab2cad6a1de327faa4bd4d660a545d1a623f32a4f"
   },
   "fonts": [
-    "fontcustom/fontcustom_c9ebe2b46d0f1869f4f0a1233e463e1c.ttf",
-    "fontcustom/fontcustom_c9ebe2b46d0f1869f4f0a1233e463e1c.svg",
-    "fontcustom/fontcustom_c9ebe2b46d0f1869f4f0a1233e463e1c.woff",
-    "fontcustom/fontcustom_c9ebe2b46d0f1869f4f0a1233e463e1c.eot"
+    "fontcustom/fontcustom_4b2bed51df855d9072dcf88ab2cad6a1.ttf",
+    "fontcustom/fontcustom_4b2bed51df855d9072dcf88ab2cad6a1.svg",
+    "fontcustom/fontcustom_4b2bed51df855d9072dcf88ab2cad6a1.woff",
+    "fontcustom/fontcustom_4b2bed51df855d9072dcf88ab2cad6a1.eot"
   ],
   "glyphs": {
     "activity": {

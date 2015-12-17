@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="74px" height="71px" viewBox="0 0 74 71" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.4.4 (17249) - http://www.bohemiancoding.com/sketch -->
+    <title>images</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Resources" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Icons" sketch:type="MSLayerGroup" transform="translate(-664.000000, -216.000000)">
+            <g id="images" transform="translate(664.000000, 216.000000)" sketch:type="MSShapeGroup">
+                <path d="M8.71590909,19.1563636 L73.4886364,19.1563636 L73.4886364,70.32 L8.71590909,70.32 L8.71590909,19.1563636 Z M13.25,24.2727273 L69.6022727,24.2727273 L69.6022727,65.2036364 L13.25,65.2036364 L13.25,24.2727273 Z" id="Rectangle-168" stroke="#333333" stroke-width="6" fill="#FFFFFF"></path>
+                <path d="M0.737156699,13.3128787 L64.5258407,0.620775535 L72.3992069,51.0071213 L8.61052294,63.6992245 L0.737156699,13.3128787 L0.737156699,13.3128787 Z M5.9897012,17.4630661 L61.4858563,6.4209363 L67.7845493,46.7300129 L12.2883942,57.7721427 L5.9897012,17.4630661 L5.9897012,17.4630661 Z" id="Rectangle-168-Copy-3" stroke="#333333" stroke-width="6" fill="#FFFFFF"></path>
+                <rect id="Rectangle-173" fill="#FFFFFF" x="13.25" y="24.2727273" width="56.3522727" height="40.9309091"></rect>
+                <path d="M29.1528213,44.4105329 L35.9330182,50.4594357 L47.0141801,32.3127273 L53.871853,44.4105329 L59.7076803,38.3616301 L65.0681818,60.1376803 L18.4318182,60.1376803 L29.1528213,44.4105329 Z" id="Rectangle-168-Copy-2" fill="#333333"></path>
+                <circle id="Oval-13" fill="#333333" cx="22.4318182" cy="33.12" r="5"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

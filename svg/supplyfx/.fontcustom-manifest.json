@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "64286b14cd80fdf0dbe9dc6edbaa63b7afc8af6fdf7bf82ff6a05be58a90157e",
-    "current": "64286b14cd80fdf0dbe9dc6edbaa63b7afc8af6fdf7bf82ff6a05be58a90157e"
+    "previous": "04050a8d9b3a4d644ae1a97bba2e455ac04544b167a69181f3e96eb2b2db85e8",
+    "current": "04050a8d9b3a4d644ae1a97bba2e455ac04544b167a69181f3e96eb2b2db85e8"
   },
   "fonts": [
-    "fontcustom/fontcustom_64286b14cd80fdf0dbe9dc6edbaa63b7.ttf",
-    "fontcustom/fontcustom_64286b14cd80fdf0dbe9dc6edbaa63b7.svg",
-    "fontcustom/fontcustom_64286b14cd80fdf0dbe9dc6edbaa63b7.woff",
-    "fontcustom/fontcustom_64286b14cd80fdf0dbe9dc6edbaa63b7.eot"
+    "fontcustom/fontcustom_04050a8d9b3a4d644ae1a97bba2e455a.ttf",
+    "fontcustom/fontcustom_04050a8d9b3a4d644ae1a97bba2e455a.svg",
+    "fontcustom/fontcustom_04050a8d9b3a4d644ae1a97bba2e455a.woff",
+    "fontcustom/fontcustom_04050a8d9b3a4d644ae1a97bba2e455a.eot"
   ],
   "glyphs": {
     "add": {
@@ -42,6 +42,18 @@
       "codepoint": 61716,
       "source": "./bell.svg"
     },
+    "bell-normal": {
+      "codepoint": 61724,
+      "source": "./bell-normal.svg"
+    },
+    "bell-ringing": {
+      "codepoint": 61725,
+      "source": "./bell-ringing.svg"
+    },
+    "bell-silent": {
+      "codepoint": 61726,
+      "source": "./bell-silent.svg"
+    },
     "bigerspacing": {
       "codepoint": 61713,
       "source": "./bigerspacing.svg"
@@ -70,9 +82,25 @@
       "codepoint": 61703,
       "source": "./file.svg"
     },
+    "flag": {
+      "codepoint": 61727,
+      "source": "./flag.svg"
+    },
+    "history": {
+      "codepoint": 61728,
+      "source": "./history.svg"
+    },
+    "images": {
+      "codepoint": 61729,
+      "source": "./images.svg"
+    },
     "info": {
       "codepoint": 61704,
       "source": "./info.svg"
+    },
+    "leave": {
+      "codepoint": 61730,
+      "source": "./leave.svg"
     },
     "location": {
       "codepoint": 61705,
@@ -109,6 +137,14 @@
     "smallspacing": {
       "codepoint": 61714,
       "source": "./smallspacing.svg"
+    },
+    "trash": {
+      "codepoint": 61731,
+      "source": "./trash.svg"
+    },
+    "user": {
+      "codepoint": 61732,
+      "source": "./user.svg"
     },
     "users": {
       "codepoint": 61718,

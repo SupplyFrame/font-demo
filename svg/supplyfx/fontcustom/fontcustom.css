@@ -4,11 +4,11 @@
 
 @font-face {
   font-family: "fontcustom";
-  src: url("./fontcustom_7a2c2381393a19f91a9f00cb4de072e3.eot");
-  src: url("./fontcustom_7a2c2381393a19f91a9f00cb4de072e3.eot?#iefix") format("embedded-opentype"),
-       url("./fontcustom_7a2c2381393a19f91a9f00cb4de072e3.woff") format("woff"),
-       url("./fontcustom_7a2c2381393a19f91a9f00cb4de072e3.ttf") format("truetype"),
-       url("./fontcustom_7a2c2381393a19f91a9f00cb4de072e3.svg#fontcustom") format("svg");
+  src: url("./fontcustom_04050a8d9b3a4d644ae1a97bba2e455a.eot");
+  src: url("./fontcustom_04050a8d9b3a4d644ae1a97bba2e455a.eot?#iefix") format("embedded-opentype"),
+       url("./fontcustom_04050a8d9b3a4d644ae1a97bba2e455a.woff") format("woff"),
+       url("./fontcustom_04050a8d9b3a4d644ae1a97bba2e455a.ttf") format("truetype"),
+       url("./fontcustom_04050a8d9b3a4d644ae1a97bba2e455a.svg#fontcustom") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -16,7 +16,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "fontcustom";
-    src: url("./fontcustom_7a2c2381393a19f91a9f00cb4de072e3.svg#fontcustom") format("svg");
+    src: url("./fontcustom_04050a8d9b3a4d644ae1a97bba2e455a.svg#fontcustom") format("svg");
   }
 }
 
@@ -31,6 +31,9 @@
 .icon-arrowtop:before,
 .icon-attachment:before,
 .icon-bell:before,
+.icon-bell-normal:before,
+.icon-bell-ringing:before,
+.icon-bell-silent:before,
 .icon-bigerspacing:before,
 .icon-close:before,
 .icon-code:before,
@@ -38,6 +41,7 @@
 .icon-email:before,
 .icon-eye:before,
 .icon-file:before,
+.icon-flag:before,
 .icon-history:before,
 .icon-images:before,
 .icon-info:before,
@@ -52,6 +56,7 @@
 .icon-search:before,
 .icon-smallspacing:before,
 .icon-trash:before,
+.icon-user:before,
 .icon-users:before,
 .icon-write:before,
 .icon-yes:before {
@@ -77,6 +82,9 @@
 .icon-arrowtop:before { content: "\f104"; }
 .icon-attachment:before { content: "\f110"; }
 .icon-bell:before { content: "\f114"; }
+.icon-bell-normal:before { content: "\f11c"; }
+.icon-bell-ringing:before { content: "\f11d"; }
+.icon-bell-silent:before { content: "\f11e"; }
 .icon-bigerspacing:before { content: "\f111"; }
 .icon-close:before { content: "\f105"; }
 .icon-code:before { content: "\f11a"; }
@@ -84,10 +92,11 @@
 .icon-email:before { content: "\f115"; }
 .icon-eye:before { content: "\f11b"; }
 .icon-file:before { content: "\f107"; }
-.icon-history:before { content: "\f11c"; }
-.icon-images:before { content: "\f11d"; }
+.icon-flag:before { content: "\f11f"; }
+.icon-history:before { content: "\f120"; }
+.icon-images:before { content: "\f121"; }
 .icon-info:before { content: "\f108"; }
-.icon-leave:before { content: "\f11e"; }
+.icon-leave:before { content: "\f122"; }
 .icon-location:before { content: "\f109"; }
 .icon-messages:before { content: "\f10a"; }
 .icon-options:before { content: "\f10b"; }
@@ -97,7 +106,8 @@
 .icon-quoteup:before { content: "\f118"; }
 .icon-search:before { content: "\f10d"; }
 .icon-smallspacing:before { content: "\f112"; }
-.icon-trash:before { content: "\f11f"; }
+.icon-trash:before { content: "\f123"; }
+.icon-user:before { content: "\f124"; }
 .icon-users:before { content: "\f116"; }
 .icon-write:before { content: "\f10e"; }
 .icon-yes:before { content: "\f10f"; }

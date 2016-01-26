@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "61ebd84ce68e111e58f20c949c5478e2b2c5df0d719340d04f460f5b08eaf49c",
-    "current": "61ebd84ce68e111e58f20c949c5478e2b2c5df0d719340d04f460f5b08eaf49c"
+    "previous": "803e0473a9dc48889b02f921356b8bee681ee9af77f56093edd93f4f0db575fd",
+    "current": "803e0473a9dc48889b02f921356b8bee681ee9af77f56093edd93f4f0db575fd"
   },
   "fonts": [
-    "fontcustom/fontcustom_61ebd84ce68e111e58f20c949c5478e2.ttf",
-    "fontcustom/fontcustom_61ebd84ce68e111e58f20c949c5478e2.svg",
-    "fontcustom/fontcustom_61ebd84ce68e111e58f20c949c5478e2.woff",
-    "fontcustom/fontcustom_61ebd84ce68e111e58f20c949c5478e2.eot"
+    "fontcustom/fontcustom_803e0473a9dc48889b02f921356b8bee.ttf",
+    "fontcustom/fontcustom_803e0473a9dc48889b02f921356b8bee.svg",
+    "fontcustom/fontcustom_803e0473a9dc48889b02f921356b8bee.woff",
+    "fontcustom/fontcustom_803e0473a9dc48889b02f921356b8bee.eot"
   ],
   "glyphs": {
     "arrowdown": {
@@ -85,6 +85,14 @@
     "notes": {
       "codepoint": 61715,
       "source": "./notes.svg"
+    },
+    "quotedown": {
+      "codepoint": 61719,
+      "source": "./quotedown.svg"
+    },
+    "quoteup": {
+      "codepoint": 61720,
+      "source": "./quoteup.svg"
     },
     "search": {
       "codepoint": 61716,

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="72px" height="72px" viewBox="0 0 72 72" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5 (25232) - http://www.bohemiancoding.com/sketch -->
+    <title>full-arrow-down</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Resources" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <path d="M37.5966697,42.2400541 L23.2561325,27.8995169 C22.0508824,26.6942667 20.1051812,26.6990888 18.902135,27.902135 C17.7015368,29.1027332 17.6979166,31.0545323 18.8995169,32.2561325 L35.2438675,48.6004831 C35.8961392,49.2527548 36.7652807,49.55061 37.6162063,49.4959266 C38.4555254,49.5389703 39.30905,49.2409051 39.949472,48.6004831 L56.2938226,32.2561325 C57.4990727,31.0508824 57.4942506,29.1051812 56.2912044,27.902135 C55.0906062,26.7015368 53.1388072,26.6979166 51.9372069,27.8995169 L37.5966697,42.2400541 Z M0,36 C0,16.117749 16.1133774,0 36,0 C55.882251,0 72,16.1133774 72,36 C72,55.882251 55.8866226,72 36,72 C16.117749,72 0,55.8866226 0,36 Z" id="full-arrow-down" fill="#454C55" sketch:type="MSShapeGroup"></path>
+    </g>
+</svg>

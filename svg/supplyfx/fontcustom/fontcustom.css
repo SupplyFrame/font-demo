@@ -4,11 +4,11 @@
 
 @font-face {
   font-family: "fontcustom";
-  src: url("./fontcustom_0f6e84a4889465a4acc0f18e15b52945.eot");
-  src: url("./fontcustom_0f6e84a4889465a4acc0f18e15b52945.eot?#iefix") format("embedded-opentype"),
-       url("./fontcustom_0f6e84a4889465a4acc0f18e15b52945.woff") format("woff"),
-       url("./fontcustom_0f6e84a4889465a4acc0f18e15b52945.ttf") format("truetype"),
-       url("./fontcustom_0f6e84a4889465a4acc0f18e15b52945.svg#fontcustom") format("svg");
+  src: url("./fontcustom_f1a42794b83bbed6a5883038cdb3858e.eot");
+  src: url("./fontcustom_f1a42794b83bbed6a5883038cdb3858e.eot?#iefix") format("embedded-opentype"),
+       url("./fontcustom_f1a42794b83bbed6a5883038cdb3858e.woff") format("woff"),
+       url("./fontcustom_f1a42794b83bbed6a5883038cdb3858e.ttf") format("truetype"),
+       url("./fontcustom_f1a42794b83bbed6a5883038cdb3858e.svg#fontcustom") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -16,7 +16,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "fontcustom";
-    src: url("./fontcustom_0f6e84a4889465a4acc0f18e15b52945.svg#fontcustom") format("svg");
+    src: url("./fontcustom_f1a42794b83bbed6a5883038cdb3858e.svg#fontcustom") format("svg");
   }
 }
 
@@ -38,6 +38,7 @@
 .icon-close:before,
 .icon-code:before,
 .icon-dot:before,
+.icon-download:before,
 .icon-email:before,
 .icon-eye:before,
 .icon-file:before,
@@ -60,7 +61,8 @@
 .icon-user:before,
 .icon-users:before,
 .icon-write:before,
-.icon-yes:before {
+.icon-yes:before,
+.icon-zoom-in:before {
   display: inline-block;
   font-family: "fontcustom";
   font-style: normal;
@@ -90,6 +92,7 @@
 .icon-close:before { content: "\f105"; }
 .icon-code:before { content: "\f11a"; }
 .icon-dot:before { content: "\f106"; }
+.icon-download:before { content: "\f126"; }
 .icon-email:before { content: "\f115"; }
 .icon-eye:before { content: "\f11b"; }
 .icon-file:before { content: "\f107"; }
@@ -113,3 +116,4 @@
 .icon-users:before { content: "\f116"; }
 .icon-write:before { content: "\f10e"; }
 .icon-yes:before { content: "\f10f"; }
+.icon-zoom-in:before { content: "\f127"; }

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="75px" height="71px" viewBox="0 0 75 71" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.2 (25235) - http://www.bohemiancoding.com/sketch -->
+    <title>prevarrow</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Resources" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Icons" sketch:type="MSLayerGroup" transform="translate(-124.000000, -395.000000)" fill="#333333">
+            <path d="M141.341755,442.61128 L126.301901,442.61128 L148.806614,467.698099 L171.311327,442.61128 L153.848453,442.61128 C154.497039,422.407211 171.017627,406.241509 191.319595,406.241509 C198.618606,406.241509 198.038223,393.698099 191.319595,393.698099 C164.115692,393.698099 142.002579,415.480802 141.341755,442.61128 Z" id="prevarrow" sketch:type="MSShapeGroup" transform="translate(161.440181, 430.698099) rotate(-90.000000) translate(-161.440181, -430.698099) "></path>
+        </g>
+    </g>
+</svg>

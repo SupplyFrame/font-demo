@@ -1,15 +1,19 @@
 {
   "checksum": {
-    "previous": "803e0473a9dc48889b02f921356b8bee681ee9af77f56093edd93f4f0db575fd",
-    "current": "803e0473a9dc48889b02f921356b8bee681ee9af77f56093edd93f4f0db575fd"
+    "previous": "12bd9b3246f366123ec907b59ba4a961b26cbfcca25a37d369ab87b3192b51b3",
+    "current": "12bd9b3246f366123ec907b59ba4a961b26cbfcca25a37d369ab87b3192b51b3"
   },
   "fonts": [
-    "fontcustom/fontcustom_803e0473a9dc48889b02f921356b8bee.ttf",
-    "fontcustom/fontcustom_803e0473a9dc48889b02f921356b8bee.svg",
-    "fontcustom/fontcustom_803e0473a9dc48889b02f921356b8bee.woff",
-    "fontcustom/fontcustom_803e0473a9dc48889b02f921356b8bee.eot"
+    "fontcustom/fontcustom_12bd9b3246f366123ec907b59ba4a961.ttf",
+    "fontcustom/fontcustom_12bd9b3246f366123ec907b59ba4a961.svg",
+    "fontcustom/fontcustom_12bd9b3246f366123ec907b59ba4a961.woff",
+    "fontcustom/fontcustom_12bd9b3246f366123ec907b59ba4a961.eot"
   ],
   "glyphs": {
+    "alt": {
+      "codepoint": 61721,
+      "source": "./alt.svg"
+    },
     "arrowdown": {
       "codepoint": 61698,
       "source": "./arrowdown.svg"

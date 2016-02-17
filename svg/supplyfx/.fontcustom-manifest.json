@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "f1a42794b83bbed6a5883038cdb3858e90be154f5fdd6e88848ce2b97eb54402",
-    "current": "f1a42794b83bbed6a5883038cdb3858e90be154f5fdd6e88848ce2b97eb54402"
+    "previous": "f65af55fee39b72a69347583eaf3bd0a0e3d7dba6f38f4077ea839f0ac003d97",
+    "current": "f65af55fee39b72a69347583eaf3bd0a0e3d7dba6f38f4077ea839f0ac003d97"
   },
   "fonts": [
-    "fontcustom/fontcustom_f1a42794b83bbed6a5883038cdb3858e.ttf",
-    "fontcustom/fontcustom_f1a42794b83bbed6a5883038cdb3858e.svg",
-    "fontcustom/fontcustom_f1a42794b83bbed6a5883038cdb3858e.woff",
-    "fontcustom/fontcustom_f1a42794b83bbed6a5883038cdb3858e.eot"
+    "fontcustom/fontcustom_f65af55fee39b72a69347583eaf3bd0a.ttf",
+    "fontcustom/fontcustom_f65af55fee39b72a69347583eaf3bd0a.svg",
+    "fontcustom/fontcustom_f65af55fee39b72a69347583eaf3bd0a.woff",
+    "fontcustom/fontcustom_f65af55fee39b72a69347583eaf3bd0a.eot"
   ],
   "glyphs": {
     "add": {
@@ -145,6 +145,10 @@
     "smallspacing": {
       "codepoint": 61714,
       "source": "./smallspacing.svg"
+    },
+    "thumbup": {
+      "codepoint": 61736,
+      "source": "./thumbup.svg"
     },
     "trash": {
       "codepoint": 61731,

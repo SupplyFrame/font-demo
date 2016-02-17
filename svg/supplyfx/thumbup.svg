@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="66px" height="74px" viewBox="0 0 66 74" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch 3.5.2 (25235) - http://www.bohemiancoding.com/sketch -->
+    <title>thumbup</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Resources" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Icons" sketch:type="MSLayerGroup" transform="translate(-38.000000, -394.000000)" fill="#333333">
+            <path d="M50.3333062,420.54966 C47.6298455,420.54966 38,422.194101 38,433.382876 L38,453.313499 C38,464.503097 47.6298455,465.736427 50.3333062,465.736427 C53.0359447,465.736427 46.2222041,463.38241 46.2222041,456.448625 L46.2222041,430.248572 C46.2222041,422.978499 53.0359447,420.54966 50.3333062,420.54966 L50.3333062,420.54966 Z M85.886939,420.158283 C85.345918,418.697197 100.439418,405.216894 91.6342597,394.293696 C89.5729531,391.737412 82.5849018,406.524224 72.6598792,413.219565 C67.1847135,416.912979 54.4444082,424.775051 54.4444082,429.118019 L54.4444082,457.238779 C54.4444082,462.468101 74.6455415,468 90.0021522,468 C95.6244953,468 103.777633,432.746478 103.777633,427.145512 C103.777633,421.523991 86.4287823,421.620191 85.886939,420.158283 L85.886939,420.158283 Z" id="thumbup" sketch:type="MSShapeGroup" transform="translate(70.888816, 431.000000) scale(-1, 1) translate(-70.888816, -431.000000) "></path>
+        </g>
+    </g>
+</svg>

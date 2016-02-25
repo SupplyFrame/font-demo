@@ -4,11 +4,11 @@
 
 @font-face {
   font-family: "fontcustom";
-  src: url("./fontcustom_a5d0a2686a4aabb190ccde8cbc7f0401.eot");
-  src: url("./fontcustom_a5d0a2686a4aabb190ccde8cbc7f0401.eot?#iefix") format("embedded-opentype"),
-       url("./fontcustom_a5d0a2686a4aabb190ccde8cbc7f0401.woff") format("woff"),
-       url("./fontcustom_a5d0a2686a4aabb190ccde8cbc7f0401.ttf") format("truetype"),
-       url("./fontcustom_a5d0a2686a4aabb190ccde8cbc7f0401.svg#fontcustom") format("svg");
+  src: url("./fontcustom_bbf8db161c25e03bb89f4f1e322b3285.eot");
+  src: url("./fontcustom_bbf8db161c25e03bb89f4f1e322b3285.eot?#iefix") format("embedded-opentype"),
+       url("./fontcustom_bbf8db161c25e03bb89f4f1e322b3285.woff") format("woff"),
+       url("./fontcustom_bbf8db161c25e03bb89f4f1e322b3285.ttf") format("truetype"),
+       url("./fontcustom_bbf8db161c25e03bb89f4f1e322b3285.svg#fontcustom") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -16,7 +16,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "fontcustom";
-    src: url("./fontcustom_a5d0a2686a4aabb190ccde8cbc7f0401.svg#fontcustom") format("svg");
+    src: url("./fontcustom_bbf8db161c25e03bb89f4f1e322b3285.svg#fontcustom") format("svg");
   }
 }
 
@@ -55,6 +55,7 @@
 .icon-prevarrow:before,
 .icon-quotedown:before,
 .icon-quoteup:before,
+.icon-reload:before,
 .icon-search:before,
 .icon-share:before,
 .icon-smallspacing:before,
@@ -62,6 +63,7 @@
 .icon-trash:before,
 .icon-user:before,
 .icon-users:before,
+.icon-world:before,
 .icon-write:before,
 .icon-yes:before,
 .icon-zoom-in:before {
@@ -111,6 +113,7 @@
 .icon-prevarrow:before { content: "\f129"; }
 .icon-quotedown:before { content: "\f117"; }
 .icon-quoteup:before { content: "\f118"; }
+.icon-reload:before { content: "\f12b"; }
 .icon-search:before { content: "\f10d"; }
 .icon-share:before { content: "\f125"; }
 .icon-smallspacing:before { content: "\f112"; }
@@ -118,6 +121,7 @@
 .icon-trash:before { content: "\f123"; }
 .icon-user:before { content: "\f124"; }
 .icon-users:before { content: "\f116"; }
+.icon-world:before { content: "\f12a"; }
 .icon-write:before { content: "\f10e"; }
 .icon-yes:before { content: "\f10f"; }
 .icon-zoom-in:before { content: "\f127"; }

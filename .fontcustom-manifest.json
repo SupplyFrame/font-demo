@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "6626a22958952346b3a135bcd917d48f9b3272c546c251eac9e8132750e519b3",
-    "current": "6626a22958952346b3a135bcd917d48f9b3272c546c251eac9e8132750e519b3"
+    "previous": "e4b838a4d2bdd0dee0d970aa89b68a7286ae3a1b0aaabc07e79fb153f1d5de85",
+    "current": "e4b838a4d2bdd0dee0d970aa89b68a7286ae3a1b0aaabc07e79fb153f1d5de85"
   },
   "fonts": [
-    "svg/hackaday-projects/fontcustom/fontcustom_6626a22958952346b3a135bcd917d48f.ttf",
-    "svg/hackaday-projects/fontcustom/fontcustom_6626a22958952346b3a135bcd917d48f.svg",
-    "svg/hackaday-projects/fontcustom/fontcustom_6626a22958952346b3a135bcd917d48f.woff",
-    "svg/hackaday-projects/fontcustom/fontcustom_6626a22958952346b3a135bcd917d48f.eot"
+    "svg/hackaday-projects/fontcustom/fontcustom_e4b838a4d2bdd0dee0d970aa89b68a72.ttf",
+    "svg/hackaday-projects/fontcustom/fontcustom_e4b838a4d2bdd0dee0d970aa89b68a72.svg",
+    "svg/hackaday-projects/fontcustom/fontcustom_e4b838a4d2bdd0dee0d970aa89b68a72.woff",
+    "svg/hackaday-projects/fontcustom/fontcustom_e4b838a4d2bdd0dee0d970aa89b68a72.eot"
   ],
   "glyphs": {
     "add": {
@@ -113,6 +113,10 @@
     "importimage": {
       "codepoint": 61772,
       "source": "svg/hackaday-projects/importimage.svg"
+    },
+    "join": {
+      "codepoint": 61800,
+      "source": "svg/hackaday-projects/join.svg"
     },
     "list": {
       "codepoint": 61773,
@@ -227,8 +231,8 @@
     "font_name": "fontcustom",
     "force": false,
     "input": {
-      "templates": "svg/hackaday-projects",
-      "vectors": "svg/hackaday-projects"
+      "templates": "svg/hackaday-projects/",
+      "vectors": "svg/hackaday-projects/"
     },
     "no_hash": false,
     "output": {

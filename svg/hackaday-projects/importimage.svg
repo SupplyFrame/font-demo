@@ -1,17 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg width="73px" height="44px" viewBox="0 0 73 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
-    <!-- Generator: Sketch 3.3.1 (12002) - http://www.bohemiancoding.com/sketch -->
+<svg width="70px" height="43px" viewBox="0 0 70 43" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.6 (26304) - http://www.bohemiancoding.com/sketch -->
     <title>importimage</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
-    <g id="Icons-/-Resources" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
-        <g id="importimage" sketch:type="MSLayerGroup">
-            <path d="M23.6274945,8.83636364 L72.8514412,8.83636364 L72.8514412,43.2 L23.6274945,43.2 L23.6274945,8.83636364 Z M27.0731707,12.2727273 L69.8980044,12.2727273 L69.8980044,39.7636364 L27.0731707,39.7636364 L27.0731707,12.2727273 Z" id="Rectangle-168" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
-            <path d="M17.5640523,8.9414857 L66.0401768,0.416938792 L72.0235308,34.2585143 L23.5474064,42.7830612 L17.5640523,8.9414857 L17.5640523,8.9414857 Z M21.5557164,11.728925 L63.7299447,4.31256916 L68.5166279,31.3858296 L26.3423997,38.8021854 L21.5557164,11.728925 L21.5557164,11.728925 Z" id="Rectangle-168-Copy-3" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
-            <rect id="Rectangle-173" fill="#111111" sketch:type="MSShapeGroup" x="27.0731707" y="12.2727273" width="42.8248337" height="27.4909091"></rect>
-            <path d="M39.1584984,25.7981191 L44.3110999,29.860815 L52.7322139,17.6727273 L57.9436931,25.7981191 L62.3786222,21.7354232 L66.4523282,36.3611285 L31.0110865,36.3611285 L39.1584984,25.7981191 Z" id="Rectangle-168-Copy-2" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
-            <ellipse id="Oval-13" fill="#FFFFFF" sketch:type="MSShapeGroup" cx="34.4567627" cy="19.6363636" rx="3.44567627" ry="3.43636364"></ellipse>
-            <path d="M16.0970914,24.2181818 L7.78018404,32.5862528 L7.78018404,26.6360803 L0.0217822618,26.6360803 L0.0217822618,21.8002833 L7.78018404,21.8002833 L7.78018404,15.8501109 L16.0970914,24.2181818 Z" id="Path-Copy" fill="#FFFFFF" sketch:type="MSShapeGroup"></path>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="importimage">
+            <path d="M23.606,42.3526608 L23.5256,42.3668 L17.5416,8.5248 L66.0186,-0.0002 L67.5070662,8.4191 L23.606,8.4191 L23.606,42.3526608 Z" id="Combined-Shape" fill="#000000"></path>
+            <path d="M27.051,39.3471 L69.876,39.3471 L69.876,11.8561 L27.051,11.8561 L27.051,39.3471 Z M39.1367,25.3812 L44.2897,29.4442 L52.7107,17.2562 L57.9217,25.3812 L62.3567,21.3182 L66.4307,35.9442 L30.9897,35.9442 L39.1367,25.3812 Z M34.435,15.7831 C36.338,15.7831 37.881,17.3221 37.881,19.2191 C37.881,21.1171 36.338,22.6561 34.435,22.6561 C32.532,22.6561 30.989,21.1171 30.989,19.2191 C30.989,17.3221 32.532,15.7831 34.435,15.7831 Z" id="Combined-Shape" fill="#111111"></path>
+            <path d="M16.0753,23.8013 L7.7583,32.1693 L7.7583,26.2193 L0.0003,26.2193 L0.0003,21.3833 L7.7583,21.3833 L7.7583,15.4333 L16.0753,23.8013 Z" id="Fill-7" fill="#000000"></path>
         </g>
     </g>
 </svg>

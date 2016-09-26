@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="14" height="24" viewBox="0 0 14 24" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <path id="a" d="M13.0635246,4 L14,4 L14,20 L13.9419223,20 C13.497677,21.9646049 10.5590164,23.4823529 7,23.4823529 C3.44098361,23.4823529 0.502323043,21.9646049 0.058077714,20 L0,20 L0,4 L0.936475367,4 C2.14680834,5.19560274 4.40901175,6 7,6 C9.59098825,6 11.8531917,5.19560274 13.0635246,4 Z"/>
+    <mask id="c" width="14" height="19.482" x="0" y="0" fill="white">
+      <use xlink:href="#a"/>
+    </mask>
+    <path id="b" d="M7,8 C10.8659932,8 14,6.209139 14,4 C14,1.790861 10.8659932,0 7,0 C3.13400675,0 0,1.790861 0,4 C0,6.209139 3.13400675,8 7,8 Z"/>
+    <mask id="d" width="14" height="8" x="0" y="0" fill="white">
+      <use xlink:href="#b"/>
+    </mask>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <use stroke="#000000" stroke-width="4" mask="url(#c)" xlink:href="#a"/>
+    <use stroke="#000000" stroke-width="4" mask="url(#d)" xlink:href="#b"/>
+    <path fill="#000000" d="M7,5 C8.1045695,5 9,4.55228475 9,4 C9,3.44771525 8.1045695,3 7,3 C5.8954305,3 5,3.44771525 5,4 C5,4.55228475 5.8954305,5 7,5 Z"/>
+  </g>
+</svg>

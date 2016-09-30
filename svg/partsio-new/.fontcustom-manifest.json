@@ -1,19 +1,15 @@
 {
   "checksum": {
-    "previous": "e055e613c760ccbbbad71ad42a918515f29b73380cfbaca0a1a5c0b7d4fce53a",
-    "current": "e055e613c760ccbbbad71ad42a918515f29b73380cfbaca0a1a5c0b7d4fce53a"
+    "previous": "190903934f1125b167a1bec189bfb14f4dc50a77a93e046377e8ad6efcad4321",
+    "current": "190903934f1125b167a1bec189bfb14f4dc50a77a93e046377e8ad6efcad4321"
   },
   "fonts": [
-    "fontcustom/fontcustom_e055e613c760ccbbbad71ad42a918515.ttf",
-    "fontcustom/fontcustom_e055e613c760ccbbbad71ad42a918515.svg",
-    "fontcustom/fontcustom_e055e613c760ccbbbad71ad42a918515.woff",
-    "fontcustom/fontcustom_e055e613c760ccbbbad71ad42a918515.eot"
+    "fontcustom/fontcustom_190903934f1125b167a1bec189bfb14f.ttf",
+    "fontcustom/fontcustom_190903934f1125b167a1bec189bfb14f.svg",
+    "fontcustom/fontcustom_190903934f1125b167a1bec189bfb14f.woff",
+    "fontcustom/fontcustom_190903934f1125b167a1bec189bfb14f.eot"
   ],
   "glyphs": {
-    "Rectangle-525": {
-      "codepoint": 61696,
-      "source": "./Rectangle 525.svg"
-    },
     "activefilters": {
       "codepoint": 61697,
       "source": "./activefilters.svg"

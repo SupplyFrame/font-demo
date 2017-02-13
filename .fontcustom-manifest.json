@@ -1,230 +1,198 @@
 {
   "checksum": {
-    "previous": "be82551359fc6a4c3fcd509a8ec1be746cea905c2fb5344555500ad930eecd7b",
-    "current": "be82551359fc6a4c3fcd509a8ec1be746cea905c2fb5344555500ad930eecd7b"
+    "previous": "b64610a65c482aac71f2917d25ed780bc29fe82af92e6b7e968df704ca3ae327",
+    "current": "b64610a65c482aac71f2917d25ed780bc29fe82af92e6b7e968df704ca3ae327"
   },
   "fonts": [
-    "../hackaday-projects/public/fonts/fontcustom_be82551359fc6a4c3fcd509a8ec1be74.ttf",
-    "../hackaday-projects/public/fonts/fontcustom_be82551359fc6a4c3fcd509a8ec1be74.svg",
-    "../hackaday-projects/public/fonts/fontcustom_be82551359fc6a4c3fcd509a8ec1be74.woff",
-    "../hackaday-projects/public/fonts/fontcustom_be82551359fc6a4c3fcd509a8ec1be74.eot"
+    "fontcustom/fontcustom_b64610a65c482aac71f2917d25ed780b.ttf",
+    "fontcustom/fontcustom_b64610a65c482aac71f2917d25ed780b.svg",
+    "fontcustom/fontcustom_b64610a65c482aac71f2917d25ed780b.woff",
+    "fontcustom/fontcustom_b64610a65c482aac71f2917d25ed780b.eot"
   ],
   "glyphs": {
     "add": {
       "codepoint": 61747,
-      "source": "./svg/hackaday-projects/add.svg"
+      "source": "svg/supplyfx/add.svg"
     },
-    "alert": {
-      "codepoint": 61748,
-      "source": "./svg/hackaday-projects/alert.svg"
+    "adduser": {
+      "codepoint": 61801,
+      "source": "svg/supplyfx/adduser.svg"
+    },
+    "archive": {
+      "codepoint": 61802,
+      "source": "svg/supplyfx/archive.svg"
     },
     "arrowdown": {
       "codepoint": 61749,
-      "source": "./svg/hackaday-projects/arrowdown.svg"
+      "source": "svg/supplyfx/arrowdown.svg"
     },
     "arrowleft": {
       "codepoint": 61750,
-      "source": "./svg/hackaday-projects/arrowleft.svg"
+      "source": "svg/supplyfx/arrowleft.svg"
     },
     "arrowright": {
       "codepoint": 61751,
-      "source": "./svg/hackaday-projects/arrowright.svg"
+      "source": "svg/supplyfx/arrowright.svg"
     },
-    "arrowup": {
-      "codepoint": 61752,
-      "source": "./svg/hackaday-projects/arrowup.svg"
+    "arrowtop": {
+      "codepoint": 61803,
+      "source": "svg/supplyfx/arrowtop.svg"
     },
-    "calendar": {
-      "codepoint": 61753,
-      "source": "./svg/hackaday-projects/calendar.svg"
+    "attachment": {
+      "codepoint": 61804,
+      "source": "svg/supplyfx/attachment.svg"
     },
-    "calendaradd": {
-      "codepoint": 61754,
-      "source": "./svg/hackaday-projects/calendaradd.svg"
+    "bell": {
+      "codepoint": 61805,
+      "source": "svg/supplyfx/bell.svg"
     },
-    "circleprogress": {
-      "codepoint": 61755,
-      "source": "./svg/hackaday-projects/circleprogress.svg"
+    "bell-normal": {
+      "codepoint": 61806,
+      "source": "svg/supplyfx/bell-normal.svg"
+    },
+    "bell-ringing": {
+      "codepoint": 61807,
+      "source": "svg/supplyfx/bell-ringing.svg"
+    },
+    "bell-silent": {
+      "codepoint": 61808,
+      "source": "svg/supplyfx/bell-silent.svg"
+    },
+    "bigerspacing": {
+      "codepoint": 61809,
+      "source": "svg/supplyfx/bigerspacing.svg"
     },
     "close": {
       "codepoint": 61756,
-      "source": "./svg/hackaday-projects/close.svg"
+      "source": "svg/supplyfx/close.svg"
     },
-    "completed": {
-      "codepoint": 61757,
-      "source": "./svg/hackaday-projects/completed.svg"
+    "code": {
+      "codepoint": 61810,
+      "source": "svg/supplyfx/code.svg"
     },
-    "discussions": {
-      "codepoint": 61758,
-      "source": "./svg/hackaday-projects/discussions.svg"
+    "dot": {
+      "codepoint": 61811,
+      "source": "svg/supplyfx/dot.svg"
     },
-    "dropbox": {
-      "codepoint": 61759,
-      "source": "./svg/hackaday-projects/dropbox.svg"
+    "download": {
+      "codepoint": 61812,
+      "source": "svg/supplyfx/download.svg"
     },
-    "edit": {
-      "codepoint": 61760,
-      "source": "./svg/hackaday-projects/edit.svg"
+    "email": {
+      "codepoint": 61813,
+      "source": "svg/supplyfx/email.svg"
     },
     "eye": {
       "codepoint": 61761,
-      "source": "./svg/hackaday-projects/eye.svg"
+      "source": "svg/supplyfx/eye.svg"
     },
-    "facebook": {
-      "codepoint": 61762,
-      "source": "./svg/hackaday-projects/facebook.svg"
+    "file": {
+      "codepoint": 61814,
+      "source": "svg/supplyfx/file.svg"
     },
-    "facebook-circle": {
-      "codepoint": 61763,
-      "source": "./svg/hackaday-projects/facebook-circle.svg"
+    "flag": {
+      "codepoint": 61815,
+      "source": "svg/supplyfx/flag.svg"
     },
-    "feed": {
-      "codepoint": 61764,
-      "source": "./svg/hackaday-projects/feed.svg"
+    "history": {
+      "codepoint": 61816,
+      "source": "svg/supplyfx/history.svg"
     },
-    "follow": {
-      "codepoint": 61765,
-      "source": "./svg/hackaday-projects/follow.svg"
+    "images": {
+      "codepoint": 61817,
+      "source": "svg/supplyfx/images.svg"
     },
-    "github": {
-      "codepoint": 61766,
-      "source": "./svg/hackaday-projects/github.svg"
+    "info": {
+      "codepoint": 61818,
+      "source": "svg/supplyfx/info.svg"
     },
-    "githublogo": {
-      "codepoint": 61767,
-      "source": "./svg/hackaday-projects/githublogo.svg"
-    },
-    "googleplus": {
-      "codepoint": 61768,
-      "source": "./svg/hackaday-projects/googleplus.svg"
-    },
-    "googleplus-circle": {
-      "codepoint": 61769,
-      "source": "./svg/hackaday-projects/googleplus-circle.svg"
-    },
-    "hardware": {
-      "codepoint": 61770,
-      "source": "./svg/hackaday-projects/hardware.svg"
-    },
-    "home": {
-      "codepoint": 61771,
-      "source": "./svg/hackaday-projects/home.svg"
-    },
-    "importimage": {
-      "codepoint": 61772,
-      "source": "./svg/hackaday-projects/importimage.svg"
-    },
-    "join": {
-      "codepoint": 61800,
-      "source": "./svg/hackaday-projects/join.svg"
-    },
-    "list": {
-      "codepoint": 61773,
-      "source": "./svg/hackaday-projects/list.svg"
+    "leave": {
+      "codepoint": 61819,
+      "source": "svg/supplyfx/leave.svg"
     },
     "location": {
       "codepoint": 61774,
-      "source": "./svg/hackaday-projects/location.svg"
-    },
-    "lock": {
-      "codepoint": 61798,
-      "source": "./svg/hackaday-projects/lock.svg"
-    },
-    "longarrowdown": {
-      "codepoint": 61775,
-      "source": "./svg/hackaday-projects/longarrowdown.svg"
-    },
-    "longarrowleft": {
-      "codepoint": 61776,
-      "source": "./svg/hackaday-projects/longarrowleft.svg"
-    },
-    "longarrowright": {
-      "codepoint": 61777,
-      "source": "./svg/hackaday-projects/longarrowright.svg"
-    },
-    "longarrowup": {
-      "codepoint": 61778,
-      "source": "./svg/hackaday-projects/longarrowup.svg"
+      "source": "svg/supplyfx/location.svg"
     },
     "messages": {
       "codepoint": 61779,
-      "source": "./svg/hackaday-projects/messages.svg"
-    },
-    "misc": {
-      "codepoint": 61780,
-      "source": "./svg/hackaday-projects/misc.svg"
-    },
-    "move": {
-      "codepoint": 61781,
-      "source": "./svg/hackaday-projects/move.svg"
+      "source": "svg/supplyfx/messages.svg"
     },
     "options": {
       "codepoint": 61782,
-      "source": "./svg/hackaday-projects/options.svg"
+      "source": "svg/supplyfx/options.svg"
     },
-    "other": {
-      "codepoint": 61783,
-      "source": "./svg/hackaday-projects/other.svg"
+    "phone": {
+      "codepoint": 61820,
+      "source": "svg/supplyfx/phone.svg"
     },
-    "page": {
-      "codepoint": 61784,
-      "source": "./svg/hackaday-projects/page.svg"
+    "photo": {
+      "codepoint": 61821,
+      "source": "svg/supplyfx/photo.svg"
     },
-    "prize": {
-      "codepoint": 61785,
-      "source": "./svg/hackaday-projects/prize.svg"
+    "prevarrow": {
+      "codepoint": 61822,
+      "source": "svg/supplyfx/prevarrow.svg"
     },
-    "project-update": {
-      "codepoint": 61786,
-      "source": "./svg/hackaday-projects/project-update.svg"
+    "quotedown": {
+      "codepoint": 61823,
+      "source": "svg/supplyfx/quotedown.svg"
+    },
+    "quoteup": {
+      "codepoint": 61824,
+      "source": "svg/supplyfx/quoteup.svg"
+    },
+    "reload": {
+      "codepoint": 61825,
+      "source": "svg/supplyfx/reload.svg"
     },
     "search": {
       "codepoint": 61787,
-      "source": "./svg/hackaday-projects/search.svg"
+      "source": "svg/supplyfx/search.svg"
     },
-    "skull": {
-      "codepoint": 61788,
-      "source": "./svg/hackaday-projects/skull.svg"
+    "share": {
+      "codepoint": 61826,
+      "source": "svg/supplyfx/share.svg"
     },
-    "software": {
-      "codepoint": 61789,
-      "source": "./svg/hackaday-projects/software.svg"
+    "smallspacing": {
+      "codepoint": 61827,
+      "source": "svg/supplyfx/smallspacing.svg"
     },
-    "star": {
-      "codepoint": 61790,
-      "source": "./svg/hackaday-projects/star.svg"
+    "thumbup": {
+      "codepoint": 61828,
+      "source": "svg/supplyfx/thumbup.svg"
     },
-    "storage": {
-      "codepoint": 61801,
-      "source": "./svg/hackaday-projects/storage.svg"
+    "topic": {
+      "codepoint": 61829,
+      "source": "svg/supplyfx/topic.svg"
     },
     "trash": {
-      "codepoint": 61802,
-      "source": "./svg/hackaday-projects/trash.svg"
-    },
-    "twitter": {
-      "codepoint": 61791,
-      "source": "./svg/hackaday-projects/twitter.svg"
-    },
-    "twitter-circle": {
-      "codepoint": 61792,
-      "source": "./svg/hackaday-projects/twitter-circle.svg"
-    },
-    "twitterlogo": {
-      "codepoint": 61793,
-      "source": "./svg/hackaday-projects/twitterlogo.svg"
-    },
-    "unlock": {
-      "codepoint": 61799,
-      "source": "./svg/hackaday-projects/unlock.svg"
+      "codepoint": 61830,
+      "source": "svg/supplyfx/trash.svg"
     },
     "user": {
       "codepoint": 61794,
-      "source": "./svg/hackaday-projects/user.svg"
+      "source": "svg/supplyfx/user.svg"
     },
     "users": {
       "codepoint": 61795,
-      "source": "./svg/hackaday-projects/users.svg"
+      "source": "svg/supplyfx/users.svg"
+    },
+    "world": {
+      "codepoint": 61831,
+      "source": "svg/supplyfx/world.svg"
+    },
+    "write": {
+      "codepoint": 61832,
+      "source": "svg/supplyfx/write.svg"
+    },
+    "yes": {
+      "codepoint": 61833,
+      "source": "svg/supplyfx/yes.svg"
+    },
+    "zoom-in": {
+      "codepoint": 61834,
+      "source": "svg/supplyfx/zoom-in.svg"
     }
   },
   "options": {
@@ -239,15 +207,14 @@
     "font_name": "fontcustom",
     "force": false,
     "input": {
-      "templates": "./svg/hackaday-projects",
-      "vectors": "./svg/hackaday-projects"
+      "templates": "svg/supplyfx/",
+      "vectors": "svg/supplyfx/"
     },
     "no_hash": false,
     "output": {
-      "css": "../hackaday-projects/public/css/sass/structure",
-      "fonts": "../hackaday-projects/public/fonts",
-      "my-custom-template.yml": "../hackaday-projects/public/fonts",
-      "preview": "../hackaday-projects/public/fonts"
+      "css": "fontcustom",
+      "fonts": "fontcustom",
+      "preview": "fontcustom"
     },
     "preprocessor_path": null,
     "quiet": false,
@@ -257,7 +224,7 @@
     ]
   },
   "templates": [
-    "../hackaday-projects/public/css/sass/structure/fontcustom.css",
-    "../hackaday-projects/public/fonts/fontcustom-preview.html"
+    "fontcustom/fontcustom.css",
+    "fontcustom/fontcustom-preview.html"
   ]
 }

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>arrow-right</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon-Set-Example" transform="translate(-120.000000, -24.000000)" fill="#000000">
+            <g id="arrow-right" transform="translate(120.000000, 24.000000)">
+                <path d="M8.50696576,9.7116714 L3.71678839,4.92149403 C3.43254737,4.63725301 2.99018604,4.64209332 2.71436045,4.91791891 C2.43661186,5.19566751 2.4401355,5.64254678 2.71793557,5.92034685 L7.85852584,11.0609371 C8.03953462,11.2419459 8.28466634,11.3057228 8.51007889,11.256941 C8.73573064,11.3027952 8.97947451,11.2368683 9.15540568,11.0609371 L14.2959959,5.92034685 C14.580237,5.63610583 14.5753967,5.1937445 14.2995711,4.91791891 C14.0218225,4.64017032 13.5749432,4.64369396 13.2971431,4.92149403 L8.50696576,9.7116714 Z" id="arrowright" transform="translate(8.507809, 7.991216) rotate(-90.000000) translate(-8.507809, -7.991216) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

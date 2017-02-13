@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>move</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon-Set-Example" transform="translate(-240.000000, -120.000000)" fill="#000000">
+            <g id="move" transform="translate(240.000000, 120.000000)">
+                <path d="M9.17759983,8.53344265 L8.54169256,8.53344265 L8.54169256,11.7716769 L10.2830691,11.7716769 L8.02624512,14.0179952 L5.76942118,11.7716769 L7.51079767,11.7716769 L7.51079767,8.53344265 L4.27256347,8.53344265 L4.27256347,10.2748191 L2.02624512,8.01799521 L4.27256347,5.76117127 L4.27256347,7.50254777 L7.51079767,7.50254777 L7.51079767,4.26431357 L5.76942118,4.26431357 L8.02624512,2.01799521 L10.2830691,4.26431357 L8.54169256,4.26431357 L8.54169256,7.50254777 L9.17759983,7.50254777 L11.7799268,7.50254777 L11.7799268,5.76117127 L14.0262451,8.01799521 L11.7799268,10.2748191 L11.7799268,8.53344265 L9.17759983,8.53344265 Z"></path>
+            </g>
+        </g>
+    </g>
+</svg>

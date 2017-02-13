@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>progress-circle</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon-Set-Example" transform="translate(-120.000000, -72.000000)" fill="#000000">
+            <g id="progress-circle" transform="translate(120.000000, 72.000000)">
+                <path d="M3.14838086,8.0287374 C3.14838086,10.7210499 5.33088086,12.9037374 8.02338086,12.9037374 C9.36944336,12.9037374 10.5881934,12.3581124 11.4703809,11.4759249 L8.02319336,8.0287374 L8.02319336,3.1537374 C5.33088086,3.1537374 3.14838086,5.3364249 3.14838086,8.0287374 L3.14838086,8.0287374 Z M8.02338086,14.0287374 C4.70950586,14.0287374 2.02319336,11.3424249 2.02319336,8.0287374 C2.02319336,4.7150499 4.70950586,2.0287374 8.02338086,2.0287374 C11.3368809,2.0287374 14.0231934,4.7150499 14.0231934,8.0287374 C14.0231934,11.3424249 11.3368809,14.0287374 8.02338086,14.0287374 L8.02338086,14.0287374 Z" id="circleprogress"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,18 +1,234 @@
 {
   "checksum": {
-    "previous": "4a7a0e7a2826623a345db5fe00f00bd9069ffdd57b6113e200c9e82dd903f569",
-    "current": "4a7a0e7a2826623a345db5fe00f00bd9069ffdd57b6113e200c9e82dd903f569"
+    "previous": "e32d41c0b304496fbb4889e564f690f00e480eef3a9f9fab698a666a177467df",
+    "current": "e32d41c0b304496fbb4889e564f690f00e480eef3a9f9fab698a666a177467df"
   },
   "fonts": [
-    "fontcustom/fontcustom_4a7a0e7a2826623a345db5fe00f00bd9.ttf",
-    "fontcustom/fontcustom_4a7a0e7a2826623a345db5fe00f00bd9.svg",
-    "fontcustom/fontcustom_4a7a0e7a2826623a345db5fe00f00bd9.woff",
-    "fontcustom/fontcustom_4a7a0e7a2826623a345db5fe00f00bd9.eot"
+    "fontcustom/fontcustom_e32d41c0b304496fbb4889e564f690f0.ttf",
+    "fontcustom/fontcustom_e32d41c0b304496fbb4889e564f690f0.svg",
+    "fontcustom/fontcustom_e32d41c0b304496fbb4889e564f690f0.woff",
+    "fontcustom/fontcustom_e32d41c0b304496fbb4889e564f690f0.eot"
   ],
   "glyphs": {
-    "fontcustom_e4b838a4d2bdd0dee0d970aa89b68a72": {
-      "codepoint": 61745,
-      "source": "fontcustom/fontcustom_e4b838a4d2bdd0dee0d970aa89b68a72.svg"
+    "add": {
+      "codepoint": 61746,
+      "source": "./add.svg"
+    },
+    "alert": {
+      "codepoint": 61747,
+      "source": "./alert.svg"
+    },
+    "arrowdown": {
+      "codepoint": 61748,
+      "source": "./arrowdown.svg"
+    },
+    "arrowleft": {
+      "codepoint": 61749,
+      "source": "./arrowleft.svg"
+    },
+    "arrowright": {
+      "codepoint": 61750,
+      "source": "./arrowright.svg"
+    },
+    "arrowup": {
+      "codepoint": 61751,
+      "source": "./arrowup.svg"
+    },
+    "calendar": {
+      "codepoint": 61752,
+      "source": "./calendar.svg"
+    },
+    "calendaradd": {
+      "codepoint": 61753,
+      "source": "./calendaradd.svg"
+    },
+    "circleprogress": {
+      "codepoint": 61754,
+      "source": "./circleprogress.svg"
+    },
+    "close": {
+      "codepoint": 61755,
+      "source": "./close.svg"
+    },
+    "completed": {
+      "codepoint": 61756,
+      "source": "./completed.svg"
+    },
+    "discussions": {
+      "codepoint": 61757,
+      "source": "./discussions.svg"
+    },
+    "dropbox": {
+      "codepoint": 61758,
+      "source": "./dropbox.svg"
+    },
+    "edit": {
+      "codepoint": 61759,
+      "source": "./edit.svg"
+    },
+    "eye": {
+      "codepoint": 61760,
+      "source": "./eye.svg"
+    },
+    "facebook": {
+      "codepoint": 61761,
+      "source": "./facebook.svg"
+    },
+    "facebook-circle": {
+      "codepoint": 61762,
+      "source": "./facebook-circle.svg"
+    },
+    "feed": {
+      "codepoint": 61763,
+      "source": "./feed.svg"
+    },
+    "follow": {
+      "codepoint": 61764,
+      "source": "./follow.svg"
+    },
+    "github": {
+      "codepoint": 61765,
+      "source": "./github.svg"
+    },
+    "githublogo": {
+      "codepoint": 61766,
+      "source": "./githublogo.svg"
+    },
+    "googleplus": {
+      "codepoint": 61767,
+      "source": "./googleplus.svg"
+    },
+    "googleplus-circle": {
+      "codepoint": 61768,
+      "source": "./googleplus-circle.svg"
+    },
+    "hardware": {
+      "codepoint": 61769,
+      "source": "./hardware.svg"
+    },
+    "home": {
+      "codepoint": 61770,
+      "source": "./home.svg"
+    },
+    "importimage": {
+      "codepoint": 61771,
+      "source": "./importimage.svg"
+    },
+    "invader": {
+      "codepoint": 61772,
+      "source": "./invader.svg"
+    },
+    "join": {
+      "codepoint": 61773,
+      "source": "./join.svg"
+    },
+    "list": {
+      "codepoint": 61774,
+      "source": "./list.svg"
+    },
+    "location": {
+      "codepoint": 61775,
+      "source": "./location.svg"
+    },
+    "lock": {
+      "codepoint": 61776,
+      "source": "./lock.svg"
+    },
+    "longarrowdown": {
+      "codepoint": 61777,
+      "source": "./longarrowdown.svg"
+    },
+    "longarrowleft": {
+      "codepoint": 61778,
+      "source": "./longarrowleft.svg"
+    },
+    "longarrowright": {
+      "codepoint": 61779,
+      "source": "./longarrowright.svg"
+    },
+    "longarrowup": {
+      "codepoint": 61780,
+      "source": "./longarrowup.svg"
+    },
+    "messages": {
+      "codepoint": 61781,
+      "source": "./messages.svg"
+    },
+    "misc": {
+      "codepoint": 61782,
+      "source": "./misc.svg"
+    },
+    "move": {
+      "codepoint": 61783,
+      "source": "./move.svg"
+    },
+    "options": {
+      "codepoint": 61784,
+      "source": "./options.svg"
+    },
+    "other": {
+      "codepoint": 61785,
+      "source": "./other.svg"
+    },
+    "page": {
+      "codepoint": 61786,
+      "source": "./page.svg"
+    },
+    "prize": {
+      "codepoint": 61787,
+      "source": "./prize.svg"
+    },
+    "project-update": {
+      "codepoint": 61788,
+      "source": "./project-update.svg"
+    },
+    "search": {
+      "codepoint": 61789,
+      "source": "./search.svg"
+    },
+    "skull": {
+      "codepoint": 61790,
+      "source": "./skull.svg"
+    },
+    "software": {
+      "codepoint": 61791,
+      "source": "./software.svg"
+    },
+    "star": {
+      "codepoint": 61792,
+      "source": "./star.svg"
+    },
+    "storage": {
+      "codepoint": 61793,
+      "source": "./storage.svg"
+    },
+    "trash": {
+      "codepoint": 61794,
+      "source": "./trash.svg"
+    },
+    "twitter": {
+      "codepoint": 61795,
+      "source": "./twitter.svg"
+    },
+    "twitter-circle": {
+      "codepoint": 61796,
+      "source": "./twitter-circle.svg"
+    },
+    "twitterlogo": {
+      "codepoint": 61797,
+      "source": "./twitterlogo.svg"
+    },
+    "unlock": {
+      "codepoint": 61798,
+      "source": "./unlock.svg"
+    },
+    "user": {
+      "codepoint": 61799,
+      "source": "./user.svg"
+    },
+    "users": {
+      "codepoint": 61800,
+      "source": "./users.svg"
     }
   },
   "options": {
@@ -27,8 +243,8 @@
     "font_name": "fontcustom",
     "force": false,
     "input": {
-      "templates": "fontcustom",
-      "vectors": "fontcustom"
+      "templates": ".",
+      "vectors": "."
     },
     "no_hash": false,
     "output": {

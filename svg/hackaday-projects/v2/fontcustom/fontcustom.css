@@ -1,0 +1,193 @@
+/*
+  Icon Font: fontcustom
+*/
+
+@font-face {
+  font-family: "fontcustom";
+  src: url("./fontcustom_eb354d13d0a141b24090d3ee5605ed38.eot");
+  src: url("./fontcustom_eb354d13d0a141b24090d3ee5605ed38.eot?#iefix") format("embedded-opentype"),
+       url("./fontcustom_eb354d13d0a141b24090d3ee5605ed38.woff") format("woff"),
+       url("./fontcustom_eb354d13d0a141b24090d3ee5605ed38.ttf") format("truetype"),
+       url("./fontcustom_eb354d13d0a141b24090d3ee5605ed38.svg#fontcustom") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "fontcustom";
+    src: url("./fontcustom_eb354d13d0a141b24090d3ee5605ed38.svg#fontcustom") format("svg");
+  }
+}
+
+[data-icon]:before { content: attr(data-icon); }
+
+[data-icon]:before,
+.icon-add:before,
+.icon-add-circle:before,
+.icon-alert-circle:before,
+.icon-arrow-down:before,
+.icon-arrow-left:before,
+.icon-arrow-right:before,
+.icon-arrow-up:before,
+.icon-attachment:before,
+.icon-bell:before,
+.icon-bell-normal:before,
+.icon-bell-ringing:before,
+.icon-bell-silent:before,
+.icon-blank:before,
+.icon-blank-circle:before,
+.icon-calendar:before,
+.icon-calendar-add:before,
+.icon-close:before,
+.icon-close-circle:before,
+.icon-code:before,
+.icon-comment:before,
+.icon-complete-circle:before,
+.icon-discussion:before,
+.icon-discussions:before,
+.icon-download-circle:before,
+.icon-dropbox:before,
+.icon-dropdown:before,
+.icon-dropup:before,
+.icon-edit:before,
+.icon-eye:before,
+.icon-eye-circle:before,
+.icon-facebook:before,
+.icon-facebook-circle:before,
+.icon-feed:before,
+.icon-follow:before,
+.icon-github:before,
+.icon-github-circle:before,
+.icon-google:before,
+.icon-google-circle:before,
+.icon-hardware:before,
+.icon-home:before,
+.icon-image:before,
+.icon-import-image:before,
+.icon-info-circle:before,
+.icon-invader:before,
+.icon-link:before,
+.icon-list:before,
+.icon-location:before,
+.icon-lock:before,
+.icon-long-arrow-down:before,
+.icon-long-arrow-left:before,
+.icon-long-arrow-right:before,
+.icon-long-arrow-up:before,
+.icon-menu:before,
+.icon-menu-large:before,
+.icon-messages:before,
+.icon-misc-circle:before,
+.icon-move:before,
+.icon-options:before,
+.icon-page:before,
+.icon-previous-arrow:before,
+.icon-prize:before,
+.icon-progress-circle:before,
+.icon-project-update:before,
+.icon-reload:before,
+.icon-search:before,
+.icon-share:before,
+.icon-skull:before,
+.icon-software:before,
+.icon-star:before,
+.icon-storage-circle:before,
+.icon-trash-circle:before,
+.icon-twitter:before,
+.icon-twitter-circle:before,
+.icon-unlock:before,
+.icon-user:before,
+.icon-user-add:before,
+.icon-users:before {
+  display: inline-block;
+  font-family: "fontcustom";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+}
+
+.icon-add:before { content: "\f100"; }
+.icon-add-circle:before { content: "\f144"; }
+.icon-alert-circle:before { content: "\f145"; }
+.icon-arrow-down:before { content: "\f146"; }
+.icon-arrow-left:before { content: "\f147"; }
+.icon-arrow-right:before { content: "\f148"; }
+.icon-arrow-up:before { content: "\f149"; }
+.icon-attachment:before { content: "\f14a"; }
+.icon-bell:before { content: "\f14b"; }
+.icon-bell-normal:before { content: "\f14c"; }
+.icon-bell-ringing:before { content: "\f14d"; }
+.icon-bell-silent:before { content: "\f14e"; }
+.icon-blank:before { content: "\f108"; }
+.icon-blank-circle:before { content: "\f14f"; }
+.icon-calendar:before { content: "\f10a"; }
+.icon-calendar-add:before { content: "\f150"; }
+.icon-close:before { content: "\f10c"; }
+.icon-close-circle:before { content: "\f151"; }
+.icon-code:before { content: "\f152"; }
+.icon-comment:before { content: "\f10e"; }
+.icon-complete-circle:before { content: "\f153"; }
+.icon-discussion:before { content: "\f110"; }
+.icon-discussions:before { content: "\f111"; }
+.icon-download-circle:before { content: "\f154"; }
+.icon-dropbox:before { content: "\f113"; }
+.icon-dropdown:before { content: "\f114"; }
+.icon-dropup:before { content: "\f115"; }
+.icon-edit:before { content: "\f116"; }
+.icon-eye:before { content: "\f117"; }
+.icon-eye-circle:before { content: "\f155"; }
+.icon-facebook:before { content: "\f119"; }
+.icon-facebook-circle:before { content: "\f156"; }
+.icon-feed:before { content: "\f11b"; }
+.icon-follow:before { content: "\f11c"; }
+.icon-github:before { content: "\f11d"; }
+.icon-github-circle:before { content: "\f157"; }
+.icon-google:before { content: "\f11f"; }
+.icon-google-circle:before { content: "\f158"; }
+.icon-hardware:before { content: "\f121"; }
+.icon-home:before { content: "\f122"; }
+.icon-image:before { content: "\f159"; }
+.icon-import-image:before { content: "\f15a"; }
+.icon-info-circle:before { content: "\f15b"; }
+.icon-invader:before { content: "\f125"; }
+.icon-link:before { content: "\f126"; }
+.icon-list:before { content: "\f127"; }
+.icon-location:before { content: "\f128"; }
+.icon-lock:before { content: "\f129"; }
+.icon-long-arrow-down:before { content: "\f15c"; }
+.icon-long-arrow-left:before { content: "\f15d"; }
+.icon-long-arrow-right:before { content: "\f15e"; }
+.icon-long-arrow-up:before { content: "\f15f"; }
+.icon-menu:before { content: "\f12e"; }
+.icon-menu-large:before { content: "\f160"; }
+.icon-messages:before { content: "\f12f"; }
+.icon-misc-circle:before { content: "\f161"; }
+.icon-move:before { content: "\f131"; }
+.icon-options:before { content: "\f132"; }
+.icon-page:before { content: "\f133"; }
+.icon-previous-arrow:before { content: "\f162"; }
+.icon-prize:before { content: "\f135"; }
+.icon-progress-circle:before { content: "\f163"; }
+.icon-project-update:before { content: "\f164"; }
+.icon-reload:before { content: "\f165"; }
+.icon-search:before { content: "\f138"; }
+.icon-share:before { content: "\f166"; }
+.icon-skull:before { content: "\f139"; }
+.icon-software:before { content: "\f13a"; }
+.icon-star:before { content: "\f13b"; }
+.icon-storage-circle:before { content: "\f167"; }
+.icon-trash-circle:before { content: "\f168"; }
+.icon-twitter:before { content: "\f13e"; }
+.icon-twitter-circle:before { content: "\f169"; }
+.icon-unlock:before { content: "\f140"; }
+.icon-user:before { content: "\f141"; }
+.icon-user-add:before { content: "\f16a"; }
+.icon-users:before { content: "\f143"; }

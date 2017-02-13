@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>arrow-up</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon-Set-Example" transform="translate(-192.000000, -24.000000)" fill="#000000">
+            <g id="arrow-up" transform="translate(192.000000, 24.000000)">
+                <path d="M7.999157,9.70218549 L3.20897963,4.91200812 C2.92473862,4.6277671 2.48237728,4.63260741 2.20655169,4.908433 C1.9288031,5.18618159 1.93232674,5.63306086 2.21012681,5.91086094 L7.35071709,11.0514512 C7.53172586,11.23246 7.77685758,11.2962369 8.00227014,11.2474551 C8.22792188,11.2933093 8.47166575,11.2273824 8.64759692,11.0514512 L13.7881872,5.91086094 C14.0724282,5.62661992 14.0675879,5.18425859 13.7917623,4.908433 C13.5140137,4.6306844 13.0671344,4.63420804 12.7893344,4.91200812 L7.999157,9.70218549 Z" id="arrowright" transform="translate(8.000000, 7.981730) scale(-1, -1) translate(-8.000000, -7.981730) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

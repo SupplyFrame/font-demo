@@ -4,11 +4,11 @@
 
 @font-face {
   font-family: "fontcustom";
-  src: url("./fontcustom_90f1d78308acddbcc688de316a3e2d0c.eot");
-  src: url("./fontcustom_90f1d78308acddbcc688de316a3e2d0c.eot?#iefix") format("embedded-opentype"),
-       url("./fontcustom_90f1d78308acddbcc688de316a3e2d0c.woff") format("woff"),
-       url("./fontcustom_90f1d78308acddbcc688de316a3e2d0c.ttf") format("truetype"),
-       url("./fontcustom_90f1d78308acddbcc688de316a3e2d0c.svg#fontcustom") format("svg");
+  src: url("./fontcustom_e32d41c0b304496fbb4889e564f690f0.eot");
+  src: url("./fontcustom_e32d41c0b304496fbb4889e564f690f0.eot?#iefix") format("embedded-opentype"),
+       url("./fontcustom_e32d41c0b304496fbb4889e564f690f0.woff") format("woff"),
+       url("./fontcustom_e32d41c0b304496fbb4889e564f690f0.ttf") format("truetype"),
+       url("./fontcustom_e32d41c0b304496fbb4889e564f690f0.svg#fontcustom") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -16,7 +16,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "fontcustom";
-    src: url("./fontcustom_90f1d78308acddbcc688de316a3e2d0c.svg#fontcustom") format("svg");
+    src: url("./fontcustom_e32d41c0b304496fbb4889e564f690f0.svg#fontcustom") format("svg");
   }
 }
 
@@ -49,6 +49,7 @@
 .icon-hardware:before,
 .icon-home:before,
 .icon-importimage:before,
+.icon-invader:before,
 .icon-join:before,
 .icon-list:before,
 .icon-location:before,
@@ -91,57 +92,58 @@
   font-smoothing: antialiased;
 }
 
-.icon-add:before { content: "\f133"; }
-.icon-alert:before { content: "\f134"; }
-.icon-arrowdown:before { content: "\f135"; }
-.icon-arrowleft:before { content: "\f136"; }
-.icon-arrowright:before { content: "\f137"; }
-.icon-arrowup:before { content: "\f138"; }
-.icon-calendar:before { content: "\f139"; }
-.icon-calendaradd:before { content: "\f13a"; }
-.icon-circleprogress:before { content: "\f13b"; }
-.icon-close:before { content: "\f13c"; }
-.icon-completed:before { content: "\f13d"; }
-.icon-discussions:before { content: "\f13e"; }
-.icon-dropbox:before { content: "\f13f"; }
-.icon-edit:before { content: "\f140"; }
-.icon-eye:before { content: "\f141"; }
-.icon-facebook:before { content: "\f142"; }
-.icon-facebook-circle:before { content: "\f143"; }
-.icon-feed:before { content: "\f144"; }
-.icon-follow:before { content: "\f145"; }
-.icon-github:before { content: "\f146"; }
-.icon-githublogo:before { content: "\f147"; }
-.icon-googleplus:before { content: "\f148"; }
-.icon-googleplus-circle:before { content: "\f149"; }
-.icon-hardware:before { content: "\f14a"; }
-.icon-home:before { content: "\f14b"; }
-.icon-importimage:before { content: "\f14c"; }
-.icon-join:before { content: "\f168"; }
-.icon-list:before { content: "\f14d"; }
-.icon-location:before { content: "\f14e"; }
-.icon-lock:before { content: "\f166"; }
-.icon-longarrowdown:before { content: "\f14f"; }
-.icon-longarrowleft:before { content: "\f150"; }
-.icon-longarrowright:before { content: "\f151"; }
-.icon-longarrowup:before { content: "\f152"; }
-.icon-messages:before { content: "\f153"; }
-.icon-misc:before { content: "\f154"; }
-.icon-move:before { content: "\f155"; }
-.icon-options:before { content: "\f156"; }
-.icon-other:before { content: "\f157"; }
-.icon-page:before { content: "\f158"; }
-.icon-prize:before { content: "\f159"; }
-.icon-project-update:before { content: "\f15a"; }
-.icon-search:before { content: "\f15b"; }
-.icon-skull:before { content: "\f15c"; }
-.icon-software:before { content: "\f15d"; }
-.icon-star:before { content: "\f15e"; }
-.icon-storage:before { content: "\f16a"; }
-.icon-trash:before { content: "\f169"; }
-.icon-twitter:before { content: "\f15f"; }
-.icon-twitter-circle:before { content: "\f160"; }
-.icon-twitterlogo:before { content: "\f161"; }
-.icon-unlock:before { content: "\f167"; }
-.icon-user:before { content: "\f162"; }
-.icon-users:before { content: "\f163"; }
+.icon-add:before { content: "\f132"; }
+.icon-alert:before { content: "\f133"; }
+.icon-arrowdown:before { content: "\f134"; }
+.icon-arrowleft:before { content: "\f135"; }
+.icon-arrowright:before { content: "\f136"; }
+.icon-arrowup:before { content: "\f137"; }
+.icon-calendar:before { content: "\f138"; }
+.icon-calendaradd:before { content: "\f139"; }
+.icon-circleprogress:before { content: "\f13a"; }
+.icon-close:before { content: "\f13b"; }
+.icon-completed:before { content: "\f13c"; }
+.icon-discussions:before { content: "\f13d"; }
+.icon-dropbox:before { content: "\f13e"; }
+.icon-edit:before { content: "\f13f"; }
+.icon-eye:before { content: "\f140"; }
+.icon-facebook:before { content: "\f141"; }
+.icon-facebook-circle:before { content: "\f142"; }
+.icon-feed:before { content: "\f143"; }
+.icon-follow:before { content: "\f144"; }
+.icon-github:before { content: "\f145"; }
+.icon-githublogo:before { content: "\f146"; }
+.icon-googleplus:before { content: "\f147"; }
+.icon-googleplus-circle:before { content: "\f148"; }
+.icon-hardware:before { content: "\f149"; }
+.icon-home:before { content: "\f14a"; }
+.icon-importimage:before { content: "\f14b"; }
+.icon-invader:before { content: "\f14c"; }
+.icon-join:before { content: "\f14d"; }
+.icon-list:before { content: "\f14e"; }
+.icon-location:before { content: "\f14f"; }
+.icon-lock:before { content: "\f150"; }
+.icon-longarrowdown:before { content: "\f151"; }
+.icon-longarrowleft:before { content: "\f152"; }
+.icon-longarrowright:before { content: "\f153"; }
+.icon-longarrowup:before { content: "\f154"; }
+.icon-messages:before { content: "\f155"; }
+.icon-misc:before { content: "\f156"; }
+.icon-move:before { content: "\f157"; }
+.icon-options:before { content: "\f158"; }
+.icon-other:before { content: "\f159"; }
+.icon-page:before { content: "\f15a"; }
+.icon-prize:before { content: "\f15b"; }
+.icon-project-update:before { content: "\f15c"; }
+.icon-search:before { content: "\f15d"; }
+.icon-skull:before { content: "\f15e"; }
+.icon-software:before { content: "\f15f"; }
+.icon-star:before { content: "\f160"; }
+.icon-storage:before { content: "\f161"; }
+.icon-trash:before { content: "\f162"; }
+.icon-twitter:before { content: "\f163"; }
+.icon-twitter-circle:before { content: "\f164"; }
+.icon-twitterlogo:before { content: "\f165"; }
+.icon-unlock:before { content: "\f166"; }
+.icon-user:before { content: "\f167"; }
+.icon-users:before { content: "\f168"; }

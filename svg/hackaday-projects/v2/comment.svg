@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>comment</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon-Set-Example" transform="translate(-48.000000, -96.000000)" fill="#000000">
+            <g id="comment" transform="translate(48.000000, 96.000000)">
+                <path d="M8.31165233,2.03795371 C12.1437862,2.03795371 14.4793711,4.34059546 14.4793711,7.17912475 C14.4793711,10.0197473 12.1437862,12.2909894 8.31165233,12.2909894 C7.84482024,12.2909894 7.38857022,12.1507376 6.9475828,12.085845 C5.16348649,14.4052332 2.35008037,13.9488915 2.35008037,13.9488915 C4.33727102,12.981782 4.29697775,11.3803993 3.94369942,11.1668816 C2.38386159,10.2227985 1.44592388,8.78678735 1.44592388,7.17912475 C1.44592388,4.34059546 4.47972196,2.03795371 8.31165233,2.03795371" id="Comment-Gray-24"></path>
+            </g>
+        </g>
+    </g>
+</svg>

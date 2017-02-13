@@ -1,17 +1,23 @@
 0 info it worked if it ends with ok
-1 verbose cli [ 'node', '/usr/local/bin/npm', 'install' ]
-2 info using npm@1.4.23
-3 info using node@v0.10.31
-4 error install Couldn't read dependencies
-5 error package.json ENOENT, open '/Users/jstojanovic/Code/Supplyframe/font-demo/package.json'
-5 error package.json This is most likely not a problem with npm itself.
-5 error package.json npm can't find a package.json file in your current directory.
-6 error System Darwin 13.4.0
-7 error command "node" "/usr/local/bin/npm" "install"
-8 error cwd /Users/jstojanovic/Code/Supplyframe/font-demo
-9 error node -v v0.10.31
-10 error npm -v 1.4.23
-11 error path /Users/jstojanovic/Code/Supplyframe/font-demo/package.json
-12 error code ENOPACKAGEJSON
-13 error errno 34
-14 verbose exit [ 34, true ]
+1 verbose cli [ '/Users/richardhogben/.nvm/versions/node/v4.4.7/bin/node',
+1 verbose cli   '/Users/richardhogben/.nvm/versions/node/v4.4.7/bin/npm',
+1 verbose cli   'install' ]
+2 info using npm@2.15.8
+3 info using node@v4.4.7
+4 verbose readDependencies loading dependencies from /Users/richardhogben/Repos/font-demo/package.json
+5 error install Couldn't read dependencies
+6 verbose stack Error: ENOENT: no such file or directory, open '/Users/richardhogben/Repos/font-demo/package.json'
+6 verbose stack     at Error (native)
+7 verbose cwd /Users/richardhogben/Repos/font-demo
+8 error Darwin 15.6.0
+9 error argv "/Users/richardhogben/.nvm/versions/node/v4.4.7/bin/node" "/Users/richardhogben/.nvm/versions/node/v4.4.7/bin/npm" "install"
+10 error node v4.4.7
+11 error npm  v2.15.8
+12 error path /Users/richardhogben/Repos/font-demo/package.json
+13 error code ENOPACKAGEJSON
+14 error errno -2
+15 error syscall open
+16 error package.json ENOENT: no such file or directory, open '/Users/richardhogben/Repos/font-demo/package.json'
+16 error package.json This is most likely not a problem with npm itself.
+16 error package.json npm can't find a package.json file in your current directory.
+17 verbose exit [ -2, true ]

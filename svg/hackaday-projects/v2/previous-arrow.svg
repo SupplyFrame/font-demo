@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <title>previous-arrow</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon-Set-Example" transform="translate(-168.000000, -120.000000)" fill="#000000">
+            <g id="previous-arrow" transform="translate(168.000000, 120.000000)">
+                <path d="M5.30989922,9.34702144 L3.27748652,9.34702144 L6.31866395,12.7371321 L9.35984138,9.34702144 L6.99999354,9.34702144 C7.0876403,6.61674185 9.32015219,4.43218752 12.0636614,4.43218752 C13.0500142,4.43218752 12.9715841,2.73713212 12.0636614,2.73713212 C8.38745827,2.73713212 5.39919976,5.68074063 5.30989922,9.34702144 Z" id="prevarrow" transform="translate(8.025903, 7.737132) rotate(-90.000000) translate(-8.025903, -7.737132) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,158 @@
+{
+  "checksum": {
+    "previous": "848781e2c3b5982a69bb75cbebfe3006d410512a46264df813bc9c6722f0b9dd",
+    "current": "848781e2c3b5982a69bb75cbebfe3006d410512a46264df813bc9c6722f0b9dd"
+  },
+  "fonts": [
+    "fontcustom/fontcustom_848781e2c3b5982a69bb75cbebfe3006.ttf",
+    "fontcustom/fontcustom_848781e2c3b5982a69bb75cbebfe3006.svg",
+    "fontcustom/fontcustom_848781e2c3b5982a69bb75cbebfe3006.woff",
+    "fontcustom/fontcustom_848781e2c3b5982a69bb75cbebfe3006.eot"
+  ],
+  "glyphs": {
+    "add": {
+      "codepoint": 61705,
+      "source": "./add.svg"
+    },
+    "arrow-down": {
+      "codepoint": 61706,
+      "source": "./arrow-down.svg"
+    },
+    "arrow-stable": {
+      "codepoint": 61707,
+      "source": "./arrow-stable.svg"
+    },
+    "arrow-up": {
+      "codepoint": 61701,
+      "source": "./arrow-up.svg"
+    },
+    "arrowdown": {
+      "codepoint": 61700,
+      "source": "./arrowdown.svg"
+    },
+    "arrowleft": {
+      "codepoint": 61702,
+      "source": "./arrowleft.svg"
+    },
+    "arrowright": {
+      "codepoint": 61703,
+      "source": "./arrowright.svg"
+    },
+    "arrowup": {
+      "codepoint": 61704,
+      "source": "./arrowup.svg"
+    },
+    "close": {
+      "codepoint": 61708,
+      "source": "./close.svg"
+    },
+    "dot": {
+      "codepoint": 61709,
+      "source": "./dot.svg"
+    },
+    "edit": {
+      "codepoint": 61710,
+      "source": "./edit.svg"
+    },
+    "export": {
+      "codepoint": 61711,
+      "source": "./export.svg"
+    },
+    "eye": {
+      "codepoint": 61712,
+      "source": "./eye.svg"
+    },
+    "facebook": {
+      "codepoint": 61713,
+      "source": "./facebook.svg"
+    },
+    "googleplus": {
+      "codepoint": 61714,
+      "source": "./googleplus.svg"
+    },
+    "info": {
+      "codepoint": 61715,
+      "source": "./info.svg"
+    },
+    "lists": {
+      "codepoint": 61716,
+      "source": "./lists.svg"
+    },
+    "options": {
+      "codepoint": 61717,
+      "source": "./options.svg"
+    },
+    "private": {
+      "codepoint": 61718,
+      "source": "./private.svg"
+    },
+    "public": {
+      "codepoint": 61719,
+      "source": "./public.svg"
+    },
+    "refresh": {
+      "codepoint": 61720,
+      "source": "./refresh.svg"
+    },
+    "search": {
+      "codepoint": 61721,
+      "source": "./search.svg"
+    },
+    "share": {
+      "codepoint": 61722,
+      "source": "./share.svg"
+    },
+    "star": {
+      "codepoint": 61723,
+      "source": "./star.svg"
+    },
+    "twitter": {
+      "codepoint": 61724,
+      "source": "./twitter.svg"
+    },
+    "upload": {
+      "codepoint": 61725,
+      "source": "./upload.svg"
+    },
+    "yes": {
+      "codepoint": 61727,
+      "source": "./yes.svg"
+    },
+    "yes-1x": {
+      "codepoint": 61728,
+      "source": "./yes@1x.svg"
+    }
+  },
+  "options": {
+    "autowidth": false,
+    "config": false,
+    "css_selector": ".icon-{{glyph}}",
+    "debug": false,
+    "font_ascent": 448,
+    "font_descent": 64,
+    "font_design_size": 16,
+    "font_em": 512,
+    "font_name": "fontcustom",
+    "force": false,
+    "input": {
+      "templates": ".",
+      "vectors": "."
+    },
+    "no_hash": false,
+    "output": {
+      "css": "fontcustom",
+      "fonts": "fontcustom",
+      "preview": "fontcustom"
+    },
+    "preprocessor_path": null,
+    "quiet": false,
+    "templates": [
+      "css",
+      "preview"
+    ]
+  },
+  "templates": [
+    "fontcustom/fontcustom.css",
+    "fontcustom/fontcustom-preview.html"
+  ]
+}

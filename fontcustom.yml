@@ -46,20 +46,6 @@
 # -----------------------------------------------------------------------------
 
 # -----------------------------------------------------------------------------
-# HACKADAY-PROJECTS
-
-# input:
-#  vectors: ./svg/hackaday-projects
-
-# output:
-#  fonts: ../hackaday-projects/public/fonts
-#  css: ../hackaday-projects/public/css/sass/structure
-#  preview: ../hackaday-projects/public/fonts
-#  my-custom-template.yml: ../hackaday-projects/public/fonts
-# -----------------------------------------------------------------------------
-
-
-# -----------------------------------------------------------------------------
 # Templates
 #   A YAML array of templates and files to generate alongside fonts. Custom
 #   templates should be saved in the INPUT[:templates] directory and referenced

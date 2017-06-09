@@ -1,5 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
-  <g fill="none" fill-rule="evenodd">
-    <path fill="#1F272D" d="M22.8285714,27.7142857 L22.8285714,2 L17.6857143,2 L17.6857143,27.7142857 L11,27.7142857 L20.2571429,38 L29.5142857,27.7142857 L22.8285714,27.7142857 Z" transform="matrix(1 0 0 -1 0 40)"/>
-  </g>
+<svg width="19" height="36" viewBox="0 0 19 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<title>arrow-up</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(94 -169)" figma:type="canvas">
+<g id="arrow-up" figma:type="vector-operation">
+<use xlink:href="#path0_fill" transform="matrix(1 0 0 -1 -94 205)" fill="#20282D"/>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 0 25.7143L 9.25714 36L 18.5143 25.7143L 11.8286 25.7143L 11.8286 0L 6.68571 0L 6.68571 25.7143L 0 25.7143Z"/>
+</defs>
 </svg>

@@ -1,0 +1,210 @@
+{
+  "checksum": {
+    "previous": "7483d6704023efea7dfbb1c37f5435c14e82d1565c179f492a2e1aea3cd8c274",
+    "current": "7483d6704023efea7dfbb1c37f5435c14e82d1565c179f492a2e1aea3cd8c274"
+  },
+  "fonts": [
+    "fontcustom/fontcustom_7483d6704023efea7dfbb1c37f5435c1.ttf",
+    "fontcustom/fontcustom_7483d6704023efea7dfbb1c37f5435c1.svg",
+    "fontcustom/fontcustom_7483d6704023efea7dfbb1c37f5435c1.woff",
+    "fontcustom/fontcustom_7483d6704023efea7dfbb1c37f5435c1.eot"
+  ],
+  "glyphs": {
+    "amplifier-circuits": {
+      "codepoint": 61779,
+      "source": "./amplifier-circuits.svg"
+    },
+    "bateries": {
+      "codepoint": 61780,
+      "source": "./bateries.svg"
+    },
+    "capacitors": {
+      "codepoint": 61781,
+      "source": "./capacitors.svg"
+    },
+    "circuit-protection": {
+      "codepoint": 61782,
+      "source": "./circuit-protection.svg"
+    },
+    "connector-support": {
+      "codepoint": 61783,
+      "source": "./connector-support.svg"
+    },
+    "connectors": {
+      "codepoint": 61784,
+      "source": "./connectors.svg"
+    },
+    "consumer-circuits": {
+      "codepoint": 61785,
+      "source": "./consumer-circuits.svg"
+    },
+    "converters": {
+      "codepoint": 61786,
+      "source": "./converters.svg"
+    },
+    "cristal-resonators": {
+      "codepoint": 61787,
+      "source": "./cristal-resonators.svg"
+    },
+    "crystal-resonators": {
+      "codepoint": 61788,
+      "source": "./crystal-resonators.svg"
+    },
+    "diodes": {
+      "codepoint": 61789,
+      "source": "./diodes.svg"
+    },
+    "drivers-and-interfaces": {
+      "codepoint": 61790,
+      "source": "./drivers-and-interfaces.svg"
+    },
+    "fiber-optics": {
+      "codepoint": 61791,
+      "source": "./fiber-optics.svg"
+    },
+    "filters": {
+      "codepoint": 61792,
+      "source": "./filters.svg"
+    },
+    "inductor": {
+      "codepoint": 61793,
+      "source": "./inductor.svg"
+    },
+    "logic": {
+      "codepoint": 61794,
+      "source": "./logic.svg"
+    },
+    "memory": {
+      "codepoint": 61795,
+      "source": "./memory.svg"
+    },
+    "microcontrollers": {
+      "codepoint": 61796,
+      "source": "./microcontrollers.svg"
+    },
+    "microwave": {
+      "codepoint": 61797,
+      "source": "./microwave.svg"
+    },
+    "optoelectronics": {
+      "codepoint": 61798,
+      "source": "./optoelectronics.svg"
+    },
+    "oscillators": {
+      "codepoint": 61799,
+      "source": "./oscillators.svg"
+    },
+    "power-circuits": {
+      "codepoint": 61800,
+      "source": "./power-circuits.svg"
+    },
+    "programmable-logic": {
+      "codepoint": 61801,
+      "source": "./programmable-logic.svg"
+    },
+    "rc-networks": {
+      "codepoint": 61802,
+      "source": "./rc-networks.svg"
+    },
+    "relays": {
+      "codepoint": 61803,
+      "source": "./relays.svg"
+    },
+    "resistors": {
+      "codepoint": 61804,
+      "source": "./resistors.svg"
+    },
+    "sensors": {
+      "codepoint": 61805,
+      "source": "./sensors.svg"
+    },
+    "sensors-alt": {
+      "codepoint": 61806,
+      "source": "./sensors-alt.svg"
+    },
+    "sensors-old": {
+      "codepoint": 61807,
+      "source": "./sensors-old.svg"
+    },
+    "signal-circuits": {
+      "codepoint": 61808,
+      "source": "./signal-circuits.svg"
+    },
+    "sockets": {
+      "codepoint": 61809,
+      "source": "./sockets.svg"
+    },
+    "sockets-alt": {
+      "codepoint": 61810,
+      "source": "./sockets-alt.svg"
+    },
+    "switches": {
+      "codepoint": 61811,
+      "source": "./switches.svg"
+    },
+    "switches-alt": {
+      "codepoint": 61812,
+      "source": "./switches-alt.svg"
+    },
+    "telecomunication": {
+      "codepoint": 61813,
+      "source": "./telecomunication.svg"
+    },
+    "terminal-blocks": {
+      "codepoint": 61814,
+      "source": "./terminal-blocks.svg"
+    },
+    "terminal-blocks-old": {
+      "codepoint": 61815,
+      "source": "./terminal-blocks-old.svg"
+    },
+    "thermal-support-devices": {
+      "codepoint": 61775,
+      "source": "./thermal-support-devices.svg"
+    },
+    "transformers": {
+      "codepoint": 61776,
+      "source": "./transformers.svg"
+    },
+    "transistors": {
+      "codepoint": 61777,
+      "source": "./transistors.svg"
+    },
+    "trigger-devices": {
+      "codepoint": 61778,
+      "source": "./trigger-devices.svg"
+    }
+  },
+  "options": {
+    "autowidth": false,
+    "config": false,
+    "css_selector": ".icon-{{glyph}}",
+    "debug": false,
+    "font_ascent": 448,
+    "font_descent": 64,
+    "font_design_size": 16,
+    "font_em": 512,
+    "font_name": "fontcustom",
+    "force": false,
+    "input": {
+      "templates": ".",
+      "vectors": "."
+    },
+    "no_hash": false,
+    "output": {
+      "css": "fontcustom",
+      "fonts": "fontcustom",
+      "preview": "fontcustom"
+    },
+    "preprocessor_path": null,
+    "quiet": false,
+    "templates": [
+      "css",
+      "preview"
+    ]
+  },
+  "templates": [
+    "fontcustom/fontcustom.css",
+    "fontcustom/fontcustom-preview.html"
+  ]
+}

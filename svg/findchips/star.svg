@@ -1,5 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
-  <g fill="none" fill-rule="evenodd">
-    <polygon fill="#1F272D" points="19.881 28.287 8.756 36.238 11.932 22.799 1.881 15.078 15.37 14.322 19.881 2 24.392 14.322 37.881 15.078 27.83 22.799 31.006 36.238"/>
-  </g>
+<svg width="37" height="35" viewBox="0 0 37 35" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
+<title>star</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(204 -119)" figma:type="canvas">
+<g id="star" figma:type="vector">
+<use xlink:href="#path0_fill" transform="translate(-203.119 119)" fill="#20282D"/>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 18 26.2866L 6.87539 34.238L 10.0515 20.7991L 0 13.0778L 13.4892 12.3219L 18 0L 22.5108 12.3219L 36 13.0778L 25.9485 20.7991L 29.1246 34.238L 18 26.2866Z"/>
+</defs>
 </svg>

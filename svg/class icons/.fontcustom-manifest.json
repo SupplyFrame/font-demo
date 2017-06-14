@@ -1,22 +1,22 @@
 {
   "checksum": {
-    "previous": "7483d6704023efea7dfbb1c37f5435c14e82d1565c179f492a2e1aea3cd8c274",
-    "current": "7483d6704023efea7dfbb1c37f5435c14e82d1565c179f492a2e1aea3cd8c274"
+    "previous": "1cdd993ea4fce21520ff4300987326bdb00cb0b7a21a71b7a5a6074b5f66b0f6",
+    "current": "1cdd993ea4fce21520ff4300987326bdb00cb0b7a21a71b7a5a6074b5f66b0f6"
   },
   "fonts": [
-    "fontcustom/fontcustom_7483d6704023efea7dfbb1c37f5435c1.ttf",
-    "fontcustom/fontcustom_7483d6704023efea7dfbb1c37f5435c1.svg",
-    "fontcustom/fontcustom_7483d6704023efea7dfbb1c37f5435c1.woff",
-    "fontcustom/fontcustom_7483d6704023efea7dfbb1c37f5435c1.eot"
+    "fontcustom/fontcustom_1cdd993ea4fce21520ff4300987326bd.ttf",
+    "fontcustom/fontcustom_1cdd993ea4fce21520ff4300987326bd.svg",
+    "fontcustom/fontcustom_1cdd993ea4fce21520ff4300987326bd.woff",
+    "fontcustom/fontcustom_1cdd993ea4fce21520ff4300987326bd.eot"
   ],
   "glyphs": {
     "amplifier-circuits": {
       "codepoint": 61779,
       "source": "./amplifier-circuits.svg"
     },
-    "bateries": {
-      "codepoint": 61780,
-      "source": "./bateries.svg"
+    "batteries": {
+      "codepoint": 61816,
+      "source": "./batteries.svg"
     },
     "capacitors": {
       "codepoint": 61781,
@@ -41,10 +41,6 @@
     "converters": {
       "codepoint": 61786,
       "source": "./converters.svg"
-    },
-    "cristal-resonators": {
-      "codepoint": 61787,
-      "source": "./cristal-resonators.svg"
     },
     "crystal-resonators": {
       "codepoint": 61788,

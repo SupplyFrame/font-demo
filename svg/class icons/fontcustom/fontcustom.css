@@ -4,11 +4,11 @@
 
 @font-face {
   font-family: "fontcustom";
-  src: url("./fontcustom_7483d6704023efea7dfbb1c37f5435c1.eot");
-  src: url("./fontcustom_7483d6704023efea7dfbb1c37f5435c1.eot?#iefix") format("embedded-opentype"),
-       url("./fontcustom_7483d6704023efea7dfbb1c37f5435c1.woff") format("woff"),
-       url("./fontcustom_7483d6704023efea7dfbb1c37f5435c1.ttf") format("truetype"),
-       url("./fontcustom_7483d6704023efea7dfbb1c37f5435c1.svg#fontcustom") format("svg");
+  src: url("./fontcustom_1cdd993ea4fce21520ff4300987326bd.eot");
+  src: url("./fontcustom_1cdd993ea4fce21520ff4300987326bd.eot?#iefix") format("embedded-opentype"),
+       url("./fontcustom_1cdd993ea4fce21520ff4300987326bd.woff") format("woff"),
+       url("./fontcustom_1cdd993ea4fce21520ff4300987326bd.ttf") format("truetype"),
+       url("./fontcustom_1cdd993ea4fce21520ff4300987326bd.svg#fontcustom") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -16,7 +16,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "fontcustom";
-    src: url("./fontcustom_7483d6704023efea7dfbb1c37f5435c1.svg#fontcustom") format("svg");
+    src: url("./fontcustom_1cdd993ea4fce21520ff4300987326bd.svg#fontcustom") format("svg");
   }
 }
 
@@ -24,14 +24,13 @@
 
 [data-icon]:before,
 .icon-amplifier-circuits:before,
-.icon-bateries:before,
+.icon-batteries:before,
 .icon-capacitors:before,
 .icon-circuit-protection:before,
 .icon-connector-support:before,
 .icon-connectors:before,
 .icon-consumer-circuits:before,
 .icon-converters:before,
-.icon-cristal-resonators:before,
 .icon-crystal-resonators:before,
 .icon-diodes:before,
 .icon-drivers-and-interfaces:before,
@@ -79,14 +78,13 @@
 }
 
 .icon-amplifier-circuits:before { content: "\f153"; }
-.icon-bateries:before { content: "\f154"; }
+.icon-batteries:before { content: "\f178"; }
 .icon-capacitors:before { content: "\f155"; }
 .icon-circuit-protection:before { content: "\f156"; }
 .icon-connector-support:before { content: "\f157"; }
 .icon-connectors:before { content: "\f158"; }
 .icon-consumer-circuits:before { content: "\f159"; }
 .icon-converters:before { content: "\f15a"; }
-.icon-cristal-resonators:before { content: "\f15b"; }
 .icon-crystal-resonators:before { content: "\f15c"; }
 .icon-diodes:before { content: "\f15d"; }
 .icon-drivers-and-interfaces:before { content: "\f15e"; }

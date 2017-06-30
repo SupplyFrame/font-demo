@@ -1,0 +1,119 @@
+/*
+  Icon Font: fontcustom
+*/
+
+@font-face {
+  font-family: "fontcustom";
+  src: url("./fontcustom_3ced686033473b375b2c6b80aa9e794c.eot");
+  src: url("./fontcustom_3ced686033473b375b2c6b80aa9e794c.eot?#iefix") format("embedded-opentype"),
+       url("./fontcustom_3ced686033473b375b2c6b80aa9e794c.woff") format("woff"),
+       url("./fontcustom_3ced686033473b375b2c6b80aa9e794c.ttf") format("truetype"),
+       url("./fontcustom_3ced686033473b375b2c6b80aa9e794c.svg#fontcustom") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "fontcustom";
+    src: url("./fontcustom_3ced686033473b375b2c6b80aa9e794c.svg#fontcustom") format("svg");
+  }
+}
+
+[data-icon]:before { content: attr(data-icon); }
+
+[data-icon]:before,
+.icon-amplifier-circuits:before,
+.icon-batteries:before,
+.icon-capacitors:before,
+.icon-circuit-protection:before,
+.icon-connector-support:before,
+.icon-connectors:before,
+.icon-consumer-circuits:before,
+.icon-converters:before,
+.icon-crystal-resonators:before,
+.icon-diodes:before,
+.icon-drivers-and-interfaces:before,
+.icon-fiber-optics:before,
+.icon-filters:before,
+.icon-inductor:before,
+.icon-logic:before,
+.icon-memory:before,
+.icon-microcontrollers:before,
+.icon-microwave:before,
+.icon-optoelectronics:before,
+.icon-oscillators:before,
+.icon-power-circuits:before,
+.icon-programmable-logic:before,
+.icon-rc-networks:before,
+.icon-relays:before,
+.icon-resistors:before,
+.icon-sensors:before,
+.icon-sensors-alt:before,
+.icon-sensors-old:before,
+.icon-signal-circuits:before,
+.icon-sockets:before,
+.icon-sockets-alt:before,
+.icon-switches:before,
+.icon-switches-alt:before,
+.icon-telecomunication:before,
+.icon-terminal-blocks:before,
+.icon-terminal-blocks-old:before,
+.icon-thermal-support-devices:before,
+.icon-transformers:before,
+.icon-transistors:before,
+.icon-trigger-devices:before {
+  display: inline-block;
+  font-family: "fontcustom";
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  line-height: 1;
+  text-decoration: inherit;
+  text-rendering: optimizeLegibility;
+  text-transform: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  font-smoothing: antialiased;
+}
+
+.icon-amplifier-circuits:before { content: "\f18b"; }
+.icon-batteries:before { content: "\f178"; }
+.icon-capacitors:before { content: "\f155"; }
+.icon-circuit-protection:before { content: "\f18c"; }
+.icon-connector-support:before { content: "\f18d"; }
+.icon-connectors:before { content: "\f158"; }
+.icon-consumer-circuits:before { content: "\f18e"; }
+.icon-converters:before { content: "\f15a"; }
+.icon-crystal-resonators:before { content: "\f18f"; }
+.icon-diodes:before { content: "\f15d"; }
+.icon-drivers-and-interfaces:before { content: "\f190"; }
+.icon-fiber-optics:before { content: "\f191"; }
+.icon-filters:before { content: "\f160"; }
+.icon-inductor:before { content: "\f161"; }
+.icon-logic:before { content: "\f162"; }
+.icon-memory:before { content: "\f163"; }
+.icon-microcontrollers:before { content: "\f164"; }
+.icon-microwave:before { content: "\f165"; }
+.icon-optoelectronics:before { content: "\f166"; }
+.icon-oscillators:before { content: "\f167"; }
+.icon-power-circuits:before { content: "\f192"; }
+.icon-programmable-logic:before { content: "\f193"; }
+.icon-rc-networks:before { content: "\f194"; }
+.icon-relays:before { content: "\f16b"; }
+.icon-resistors:before { content: "\f16c"; }
+.icon-sensors:before { content: "\f16d"; }
+.icon-sensors-alt:before { content: "\f195"; }
+.icon-sensors-old:before { content: "\f196"; }
+.icon-signal-circuits:before { content: "\f197"; }
+.icon-sockets:before { content: "\f171"; }
+.icon-sockets-alt:before { content: "\f198"; }
+.icon-switches:before { content: "\f173"; }
+.icon-switches-alt:before { content: "\f199"; }
+.icon-telecomunication:before { content: "\f175"; }
+.icon-terminal-blocks:before { content: "\f19a"; }
+.icon-terminal-blocks-old:before { content: "\f19b"; }
+.icon-thermal-support-devices:before { content: "\f19c"; }
+.icon-transformers:before { content: "\f150"; }
+.icon-transistors:before { content: "\f151"; }
+.icon-trigger-devices:before { content: "\f19d"; }

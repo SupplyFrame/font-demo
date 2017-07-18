@@ -1,139 +1,150 @@
 {
   "checksum": {
-    "previous": "e6294fcb01103300c9e4ca67f2ab252f10df367413d0f0589e70a465deb8e999",
-    "current": "e6294fcb01103300c9e4ca67f2ab252f10df367413d0f0589e70a465deb8e999"
+    "previous": "78e91d1a7bba35ec58ee4a25dc8a6198f4ea07676ec27452ecd5b1c3969ff063",
+    "current": "78e91d1a7bba35ec58ee4a25dc8a6198f4ea07676ec27452ecd5b1c3969ff063"
   },
   "fonts": [
-    "fontcustom/fontcustom_e6294fcb01103300c9e4ca67f2ab252f.ttf",
-    "fontcustom/fontcustom_e6294fcb01103300c9e4ca67f2ab252f.svg",
-    "fontcustom/fontcustom_e6294fcb01103300c9e4ca67f2ab252f.woff",
-    "fontcustom/fontcustom_e6294fcb01103300c9e4ca67f2ab252f.eot"
+    "fontcustom/fontcustom_78e91d1a7bba35ec58ee4a25dc8a6198.ttf",
+    "fontcustom/fontcustom_78e91d1a7bba35ec58ee4a25dc8a6198.svg",
+    "fontcustom/fontcustom_78e91d1a7bba35ec58ee4a25dc8a6198.woff",
+    "fontcustom/fontcustom_78e91d1a7bba35ec58ee4a25dc8a6198.eot",
+    "fontcustom/fontcustom_78e91d1a7bba35ec58ee4a25dc8a6198.woff2"
   ],
   "glyphs": {
-    "--": {
-      "codepoint": 61730,
-      "source": "./ℹ︎.svg"
-    },
-    "Combined-Shape": {
-      "codepoint": 61731,
-      "source": "./Combined Shape.svg"
-    },
     "add": {
-      "codepoint": 61705,
+      "codepoint": 61794,
       "source": "./add.svg"
     },
+    "analytics": {
+      "codepoint": 61795,
+      "source": "./analytics.svg"
+    },
     "arrow-down": {
-      "codepoint": 61706,
+      "codepoint": 61796,
       "source": "./arrow-down.svg"
     },
     "arrow-stable": {
-      "codepoint": 61707,
+      "codepoint": 61797,
       "source": "./arrow-stable.svg"
     },
     "arrow-up": {
-      "codepoint": 61701,
+      "codepoint": 61798,
       "source": "./arrow-up.svg"
     },
     "arrowdown": {
-      "codepoint": 61700,
+      "codepoint": 61799,
       "source": "./arrowdown.svg"
     },
     "arrowleft": {
-      "codepoint": 61702,
+      "codepoint": 61800,
       "source": "./arrowleft.svg"
     },
     "arrowright": {
-      "codepoint": 61703,
+      "codepoint": 61801,
       "source": "./arrowright.svg"
     },
     "arrowup": {
-      "codepoint": 61704,
+      "codepoint": 61802,
       "source": "./arrowup.svg"
     },
+    "bom": {
+      "codepoint": 61803,
+      "source": "./bom.svg"
+    },
     "close": {
-      "codepoint": 61708,
+      "codepoint": 61804,
       "source": "./close.svg"
     },
+    "comp": {
+      "codepoint": 61805,
+      "source": "./comp.svg"
+    },
     "dot": {
-      "codepoint": 61709,
+      "codepoint": 61806,
       "source": "./dot.svg"
     },
     "edit": {
-      "codepoint": 61710,
+      "codepoint": 61807,
       "source": "./edit.svg"
     },
     "export": {
-      "codepoint": 61711,
+      "codepoint": 61808,
       "source": "./export.svg"
     },
     "eye": {
-      "codepoint": 61712,
+      "codepoint": 61809,
       "source": "./eye.svg"
     },
     "facebook": {
-      "codepoint": 61713,
+      "codepoint": 61810,
       "source": "./facebook.svg"
     },
     "googleplus": {
-      "codepoint": 61714,
+      "codepoint": 61811,
       "source": "./googleplus.svg"
     },
     "info": {
-      "codepoint": 61715,
+      "codepoint": 61812,
       "source": "./info.svg"
     },
     "lists": {
-      "codepoint": 61716,
+      "codepoint": 61813,
       "source": "./lists.svg"
     },
     "options": {
-      "codepoint": 61717,
+      "codepoint": 61814,
       "source": "./options.svg"
     },
+    "print": {
+      "codepoint": 61815,
+      "source": "./print.svg"
+    },
     "private": {
-      "codepoint": 61718,
+      "codepoint": 61816,
       "source": "./private.svg"
     },
     "public": {
-      "codepoint": 61719,
+      "codepoint": 61817,
       "source": "./public.svg"
     },
     "refresh": {
-      "codepoint": 61720,
+      "codepoint": 61818,
       "source": "./refresh.svg"
     },
     "search": {
-      "codepoint": 61721,
+      "codepoint": 61819,
       "source": "./search.svg"
     },
     "share": {
-      "codepoint": 61722,
+      "codepoint": 61820,
       "source": "./share.svg"
     },
     "star": {
-      "codepoint": 61723,
+      "codepoint": 61793,
       "source": "./star.svg"
     },
     "trash": {
-      "codepoint": 61729,
+      "codepoint": 61821,
       "source": "./trash.svg"
     },
     "twitter": {
-      "codepoint": 61724,
+      "codepoint": 61822,
       "source": "./twitter.svg"
     },
     "upload": {
-      "codepoint": 61725,
+      "codepoint": 61823,
       "source": "./upload.svg"
     },
     "yes": {
-      "codepoint": 61727,
+      "codepoint": 61824,
       "source": "./yes.svg"
     }
   },
   "options": {
     "autowidth": false,
     "config": false,
+    "copyright": "",
+    "css3": false,
     "css_selector": ".icon-{{glyph}}",
     "debug": false,
     "font_ascent": 448,

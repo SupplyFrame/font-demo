@@ -1,19 +1,9 @@
-<svg width="37" height="30" viewBox="0 0 37 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
-<title>yes</title>
-<desc>Created using Figma</desc>
-<g id="Canvas" transform="translate(153 -371)" figma:type="canvas">
-<g id="yes" figma:type="frame">
-<mask id="mask0_outline" mask-type="alpha">
-<g id="yes" figma:type="vector">
-<use xlink:href="#path0_fill" transform="translate(-152.78 371.306)" fill="#20282D"/>
-</g>
-</mask>
-<g id="yes" mask="url(#mask0_outline)" figma:type="vector">
-<use xlink:href="#path0_fill" transform="translate(-152.78 371.306)" fill="#20282D"/>
-</g>
-</g>
-</g>
-<defs>
-<path id="path0_fill" fill-rule="evenodd" d="M 30.7576 1.09017L 13.6029 22.2769L 5.04055 13.7135C 3.88105 12.555 2.01326 12.555 0.861227 13.7071C -0.288673 14.857 -0.287606 16.7301 0.867628 17.8875L 11.6199 28.6398C 11.8525 28.8723 12.1138 29.0579 12.3922 29.1966C 13.6253 29.9091 15.2307 29.6414 16.1555 28.499L 35.3444 4.80441C 36.3684 3.53824 36.1711 1.68325 34.9049 0.658153C 34.3587 0.215473 33.7017 0 33.0488 0C 32.1901 0 31.3389 0.372277 30.7576 1.09017Z"/>
-</defs>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="40" viewBox="0 0 40 40">
+  <defs>
+    <path id="a" d="M32.9771874,5.39626508 L15.8225546,26.5830154 L7.26017192,18.019566 C6.10067149,16.8611323 4.23288377,16.8611323 3.08085022,18.0131658 C1.93095007,19.163066 1.93201677,21.0361872 3.08725041,22.1935542 L13.8395635,32.9458673 C14.0721036,33.1784074 14.3334446,33.3640128 14.6118527,33.5026835 C15.8449552,34.2152376 17.4503353,33.9474965 18.3751622,32.8050632 L37.5639877,9.11050657 C38.5880175,7.84433636 38.3906784,5.98934902 37.1245082,4.9642525 C36.578359,4.52157294 35.9212732,4.3061 35.2684542,4.3061 C34.4097625,4.3061 33.5585377,4.67837751 32.9771874,5.39626508 Z"/>
+  </defs>
+  <g fill="none" fill-rule="evenodd">
+    <rect width="1440" height="4000" x="-100" y="-480" fill="#FFFFFF"/>
+    <use fill="#20282D" xlink:href="#a"/>
+  </g>
 </svg>

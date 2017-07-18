@@ -1,12 +1,6 @@
-<svg width="20" height="36" viewBox="0 0 20 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
-<title>arrow-stable</title>
-<desc>Created using Figma</desc>
-<g id="Canvas" transform="translate(45 -169)" figma:type="canvas">
-<g id="arrow-stable" figma:type="vector-operation">
-<use xlink:href="#path0_fill" transform="translate(-45 169)" fill="#20282D"/>
-</g>
-</g>
-<defs>
-<path id="path0_fill" fill-rule="evenodd" d="M 6.88235 0L 12.1765 0L 12.1765 7.41176L 19.0588 7.41176L 9.52941 18L 0 7.41176L 6.88235 7.41176L 6.88235 0ZM 9.52941 18L 0 28.5882L 6.88235 28.5882L 6.88235 36L 12.1765 36L 12.1765 28.5882L 19.0588 28.5882L 9.52941 18Z"/>
-</defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g fill="none" fill-rule="evenodd">
+    <rect width="1440" height="4000" x="-200" y="-280" fill="#FFFFFF"/>
+    <path fill="#20282D" d="M22.1764706,9.41176471 L22.1764706,2 L16.8823529,2 L16.8823529,9.41176471 L10,9.41176471 L19.5294118,20 L29.0588235,9.41176471 L22.1764706,9.41176471 Z M16.8823529,30.5882353 L16.8823529,38 L22.1764706,38 L22.1764706,30.5882353 L29.0588235,30.5882353 L19.5294118,20 L10,30.5882353 L16.8823529,30.5882353 Z"/>
+  </g>
 </svg>

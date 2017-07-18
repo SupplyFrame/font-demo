@@ -1,12 +1,6 @@
-<svg width="19" height="36" viewBox="0 0 19 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
-<title>arrow-down</title>
-<desc>Created using Figma</desc>
-<g id="Canvas" transform="translate(-6 -169)" figma:type="canvas">
-<g id="arrow-down" figma:type="vector-operation">
-<use xlink:href="#path0_fill" transform="translate(6 169)" fill="#20282D"/>
-</g>
-</g>
-<defs>
-<path id="path0_fill" fill-rule="evenodd" d="M 11.8286 0L 6.68571 0L 6.68571 25.7143L 0 25.7143L 9.25714 36L 18.5143 25.7143L 11.8286 25.7143L 11.8286 0Z"/>
-</defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g fill="none" fill-rule="evenodd">
+    <rect width="1440" height="4000" x="-250" y="-280" fill="#FFFFFF"/>
+    <path fill="#20282D" d="M22.8285714,27.7142857 L22.8285714,2 L17.6857143,2 L17.6857143,27.7142857 L11,27.7142857 L20.2571429,38 L29.5142857,27.7142857 L22.8285714,27.7142857 Z"/>
+  </g>
 </svg>

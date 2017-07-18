@@ -1,12 +1,6 @@
-<svg width="24" height="24" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:figma="http://www.figma.com/figma/ns">
-<title>dot</title>
-<desc>Created using Figma</desc>
-<g id="Canvas" transform="translate(47 -125)" figma:type="canvas">
-<g id="dot" figma:type="vector">
-<use xlink:href="#path0_fill" transform="translate(-47 125)" fill="#20282D"/>
-</g>
-</g>
-<defs>
-<path id="path0_fill" fill-rule="evenodd" d="M 12 24C 18.6274 24 24 18.6274 24 12C 24 5.37258 18.6274 0 12 0C 5.37258 0 0 5.37258 0 12C 0 18.6274 5.37258 24 12 24Z"/>
-</defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g fill="none" fill-rule="evenodd">
+    <rect width="1440" height="4000" x="-200" y="-230" fill="#FFFFFF"/>
+    <circle cx="20" cy="20" r="12" fill="#20282D"/>
+  </g>
 </svg>

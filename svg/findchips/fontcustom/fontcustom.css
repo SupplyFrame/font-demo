@@ -4,12 +4,12 @@
 
 @font-face {
   font-family: "fontcustom";
-  src: url("./fontcustom_78e91d1a7bba35ec58ee4a25dc8a6198.eot");
-  src: url("./fontcustom_78e91d1a7bba35ec58ee4a25dc8a6198.eot?#iefix") format("embedded-opentype"),
-       url("./fontcustom_78e91d1a7bba35ec58ee4a25dc8a6198.woff2") format("woff2"),
-       url("./fontcustom_78e91d1a7bba35ec58ee4a25dc8a6198.woff") format("woff"),
-       url("./fontcustom_78e91d1a7bba35ec58ee4a25dc8a6198.ttf") format("truetype"),
-       url("./fontcustom_78e91d1a7bba35ec58ee4a25dc8a6198.svg#fontcustom") format("svg");
+  src: url("./fontcustom_3865b4b47ce0887db4de8c652d087366.eot");
+  src: url("./fontcustom_3865b4b47ce0887db4de8c652d087366.eot?#iefix") format("embedded-opentype"),
+       url("./fontcustom_3865b4b47ce0887db4de8c652d087366.woff2") format("woff2"),
+       url("./fontcustom_3865b4b47ce0887db4de8c652d087366.woff") format("woff"),
+       url("./fontcustom_3865b4b47ce0887db4de8c652d087366.ttf") format("truetype"),
+       url("./fontcustom_3865b4b47ce0887db4de8c652d087366.svg#fontcustom") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -17,7 +17,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "fontcustom";
-    src: url("./fontcustom_78e91d1a7bba35ec58ee4a25dc8a6198.svg#fontcustom") format("svg");
+    src: url("./fontcustom_3865b4b47ce0887db4de8c652d087366.svg#fontcustom") format("svg");
   }
 }
 
@@ -45,10 +45,12 @@
 .icon-info:before,
 .icon-lists:before,
 .icon-options:before,
+.icon-pbfree:before,
 .icon-print:before,
 .icon-private:before,
 .icon-public:before,
 .icon-refresh:before,
+.icon-rohs:before,
 .icon-search:before,
 .icon-share:before,
 .icon-star:before,
@@ -91,10 +93,12 @@
 .icon-info:before { content: "\f174"; }
 .icon-lists:before { content: "\f175"; }
 .icon-options:before { content: "\f176"; }
+.icon-pbfree:before { content: "\f181"; }
 .icon-print:before { content: "\f177"; }
 .icon-private:before { content: "\f178"; }
 .icon-public:before { content: "\f179"; }
 .icon-refresh:before { content: "\f17a"; }
+.icon-rohs:before { content: "\f182"; }
 .icon-search:before { content: "\f17b"; }
 .icon-share:before { content: "\f17c"; }
 .icon-star:before { content: "\f161"; }

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <g fill="#000000" fill-rule="evenodd">
+    <rect width="22" height="22" x="5" y="5" rx="2"/>
+    <rect width="4" height="4" x="6" rx="1"/>
+    <rect width="4" height="4" x="12" rx="1"/>
+    <rect width="4" height="4" x="17" rx="1"/>
+    <rect width="4" height="4" x="22" rx="1"/>
+    <rect width="4" height="4" x="6" y="28" rx="1"/>
+    <rect width="4" height="4" x="12" y="28" rx="1"/>
+    <rect width="4" height="4" x="17" y="28" rx="1"/>
+    <rect width="4" height="4" x="22" y="28" rx="1"/>
+    <rect width="4" height="4" y="6" rx="1"/>
+    <rect width="4" height="4" y="11" rx="1"/>
+    <rect width="4" height="4" y="16" rx="1"/>
+    <rect width="4" height="4" y="21" rx="1"/>
+    <rect width="4" height="4" x="28" y="6" rx="1"/>
+    <rect width="4" height="4" x="28" y="11" rx="1"/>
+    <rect width="4" height="4" x="28" y="16" rx="1"/>
+    <rect width="4" height="4" x="28" y="21" rx="1"/>
+  </g>
+</svg>

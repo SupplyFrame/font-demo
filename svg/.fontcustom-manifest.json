@@ -1,0 +1,124 @@
+{
+  "checksum": {
+    "previous": "",
+    "current": "878549e9692cb381130b9940229dec4ed733ac377230ec6fa94f0325c7b48ff5"
+  },
+  "fonts": [
+
+  ],
+  "glyphs": {
+    "Arrow-up": {
+      "source": "dsa/Arrow-up.svg",
+      "codepoint": 61696
+    },
+    "arrow-down": {
+      "source": "dsa/arrow-down.svg",
+      "codepoint": 61697
+    },
+    "available-reference-design": {
+      "source": "dsa/available-reference-design.svg",
+      "codepoint": 61698
+    },
+    "cart": {
+      "source": "dsa/cart.svg",
+      "codepoint": 61699
+    },
+    "close": {
+      "source": "dsa/close.svg",
+      "codepoint": 61700
+    },
+    "contain-match": {
+      "source": "dsa/contain-match.svg",
+      "codepoint": 61701
+    },
+    "datasheets-home": {
+      "source": "dsa/datasheets-home.svg",
+      "codepoint": 61702
+    },
+    "datasheets-results": {
+      "source": "dsa/datasheets-results.svg",
+      "codepoint": 61703
+    },
+    "exact-match": {
+      "source": "dsa/exact-match.svg",
+      "codepoint": 61704
+    },
+    "latest-datasheet-searches": {
+      "source": "dsa/latest-datasheet-searches.svg",
+      "codepoint": 61705
+    },
+    "manufacturer-home": {
+      "source": "dsa/manufacturer-home.svg",
+      "codepoint": 61706
+    },
+    "part-home": {
+      "source": "dsa/part-home.svg",
+      "codepoint": 61707
+    },
+    "prefix-match": {
+      "source": "dsa/prefix-match.svg",
+      "codepoint": 61708
+    },
+    "recently-added": {
+      "source": "dsa/recently-added.svg",
+      "codepoint": 61709
+    },
+    "search-button": {
+      "source": "dsa/search-button.svg",
+      "codepoint": 61710
+    },
+    "search-results": {
+      "source": "dsa/search-results.svg",
+      "codepoint": 61711
+    },
+    "search-stock": {
+      "source": "dsa/search-stock.svg",
+      "codepoint": 61712
+    },
+    "suffix-match": {
+      "source": "dsa/suffix-match.svg",
+      "codepoint": 61713
+    },
+    "top-results": {
+      "source": "dsa/top-results.svg",
+      "codepoint": 61714
+    },
+    "yes": {
+      "source": "dsa/yes.svg",
+      "codepoint": 61715
+    }
+  },
+  "options": {
+    "input": {
+      "vectors": "dsa/",
+      "templates": "dsa/"
+    },
+    "output": {
+      "fonts": "fontcustom",
+      "css": "fontcustom",
+      "preview": "fontcustom"
+    },
+    "config": false,
+    "templates": [
+      "css",
+      "preview"
+    ],
+    "font_name": "fontcustom",
+    "font_design_size": 16,
+    "font_em": 512,
+    "font_ascent": 448,
+    "font_descent": 64,
+    "css_selector": ".icon-{{glyph}}",
+    "preprocessor_path": null,
+    "autowidth": false,
+    "no_hash": false,
+    "css3": false,
+    "debug": false,
+    "force": false,
+    "quiet": false,
+    "copyright": ""
+  },
+  "templates": [
+
+  ]
+}

@@ -1,14 +1,13 @@
 {
   "checksum": {
-    "previous": "3865b4b47ce0887db4de8c652d08736636ecbd218df32afbee48cd114edcd2ac",
-    "current": "3865b4b47ce0887db4de8c652d08736636ecbd218df32afbee48cd114edcd2ac"
+    "previous": "057c81d4b88537c2ed8e327a07ea976080e6cb8980220583986fe6ec4fdbc161",
+    "current": "057c81d4b88537c2ed8e327a07ea976080e6cb8980220583986fe6ec4fdbc161"
   },
   "fonts": [
-    "fontcustom/fontcustom_3865b4b47ce0887db4de8c652d087366.ttf",
-    "fontcustom/fontcustom_3865b4b47ce0887db4de8c652d087366.svg",
-    "fontcustom/fontcustom_3865b4b47ce0887db4de8c652d087366.woff",
-    "fontcustom/fontcustom_3865b4b47ce0887db4de8c652d087366.eot",
-    "fontcustom/fontcustom_3865b4b47ce0887db4de8c652d087366.woff2"
+    "fontcustom/fontcustom_057c81d4b88537c2ed8e327a07ea9760.ttf",
+    "fontcustom/fontcustom_057c81d4b88537c2ed8e327a07ea9760.svg",
+    "fontcustom/fontcustom_057c81d4b88537c2ed8e327a07ea9760.woff",
+    "fontcustom/fontcustom_057c81d4b88537c2ed8e327a07ea9760.eot"
   ],
   "glyphs": {
     "add": {
@@ -107,6 +106,10 @@
       "codepoint": 61816,
       "source": "./private.svg"
     },
+    "project": {
+      "codepoint": 61827,
+      "source": "./project.svg"
+    },
     "public": {
       "codepoint": 61817,
       "source": "./public.svg"
@@ -151,8 +154,6 @@
   "options": {
     "autowidth": false,
     "config": false,
-    "copyright": "",
-    "css3": false,
     "css_selector": ".icon-{{glyph}}",
     "debug": false,
     "font_ascent": 448,

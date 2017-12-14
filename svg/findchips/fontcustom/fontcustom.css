@@ -4,11 +4,11 @@
 
 @font-face {
   font-family: "fontcustom";
-  src: url("./fontcustom_3d98dafefa5c38550bafc56a25f24636.eot");
-  src: url("./fontcustom_3d98dafefa5c38550bafc56a25f24636.eot?#iefix") format("embedded-opentype"),
-       url("./fontcustom_3d98dafefa5c38550bafc56a25f24636.woff") format("woff"),
-       url("./fontcustom_3d98dafefa5c38550bafc56a25f24636.ttf") format("truetype"),
-       url("./fontcustom_3d98dafefa5c38550bafc56a25f24636.svg#fontcustom") format("svg");
+  src: url("./fontcustom_a87e0c339c680b99c5ae0dfc98db0c13.eot");
+  src: url("./fontcustom_a87e0c339c680b99c5ae0dfc98db0c13.eot?#iefix") format("embedded-opentype"),
+       url("./fontcustom_a87e0c339c680b99c5ae0dfc98db0c13.woff") format("woff"),
+       url("./fontcustom_a87e0c339c680b99c5ae0dfc98db0c13.ttf") format("truetype"),
+       url("./fontcustom_a87e0c339c680b99c5ae0dfc98db0c13.svg#fontcustom") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -16,7 +16,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "fontcustom";
-    src: url("./fontcustom_3d98dafefa5c38550bafc56a25f24636.svg#fontcustom") format("svg");
+    src: url("./fontcustom_a87e0c339c680b99c5ae0dfc98db0c13.svg#fontcustom") format("svg");
   }
 }
 
@@ -43,8 +43,12 @@
 .icon-googleplus:before,
 .icon-info:before,
 .icon-lists:before,
+.icon-minus:before,
+.icon-minus-circle:before,
 .icon-options:before,
 .icon-pbfree:before,
+.icon-plus:before,
+.icon-plus-circle:before,
 .icon-print:before,
 .icon-private:before,
 .icon-project:before,
@@ -92,8 +96,12 @@
 .icon-googleplus:before { content: "\f173"; }
 .icon-info:before { content: "\f174"; }
 .icon-lists:before { content: "\f175"; }
+.icon-minus:before { content: "\f184"; }
+.icon-minus-circle:before { content: "\f185"; }
 .icon-options:before { content: "\f176"; }
 .icon-pbfree:before { content: "\f181"; }
+.icon-plus:before { content: "\f186"; }
+.icon-plus-circle:before { content: "\f187"; }
 .icon-print:before { content: "\f177"; }
 .icon-private:before { content: "\f178"; }
 .icon-project:before { content: "\f183"; }

@@ -1,13 +1,13 @@
 {
   "checksum": {
-    "previous": "3d98dafefa5c38550bafc56a25f24636bdbdf952641f68fc0be101a87f7f0fde",
-    "current": "3d98dafefa5c38550bafc56a25f24636bdbdf952641f68fc0be101a87f7f0fde"
+    "previous": "a87e0c339c680b99c5ae0dfc98db0c13834bb391168b61f739d675545778904b",
+    "current": "a87e0c339c680b99c5ae0dfc98db0c13834bb391168b61f739d675545778904b"
   },
   "fonts": [
-    "fontcustom/fontcustom_3d98dafefa5c38550bafc56a25f24636.ttf",
-    "fontcustom/fontcustom_3d98dafefa5c38550bafc56a25f24636.svg",
-    "fontcustom/fontcustom_3d98dafefa5c38550bafc56a25f24636.woff",
-    "fontcustom/fontcustom_3d98dafefa5c38550bafc56a25f24636.eot"
+    "fontcustom/fontcustom_a87e0c339c680b99c5ae0dfc98db0c13.ttf",
+    "fontcustom/fontcustom_a87e0c339c680b99c5ae0dfc98db0c13.svg",
+    "fontcustom/fontcustom_a87e0c339c680b99c5ae0dfc98db0c13.woff",
+    "fontcustom/fontcustom_a87e0c339c680b99c5ae0dfc98db0c13.eot"
   ],
   "glyphs": {
     "add": {
@@ -90,6 +90,14 @@
       "codepoint": 61813,
       "source": "./lists.svg"
     },
+    "minus": {
+      "codepoint": 61828,
+      "source": "./minus.svg"
+    },
+    "minus-circle": {
+      "codepoint": 61829,
+      "source": "./minus-circle.svg"
+    },
     "options": {
       "codepoint": 61814,
       "source": "./options.svg"
@@ -97,6 +105,14 @@
     "pbfree": {
       "codepoint": 61825,
       "source": "./pbfree.svg"
+    },
+    "plus": {
+      "codepoint": 61830,
+      "source": "./plus.svg"
+    },
+    "plus-circle": {
+      "codepoint": 61831,
+      "source": "./plus-circle.svg"
     },
     "print": {
       "codepoint": 61815,

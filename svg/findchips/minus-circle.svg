@@ -1,16 +1,11 @@
 <svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
     <desc>Created with Sketch.</desc>
-    <defs>
-        <rect id="path-1" x="10" y="12" width="11" height="1"></rect>
-    </defs>
+    <defs></defs>
     <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Group-3-Copy-8" transform="translate(1.000000, 4.000000)">
-            <circle id="Oval" stroke="#20638F" cx="15.5" cy="12.5" r="12.5"></circle>
-            <g id="Rectangle-3">
-                <use fill="#D8D8D8" fill-rule="evenodd" xlink:href="#path-1"></use>
-                <rect stroke="#20638F" stroke-width="1" x="10.5" y="12.5" width="10" height="1"></rect>
-            </g>
+        <g id="Group-3-Copy-7" transform="translate(2.000000, 3.000000)">
+            <circle id="Oval" stroke="#20638F" cx="14.5" cy="12.5" r="12.5"></circle>
+            <rect id="Rectangle-3" fill="#20638F" x="9" y="12" width="11" height="1"></rect>
         </g>
     </g>
 </svg>

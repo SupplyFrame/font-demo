@@ -1,16 +1,20 @@
 {
   "checksum": {
-    "previous": "cef24b94503692044ba67ea195f68fd11c6c58422a0f6caae8f79290ef435bb8",
-    "current": "cef24b94503692044ba67ea195f68fd11c6c58422a0f6caae8f79290ef435bb8"
+    "previous": "192b39ee9bab063b948ac4cf3b2eafdccef5cc10fe3e1a11e540b80ef98ae38e",
+    "current": "192b39ee9bab063b948ac4cf3b2eafdccef5cc10fe3e1a11e540b80ef98ae38e"
   },
   "fonts": [
-    "fontcustom/fontcustom_cef24b94503692044ba67ea195f68fd1.ttf",
-    "fontcustom/fontcustom_cef24b94503692044ba67ea195f68fd1.svg",
-    "fontcustom/fontcustom_cef24b94503692044ba67ea195f68fd1.woff",
-    "fontcustom/fontcustom_cef24b94503692044ba67ea195f68fd1.eot",
-    "fontcustom/fontcustom_cef24b94503692044ba67ea195f68fd1.woff2"
+    "fontcustom/fontcustom_192b39ee9bab063b948ac4cf3b2eafdc.ttf",
+    "fontcustom/fontcustom_192b39ee9bab063b948ac4cf3b2eafdc.svg",
+    "fontcustom/fontcustom_192b39ee9bab063b948ac4cf3b2eafdc.woff",
+    "fontcustom/fontcustom_192b39ee9bab063b948ac4cf3b2eafdc.eot",
+    "fontcustom/fontcustom_192b39ee9bab063b948ac4cf3b2eafdc.woff2"
   ],
   "glyphs": {
+    "activefilters": {
+      "codepoint": 61752,
+      "source": "./activefilters.svg"
+    },
     "amplifiercircuits": {
       "codepoint": 61713,
       "source": "./amplifiercircuits.svg"
@@ -79,6 +83,10 @@
       "codepoint": 61712,
       "source": "./microcontrollersandprocessors.svg"
     },
+    "nocategory": {
+      "codepoint": 61753,
+      "source": "./nocategory.svg"
+    },
     "optoelectronics": {
       "codepoint": 61729,
       "source": "./optoelectronics.svg"
@@ -86,6 +94,14 @@
     "oscillators": {
       "codepoint": 61730,
       "source": "./oscillators.svg"
+    },
+    "passivefilters": {
+      "codepoint": 61754,
+      "source": "./passivefilters.svg"
+    },
+    "passivenetworks": {
+      "codepoint": 61755,
+      "source": "./passivenetworks.svg"
     },
     "powercircuits": {
       "codepoint": 61731,
@@ -134,6 +150,10 @@
     "terminalblocks": {
       "codepoint": 61742,
       "source": "./terminalblocks.svg"
+    },
+    "terminalsandterminalblocks": {
+      "codepoint": 61756,
+      "source": "./terminalsandterminalblocks.svg"
     },
     "thermalsupportdevices": {
       "codepoint": 61743,

@@ -1,19 +1,27 @@
 {
   "checksum": {
-    "previous": "ac025bdf66816a5a70e3cd56b0a86902f0da344a6ec9434b54a7f634e8c6e05e",
-    "current": "ac025bdf66816a5a70e3cd56b0a86902f0da344a6ec9434b54a7f634e8c6e05e"
+    "previous": "4ed88316945454b4d8e808896df0e2684ec3a992e1805363b7224b54925fff07",
+    "current": "4ed88316945454b4d8e808896df0e2684ec3a992e1805363b7224b54925fff07"
   },
   "fonts": [
-    "fontcustom/fontcustom_ac025bdf66816a5a70e3cd56b0a86902.ttf",
-    "fontcustom/fontcustom_ac025bdf66816a5a70e3cd56b0a86902.svg",
-    "fontcustom/fontcustom_ac025bdf66816a5a70e3cd56b0a86902.woff",
-    "fontcustom/fontcustom_ac025bdf66816a5a70e3cd56b0a86902.eot",
-    "fontcustom/fontcustom_ac025bdf66816a5a70e3cd56b0a86902.woff2"
+    "fontcustom/fontcustom_4ed88316945454b4d8e808896df0e268.ttf",
+    "fontcustom/fontcustom_4ed88316945454b4d8e808896df0e268.svg",
+    "fontcustom/fontcustom_4ed88316945454b4d8e808896df0e268.woff",
+    "fontcustom/fontcustom_4ed88316945454b4d8e808896df0e268.eot",
+    "fontcustom/fontcustom_4ed88316945454b4d8e808896df0e268.woff2"
   ],
   "glyphs": {
     "add": {
       "codepoint": 61738,
       "source": "./add.svg"
+    },
+    "all-lists": {
+      "codepoint": 61771,
+      "source": "./all-lists.svg"
+    },
+    "all-members": {
+      "codepoint": 61772,
+      "source": "./all-members.svg"
     },
     "analytics": {
       "codepoint": 61739,
@@ -99,6 +107,10 @@
       "codepoint": 61734,
       "source": "./new-folder.svg"
     },
+    "notifications": {
+      "codepoint": 61773,
+      "source": "./notifications.svg"
+    },
     "options": {
       "codepoint": 61757,
       "source": "./options.svg"
@@ -119,9 +131,17 @@
       "codepoint": 61759,
       "source": "./private.svg"
     },
+    "pro-settings": {
+      "codepoint": 61774,
+      "source": "./pro-settings.svg"
+    },
     "project": {
       "codepoint": 61722,
       "source": "./project.svg"
+    },
+    "projects": {
+      "codepoint": 61775,
+      "source": "./projects.svg"
     },
     "public": {
       "codepoint": 61760,
@@ -147,6 +167,18 @@
       "codepoint": 61764,
       "source": "./star.svg"
     },
+    "support": {
+      "codepoint": 61776,
+      "source": "./support.svg"
+    },
+    "team": {
+      "codepoint": 61777,
+      "source": "./team.svg"
+    },
+    "team-stats": {
+      "codepoint": 61778,
+      "source": "./team-stats.svg"
+    },
     "trash": {
       "codepoint": 61765,
       "source": "./trash.svg"
@@ -158,6 +190,14 @@
     "upload": {
       "codepoint": 61767,
       "source": "./upload.svg"
+    },
+    "user-lists": {
+      "codepoint": 61779,
+      "source": "./user-lists.svg"
+    },
+    "user-settings": {
+      "codepoint": 61780,
+      "source": "./user-settings.svg"
     },
     "yes": {
       "codepoint": 61768,

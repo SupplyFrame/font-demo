@@ -4,12 +4,12 @@
 
 @font-face {
   font-family: "fontcustom";
-  src: url("./fontcustom_ac025bdf66816a5a70e3cd56b0a86902.eot");
-  src: url("./fontcustom_ac025bdf66816a5a70e3cd56b0a86902.eot?#iefix") format("embedded-opentype"),
-       url("./fontcustom_ac025bdf66816a5a70e3cd56b0a86902.woff2") format("woff2"),
-       url("./fontcustom_ac025bdf66816a5a70e3cd56b0a86902.woff") format("woff"),
-       url("./fontcustom_ac025bdf66816a5a70e3cd56b0a86902.ttf") format("truetype"),
-       url("./fontcustom_ac025bdf66816a5a70e3cd56b0a86902.svg#fontcustom") format("svg");
+  src: url("./fontcustom_4ed88316945454b4d8e808896df0e268.eot");
+  src: url("./fontcustom_4ed88316945454b4d8e808896df0e268.eot?#iefix") format("embedded-opentype"),
+       url("./fontcustom_4ed88316945454b4d8e808896df0e268.woff2") format("woff2"),
+       url("./fontcustom_4ed88316945454b4d8e808896df0e268.woff") format("woff"),
+       url("./fontcustom_4ed88316945454b4d8e808896df0e268.ttf") format("truetype"),
+       url("./fontcustom_4ed88316945454b4d8e808896df0e268.svg#fontcustom") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -17,7 +17,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "fontcustom";
-    src: url("./fontcustom_ac025bdf66816a5a70e3cd56b0a86902.svg#fontcustom") format("svg");
+    src: url("./fontcustom_4ed88316945454b4d8e808896df0e268.svg#fontcustom") format("svg");
   }
 }
 
@@ -25,6 +25,8 @@
 
 [data-icon]:before,
 .icon-add:before,
+.icon-all-lists:before,
+.icon-all-members:before,
 .icon-analytics:before,
 .icon-arrow-down:before,
 .icon-arrow-stable:before,
@@ -46,21 +48,29 @@
 .icon-lists:before,
 .icon-move:before,
 .icon-new-folder:before,
+.icon-notifications:before,
 .icon-options:before,
 .icon-ownership:before,
 .icon-pbfree:before,
 .icon-print:before,
 .icon-private:before,
+.icon-pro-settings:before,
 .icon-project:before,
+.icon-projects:before,
 .icon-public:before,
 .icon-refresh:before,
 .icon-rohs:before,
 .icon-search:before,
 .icon-share:before,
 .icon-star:before,
+.icon-support:before,
+.icon-team:before,
+.icon-team-stats:before,
 .icon-trash:before,
 .icon-twitter:before,
 .icon-upload:before,
+.icon-user-lists:before,
+.icon-user-settings:before,
 .icon-yes:before {
   display: inline-block;
   font-family: "fontcustom";
@@ -77,6 +87,8 @@
 }
 
 .icon-add:before { content: "\f12a"; }
+.icon-all-lists:before { content: "\f14b"; }
+.icon-all-members:before { content: "\f14c"; }
 .icon-analytics:before { content: "\f12b"; }
 .icon-arrow-down:before { content: "\f12c"; }
 .icon-arrow-stable:before { content: "\f12d"; }
@@ -98,19 +110,27 @@
 .icon-lists:before { content: "\f13c"; }
 .icon-move:before { content: "\f125"; }
 .icon-new-folder:before { content: "\f126"; }
+.icon-notifications:before { content: "\f14d"; }
 .icon-options:before { content: "\f13d"; }
 .icon-ownership:before { content: "\f127"; }
 .icon-pbfree:before { content: "\f149"; }
 .icon-print:before { content: "\f13e"; }
 .icon-private:before { content: "\f13f"; }
+.icon-pro-settings:before { content: "\f14e"; }
 .icon-project:before { content: "\f11a"; }
+.icon-projects:before { content: "\f14f"; }
 .icon-public:before { content: "\f140"; }
 .icon-refresh:before { content: "\f141"; }
 .icon-rohs:before { content: "\f14a"; }
 .icon-search:before { content: "\f142"; }
 .icon-share:before { content: "\f143"; }
 .icon-star:before { content: "\f144"; }
+.icon-support:before { content: "\f150"; }
+.icon-team:before { content: "\f151"; }
+.icon-team-stats:before { content: "\f152"; }
 .icon-trash:before { content: "\f145"; }
 .icon-twitter:before { content: "\f146"; }
 .icon-upload:before { content: "\f147"; }
+.icon-user-lists:before { content: "\f153"; }
+.icon-user-settings:before { content: "\f154"; }
 .icon-yes:before { content: "\f148"; }

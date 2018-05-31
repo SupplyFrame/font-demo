@@ -4,12 +4,12 @@
 
 @font-face {
   font-family: "fontcustom";
-  src: url("./fontcustom_4ed88316945454b4d8e808896df0e268.eot");
-  src: url("./fontcustom_4ed88316945454b4d8e808896df0e268.eot?#iefix") format("embedded-opentype"),
-       url("./fontcustom_4ed88316945454b4d8e808896df0e268.woff2") format("woff2"),
-       url("./fontcustom_4ed88316945454b4d8e808896df0e268.woff") format("woff"),
-       url("./fontcustom_4ed88316945454b4d8e808896df0e268.ttf") format("truetype"),
-       url("./fontcustom_4ed88316945454b4d8e808896df0e268.svg#fontcustom") format("svg");
+  src: url("./fontcustom_666b0b7c6e4451718bad1998825811f0.eot");
+  src: url("./fontcustom_666b0b7c6e4451718bad1998825811f0.eot?#iefix") format("embedded-opentype"),
+       url("./fontcustom_666b0b7c6e4451718bad1998825811f0.woff2") format("woff2"),
+       url("./fontcustom_666b0b7c6e4451718bad1998825811f0.woff") format("woff"),
+       url("./fontcustom_666b0b7c6e4451718bad1998825811f0.ttf") format("truetype"),
+       url("./fontcustom_666b0b7c6e4451718bad1998825811f0.svg#fontcustom") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -17,7 +17,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "fontcustom";
-    src: url("./fontcustom_4ed88316945454b4d8e808896df0e268.svg#fontcustom") format("svg");
+    src: url("./fontcustom_666b0b7c6e4451718bad1998825811f0.svg#fontcustom") format("svg");
   }
 }
 
@@ -38,6 +38,8 @@
 .icon-bom:before,
 .icon-close:before,
 .icon-comp:before,
+.icon-compliance:before,
+.icon-dimensions:before,
 .icon-dot:before,
 .icon-edit:before,
 .icon-export:before,
@@ -46,11 +48,13 @@
 .icon-googleplus:before,
 .icon-info:before,
 .icon-lists:before,
+.icon-more:before,
 .icon-move:before,
 .icon-new-folder:before,
 .icon-notifications:before,
 .icon-options:before,
 .icon-ownership:before,
+.icon-package:before,
 .icon-pbfree:before,
 .icon-print:before,
 .icon-private:before,
@@ -100,6 +104,8 @@
 .icon-bom:before { content: "\f109"; }
 .icon-close:before { content: "\f133"; }
 .icon-comp:before { content: "\f134"; }
+.icon-compliance:before { content: "\f155"; }
+.icon-dimensions:before { content: "\f156"; }
 .icon-dot:before { content: "\f135"; }
 .icon-edit:before { content: "\f136"; }
 .icon-export:before { content: "\f137"; }
@@ -108,11 +114,13 @@
 .icon-googleplus:before { content: "\f13a"; }
 .icon-info:before { content: "\f13b"; }
 .icon-lists:before { content: "\f13c"; }
+.icon-more:before { content: "\f157"; }
 .icon-move:before { content: "\f125"; }
 .icon-new-folder:before { content: "\f126"; }
 .icon-notifications:before { content: "\f14d"; }
 .icon-options:before { content: "\f13d"; }
 .icon-ownership:before { content: "\f127"; }
+.icon-package:before { content: "\f158"; }
 .icon-pbfree:before { content: "\f149"; }
 .icon-print:before { content: "\f13e"; }
 .icon-private:before { content: "\f13f"; }

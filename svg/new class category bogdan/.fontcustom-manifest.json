@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "192b39ee9bab063b948ac4cf3b2eafdccef5cc10fe3e1a11e540b80ef98ae38e",
-    "current": "192b39ee9bab063b948ac4cf3b2eafdccef5cc10fe3e1a11e540b80ef98ae38e"
+    "previous": "e2eb10380bb82345ff60af5c87b72d1353acbce39a2b070ce32147179c239f7c",
+    "current": "e2eb10380bb82345ff60af5c87b72d1353acbce39a2b070ce32147179c239f7c"
   },
   "fonts": [
-    "fontcustom/fontcustom_192b39ee9bab063b948ac4cf3b2eafdc.ttf",
-    "fontcustom/fontcustom_192b39ee9bab063b948ac4cf3b2eafdc.svg",
-    "fontcustom/fontcustom_192b39ee9bab063b948ac4cf3b2eafdc.woff",
-    "fontcustom/fontcustom_192b39ee9bab063b948ac4cf3b2eafdc.eot",
-    "fontcustom/fontcustom_192b39ee9bab063b948ac4cf3b2eafdc.woff2"
+    "fontcustom/fontcustom_e2eb10380bb82345ff60af5c87b72d13.ttf",
+    "fontcustom/fontcustom_e2eb10380bb82345ff60af5c87b72d13.svg",
+    "fontcustom/fontcustom_e2eb10380bb82345ff60af5c87b72d13.woff",
+    "fontcustom/fontcustom_e2eb10380bb82345ff60af5c87b72d13.eot",
+    "fontcustom/fontcustom_e2eb10380bb82345ff60af5c87b72d13.woff2"
   ],
   "glyphs": {
     "activefilters": {
@@ -58,6 +58,10 @@
     "driversandinterfaces": {
       "codepoint": 61723,
       "source": "./driversandinterfaces.svg"
+    },
+    "electroniccomponents": {
+      "codepoint": 61759,
+      "source": "./electroniccomponents.svg"
     },
     "fiberoptics": {
       "codepoint": 61724,
@@ -114,6 +118,10 @@
     "rcnetworks": {
       "codepoint": 61733,
       "source": "./rcnetworks.svg"
+    },
+    "regulators": {
+      "codepoint": 61758,
+      "source": "./regulators.svg"
     },
     "relays": {
       "codepoint": 61734,

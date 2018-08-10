@@ -4,12 +4,12 @@
 
 @font-face {
   font-family: "fontcustom";
-  src: url("./fontcustom_192b39ee9bab063b948ac4cf3b2eafdc.eot");
-  src: url("./fontcustom_192b39ee9bab063b948ac4cf3b2eafdc.eot?#iefix") format("embedded-opentype"),
-       url("./fontcustom_192b39ee9bab063b948ac4cf3b2eafdc.woff2") format("woff2"),
-       url("./fontcustom_192b39ee9bab063b948ac4cf3b2eafdc.woff") format("woff"),
-       url("./fontcustom_192b39ee9bab063b948ac4cf3b2eafdc.ttf") format("truetype"),
-       url("./fontcustom_192b39ee9bab063b948ac4cf3b2eafdc.svg#fontcustom") format("svg");
+  src: url("./fontcustom_e2eb10380bb82345ff60af5c87b72d13.eot");
+  src: url("./fontcustom_e2eb10380bb82345ff60af5c87b72d13.eot?#iefix") format("embedded-opentype"),
+       url("./fontcustom_e2eb10380bb82345ff60af5c87b72d13.woff2") format("woff2"),
+       url("./fontcustom_e2eb10380bb82345ff60af5c87b72d13.woff") format("woff"),
+       url("./fontcustom_e2eb10380bb82345ff60af5c87b72d13.ttf") format("truetype"),
+       url("./fontcustom_e2eb10380bb82345ff60af5c87b72d13.svg#fontcustom") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -17,7 +17,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "fontcustom";
-    src: url("./fontcustom_192b39ee9bab063b948ac4cf3b2eafdc.svg#fontcustom") format("svg");
+    src: url("./fontcustom_e2eb10380bb82345ff60af5c87b72d13.svg#fontcustom") format("svg");
   }
 }
 
@@ -36,6 +36,7 @@
 .icon-crystalsresonators:before,
 .icon-diodes:before,
 .icon-driversandinterfaces:before,
+.icon-electroniccomponents:before,
 .icon-fiberoptics:before,
 .icon-filters:before,
 .icon-inductors:before,
@@ -50,6 +51,7 @@
 .icon-powercircuits:before,
 .icon-programmablelogic:before,
 .icon-rcnetworks:before,
+.icon-regulators:before,
 .icon-relays:before,
 .icon-resistors:before,
 .icon-rfandmicrowave:before,
@@ -90,6 +92,7 @@
 .icon-crystalsresonators:before { content: "\f119"; }
 .icon-diodes:before { content: "\f11a"; }
 .icon-driversandinterfaces:before { content: "\f11b"; }
+.icon-electroniccomponents:before { content: "\f13f"; }
 .icon-fiberoptics:before { content: "\f11c"; }
 .icon-filters:before { content: "\f11d"; }
 .icon-inductors:before { content: "\f11e"; }
@@ -104,6 +107,7 @@
 .icon-powercircuits:before { content: "\f123"; }
 .icon-programmablelogic:before { content: "\f124"; }
 .icon-rcnetworks:before { content: "\f125"; }
+.icon-regulators:before { content: "\f13e"; }
 .icon-relays:before { content: "\f126"; }
 .icon-resistors:before { content: "\f127"; }
 .icon-rfandmicrowave:before { content: "\f128"; }

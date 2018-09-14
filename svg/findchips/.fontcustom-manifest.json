@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "666b0b7c6e4451718bad1998825811f00ac1b4a657a7901952e50ef0036db630",
-    "current": "666b0b7c6e4451718bad1998825811f00ac1b4a657a7901952e50ef0036db630"
+    "previous": "ff3dda6a6adb166360112d393425d5e96a4601d518a2f2c0767c30bdb76c4a45",
+    "current": "ff3dda6a6adb166360112d393425d5e96a4601d518a2f2c0767c30bdb76c4a45"
   },
   "fonts": [
-    "fontcustom/fontcustom_666b0b7c6e4451718bad1998825811f0.ttf",
-    "fontcustom/fontcustom_666b0b7c6e4451718bad1998825811f0.svg",
-    "fontcustom/fontcustom_666b0b7c6e4451718bad1998825811f0.woff",
-    "fontcustom/fontcustom_666b0b7c6e4451718bad1998825811f0.eot",
-    "fontcustom/fontcustom_666b0b7c6e4451718bad1998825811f0.woff2"
+    "fontcustom/fontcustom_ff3dda6a6adb166360112d393425d5e9.ttf",
+    "fontcustom/fontcustom_ff3dda6a6adb166360112d393425d5e9.svg",
+    "fontcustom/fontcustom_ff3dda6a6adb166360112d393425d5e9.woff",
+    "fontcustom/fontcustom_ff3dda6a6adb166360112d393425d5e9.eot",
+    "fontcustom/fontcustom_ff3dda6a6adb166360112d393425d5e9.woff2"
   ],
   "glyphs": {
     "add": {
@@ -107,9 +107,9 @@
       "codepoint": 61756,
       "source": "./lists.svg"
     },
-    "more": {
-      "codepoint": 61783,
-      "source": "./more.svg"
+    "mostrelevant": {
+      "codepoint": 61788,
+      "source": "./mostrelevant.svg"
     },
     "move": {
       "codepoint": 61733,
@@ -123,17 +123,21 @@
       "codepoint": 61773,
       "source": "./notifications.svg"
     },
+    "operatingconditions": {
+      "codepoint": 61789,
+      "source": "./operatingconditions.svg"
+    },
     "options": {
       "codepoint": 61757,
       "source": "./options.svg"
     },
+    "other": {
+      "codepoint": 61790,
+      "source": "./other.svg"
+    },
     "ownership": {
       "codepoint": 61735,
       "source": "./ownership.svg"
-    },
-    "package": {
-      "codepoint": 61784,
-      "source": "./package.svg"
     },
     "pbfree": {
       "codepoint": 61769,
@@ -194,6 +198,10 @@
     "team-stats": {
       "codepoint": 61778,
       "source": "./team-stats.svg"
+    },
+    "technical": {
+      "codepoint": 61787,
+      "source": "./technical.svg"
     },
     "trash": {
       "codepoint": 61765,

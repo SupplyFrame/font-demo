@@ -4,12 +4,12 @@
 
 @font-face {
   font-family: "fontcustom";
-  src: url("./fontcustom_666b0b7c6e4451718bad1998825811f0.eot");
-  src: url("./fontcustom_666b0b7c6e4451718bad1998825811f0.eot?#iefix") format("embedded-opentype"),
-       url("./fontcustom_666b0b7c6e4451718bad1998825811f0.woff2") format("woff2"),
-       url("./fontcustom_666b0b7c6e4451718bad1998825811f0.woff") format("woff"),
-       url("./fontcustom_666b0b7c6e4451718bad1998825811f0.ttf") format("truetype"),
-       url("./fontcustom_666b0b7c6e4451718bad1998825811f0.svg#fontcustom") format("svg");
+  src: url("./fontcustom_ff3dda6a6adb166360112d393425d5e9.eot");
+  src: url("./fontcustom_ff3dda6a6adb166360112d393425d5e9.eot?#iefix") format("embedded-opentype"),
+       url("./fontcustom_ff3dda6a6adb166360112d393425d5e9.woff2") format("woff2"),
+       url("./fontcustom_ff3dda6a6adb166360112d393425d5e9.woff") format("woff"),
+       url("./fontcustom_ff3dda6a6adb166360112d393425d5e9.ttf") format("truetype"),
+       url("./fontcustom_ff3dda6a6adb166360112d393425d5e9.svg#fontcustom") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -17,7 +17,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "fontcustom";
-    src: url("./fontcustom_666b0b7c6e4451718bad1998825811f0.svg#fontcustom") format("svg");
+    src: url("./fontcustom_ff3dda6a6adb166360112d393425d5e9.svg#fontcustom") format("svg");
   }
 }
 
@@ -48,13 +48,14 @@
 .icon-googleplus:before,
 .icon-info:before,
 .icon-lists:before,
-.icon-more:before,
+.icon-mostrelevant:before,
 .icon-move:before,
 .icon-new-folder:before,
 .icon-notifications:before,
+.icon-operatingconditions:before,
 .icon-options:before,
+.icon-other:before,
 .icon-ownership:before,
-.icon-package:before,
 .icon-pbfree:before,
 .icon-print:before,
 .icon-private:before,
@@ -70,6 +71,7 @@
 .icon-support:before,
 .icon-team:before,
 .icon-team-stats:before,
+.icon-technical:before,
 .icon-trash:before,
 .icon-twitter:before,
 .icon-upload:before,
@@ -114,13 +116,14 @@
 .icon-googleplus:before { content: "\f13a"; }
 .icon-info:before { content: "\f13b"; }
 .icon-lists:before { content: "\f13c"; }
-.icon-more:before { content: "\f157"; }
+.icon-mostrelevant:before { content: "\f15c"; }
 .icon-move:before { content: "\f125"; }
 .icon-new-folder:before { content: "\f126"; }
 .icon-notifications:before { content: "\f14d"; }
+.icon-operatingconditions:before { content: "\f15d"; }
 .icon-options:before { content: "\f13d"; }
+.icon-other:before { content: "\f15e"; }
 .icon-ownership:before { content: "\f127"; }
-.icon-package:before { content: "\f158"; }
 .icon-pbfree:before { content: "\f149"; }
 .icon-print:before { content: "\f13e"; }
 .icon-private:before { content: "\f13f"; }
@@ -136,6 +139,7 @@
 .icon-support:before { content: "\f150"; }
 .icon-team:before { content: "\f151"; }
 .icon-team-stats:before { content: "\f152"; }
+.icon-technical:before { content: "\f15b"; }
 .icon-trash:before { content: "\f145"; }
 .icon-twitter:before { content: "\f146"; }
 .icon-upload:before { content: "\f147"; }

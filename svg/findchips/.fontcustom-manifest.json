@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "ff3dda6a6adb166360112d393425d5e96a4601d518a2f2c0767c30bdb76c4a45",
-    "current": "ff3dda6a6adb166360112d393425d5e96a4601d518a2f2c0767c30bdb76c4a45"
+    "previous": "ea86bcb4842f3f73709543de5b9607d6c7df94501059e7628264301480152697",
+    "current": "ea86bcb4842f3f73709543de5b9607d6c7df94501059e7628264301480152697"
   },
   "fonts": [
-    "fontcustom/fontcustom_ff3dda6a6adb166360112d393425d5e9.ttf",
-    "fontcustom/fontcustom_ff3dda6a6adb166360112d393425d5e9.svg",
-    "fontcustom/fontcustom_ff3dda6a6adb166360112d393425d5e9.woff",
-    "fontcustom/fontcustom_ff3dda6a6adb166360112d393425d5e9.eot",
-    "fontcustom/fontcustom_ff3dda6a6adb166360112d393425d5e9.woff2"
+    "fontcustom/fontcustom_ea86bcb4842f3f73709543de5b9607d6.ttf",
+    "fontcustom/fontcustom_ea86bcb4842f3f73709543de5b9607d6.svg",
+    "fontcustom/fontcustom_ea86bcb4842f3f73709543de5b9607d6.woff",
+    "fontcustom/fontcustom_ea86bcb4842f3f73709543de5b9607d6.eot",
+    "fontcustom/fontcustom_ea86bcb4842f3f73709543de5b9607d6.woff2"
   ],
   "glyphs": {
     "add": {
@@ -142,6 +142,10 @@
     "pbfree": {
       "codepoint": 61769,
       "source": "./pbfree.svg"
+    },
+    "physical": {
+      "codepoint": 61791,
+      "source": "./physical.svg"
     },
     "print": {
       "codepoint": 61758,

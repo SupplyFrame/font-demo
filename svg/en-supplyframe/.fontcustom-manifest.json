@@ -1,0 +1,305 @@
+{
+  "checksum": {
+    "previous": "b60c4510e644846fbdb9ae40e654bbeeaa610613861b436a78ba1b7c3f3f50f4",
+    "current": "b60c4510e644846fbdb9ae40e654bbeeaa610613861b436a78ba1b7c3f3f50f4"
+  },
+  "fonts": [
+    "fontcustom/fontcustom_b60c4510e644846fbdb9ae40e654bbee.ttf",
+    "fontcustom/fontcustom_b60c4510e644846fbdb9ae40e654bbee.svg",
+    "fontcustom/fontcustom_b60c4510e644846fbdb9ae40e654bbee.woff",
+    "fontcustom/fontcustom_b60c4510e644846fbdb9ae40e654bbee.eot",
+    "fontcustom/fontcustom_b60c4510e644846fbdb9ae40e654bbee.woff2"
+  ],
+  "glyphs": {
+    "add": {
+      "codepoint": 61696,
+      "source": "./add.svg"
+    },
+    "all-lists": {
+      "codepoint": 61697,
+      "source": "./all-lists.svg"
+    },
+    "all-members": {
+      "codepoint": 61698,
+      "source": "./all-members.svg"
+    },
+    "aml": {
+      "codepoint": 61755,
+      "source": "./aml.svg"
+    },
+    "analytics": {
+      "codepoint": 61699,
+      "source": "./analytics.svg"
+    },
+    "arrow-down": {
+      "codepoint": 61700,
+      "source": "./arrow-down.svg"
+    },
+    "arrow-stable": {
+      "codepoint": 61701,
+      "source": "./arrow-stable.svg"
+    },
+    "arrow-up": {
+      "codepoint": 61702,
+      "source": "./arrow-up.svg"
+    },
+    "arrowdown": {
+      "codepoint": 61703,
+      "source": "./arrowdown.svg"
+    },
+    "arrowleft": {
+      "codepoint": 61704,
+      "source": "./arrowleft.svg"
+    },
+    "arrowright": {
+      "codepoint": 61705,
+      "source": "./arrowright.svg"
+    },
+    "arrowup": {
+      "codepoint": 61706,
+      "source": "./arrowup.svg"
+    },
+    "avl": {
+      "codepoint": 61756,
+      "source": "./avl.svg"
+    },
+    "bom": {
+      "codepoint": 61707,
+      "source": "./bom.svg"
+    },
+    "chain": {
+      "codepoint": 61757,
+      "source": "./chain.svg"
+    },
+    "close": {
+      "codepoint": 61708,
+      "source": "./close.svg"
+    },
+    "comp": {
+      "codepoint": 61709,
+      "source": "./comp.svg"
+    },
+    "compliance": {
+      "codepoint": 61710,
+      "source": "./compliance.svg"
+    },
+    "dashboard": {
+      "codepoint": 61711,
+      "source": "./dashboard.svg"
+    },
+    "dimensions": {
+      "codepoint": 61712,
+      "source": "./dimensions.svg"
+    },
+    "dot": {
+      "codepoint": 61713,
+      "source": "./dot.svg"
+    },
+    "download": {
+      "codepoint": 61714,
+      "source": "./download.svg"
+    },
+    "edit": {
+      "codepoint": 61715,
+      "source": "./edit.svg"
+    },
+    "email-alert": {
+      "codepoint": 61716,
+      "source": "./email-alert.svg"
+    },
+    "export": {
+      "codepoint": 61717,
+      "source": "./export.svg"
+    },
+    "eye": {
+      "codepoint": 61718,
+      "source": "./eye.svg"
+    },
+    "facebook": {
+      "codepoint": 61719,
+      "source": "./facebook.svg"
+    },
+    "filter": {
+      "codepoint": 61760,
+      "source": "./filter.svg"
+    },
+    "googleplus": {
+      "codepoint": 61720,
+      "source": "./googleplus.svg"
+    },
+    "info": {
+      "codepoint": 61721,
+      "source": "./info.svg"
+    },
+    "lists": {
+      "codepoint": 61722,
+      "source": "./lists.svg"
+    },
+    "mostrelevant": {
+      "codepoint": 61723,
+      "source": "./mostrelevant.svg"
+    },
+    "move": {
+      "codepoint": 61724,
+      "source": "./move.svg"
+    },
+    "new-folder": {
+      "codepoint": 61725,
+      "source": "./new-folder.svg"
+    },
+    "notifications": {
+      "codepoint": 61726,
+      "source": "./notifications.svg"
+    },
+    "operatingconditions": {
+      "codepoint": 61727,
+      "source": "./operatingconditions.svg"
+    },
+    "options": {
+      "codepoint": 61728,
+      "source": "./options.svg"
+    },
+    "other": {
+      "codepoint": 61729,
+      "source": "./other.svg"
+    },
+    "ownership": {
+      "codepoint": 61730,
+      "source": "./ownership.svg"
+    },
+    "pbfree": {
+      "codepoint": 61731,
+      "source": "./pbfree.svg"
+    },
+    "physical": {
+      "codepoint": 61732,
+      "source": "./physical.svg"
+    },
+    "print": {
+      "codepoint": 61733,
+      "source": "./print.svg"
+    },
+    "private": {
+      "codepoint": 61734,
+      "source": "./private.svg"
+    },
+    "pro-settings": {
+      "codepoint": 61735,
+      "source": "./pro-settings.svg"
+    },
+    "project": {
+      "codepoint": 61736,
+      "source": "./project.svg"
+    },
+    "projects": {
+      "codepoint": 61737,
+      "source": "./projects.svg"
+    },
+    "public": {
+      "codepoint": 61738,
+      "source": "./public.svg"
+    },
+    "purchase": {
+      "codepoint": 61758,
+      "source": "./purchase.svg"
+    },
+    "refresh": {
+      "codepoint": 61739,
+      "source": "./refresh.svg"
+    },
+    "reports": {
+      "codepoint": 61740,
+      "source": "./reports.svg"
+    },
+    "rohs": {
+      "codepoint": 61741,
+      "source": "./rohs.svg"
+    },
+    "search": {
+      "codepoint": 61742,
+      "source": "./search.svg"
+    },
+    "share": {
+      "codepoint": 61743,
+      "source": "./share.svg"
+    },
+    "star": {
+      "codepoint": 61744,
+      "source": "./star.svg"
+    },
+    "support": {
+      "codepoint": 61745,
+      "source": "./support.svg"
+    },
+    "team": {
+      "codepoint": 61746,
+      "source": "./team.svg"
+    },
+    "team-stats": {
+      "codepoint": 61747,
+      "source": "./team-stats.svg"
+    },
+    "technical": {
+      "codepoint": 61748,
+      "source": "./technical.svg"
+    },
+    "trash": {
+      "codepoint": 61749,
+      "source": "./trash.svg"
+    },
+    "twitter": {
+      "codepoint": 61750,
+      "source": "./twitter.svg"
+    },
+    "upload": {
+      "codepoint": 61751,
+      "source": "./upload.svg"
+    },
+    "user-lists": {
+      "codepoint": 61752,
+      "source": "./user-lists.svg"
+    },
+    "user-settings": {
+      "codepoint": 61753,
+      "source": "./user-settings.svg"
+    },
+    "yes": {
+      "codepoint": 61754,
+      "source": "./yes.svg"
+    }
+  },
+  "options": {
+    "autowidth": false,
+    "config": false,
+    "copyright": "",
+    "css3": false,
+    "css_selector": ".icon-{{glyph}}",
+    "debug": false,
+    "font_ascent": 448,
+    "font_descent": 64,
+    "font_design_size": 16,
+    "font_em": 512,
+    "font_name": "fontcustom",
+    "force": false,
+    "input": {
+      "templates": ".",
+      "vectors": "."
+    },
+    "no_hash": false,
+    "output": {
+      "css": "fontcustom",
+      "fonts": "fontcustom",
+      "preview": "fontcustom"
+    },
+    "preprocessor_path": null,
+    "quiet": false,
+    "templates": [
+      "css",
+      "preview"
+    ]
+  },
+  "templates": [
+    "fontcustom/fontcustom.css",
+    "fontcustom/fontcustom-preview.html"
+  ]
+}

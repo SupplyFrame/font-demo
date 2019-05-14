@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "b60c4510e644846fbdb9ae40e654bbeeaa610613861b436a78ba1b7c3f3f50f4",
-    "current": "b60c4510e644846fbdb9ae40e654bbeeaa610613861b436a78ba1b7c3f3f50f4"
+    "previous": "1dd2ffe1329a3d145f59bebda474a4df15f4237b92e587e78dde3d366a9b155c",
+    "current": "1dd2ffe1329a3d145f59bebda474a4df15f4237b92e587e78dde3d366a9b155c"
   },
   "fonts": [
-    "fontcustom/fontcustom_b60c4510e644846fbdb9ae40e654bbee.ttf",
-    "fontcustom/fontcustom_b60c4510e644846fbdb9ae40e654bbee.svg",
-    "fontcustom/fontcustom_b60c4510e644846fbdb9ae40e654bbee.woff",
-    "fontcustom/fontcustom_b60c4510e644846fbdb9ae40e654bbee.eot",
-    "fontcustom/fontcustom_b60c4510e644846fbdb9ae40e654bbee.woff2"
+    "fontcustom/fontcustom_1dd2ffe1329a3d145f59bebda474a4df.ttf",
+    "fontcustom/fontcustom_1dd2ffe1329a3d145f59bebda474a4df.svg",
+    "fontcustom/fontcustom_1dd2ffe1329a3d145f59bebda474a4df.woff",
+    "fontcustom/fontcustom_1dd2ffe1329a3d145f59bebda474a4df.eot",
+    "fontcustom/fontcustom_1dd2ffe1329a3d145f59bebda474a4df.woff2"
   ],
   "glyphs": {
     "add": {
@@ -87,6 +87,10 @@
       "codepoint": 61711,
       "source": "./dashboard.svg"
     },
+    "default": {
+      "codepoint": 61761,
+      "source": "./default.svg"
+    },
     "dimensions": {
       "codepoint": 61712,
       "source": "./dimensions.svg"
@@ -130,6 +134,14 @@
     "info": {
       "codepoint": 61721,
       "source": "./info.svg"
+    },
+    "intelligence": {
+      "codepoint": 61762,
+      "source": "./intelligence.svg"
+    },
+    "link": {
+      "codepoint": 61763,
+      "source": "./link.svg"
     },
     "lists": {
       "codepoint": 61722,
@@ -219,9 +231,21 @@
       "codepoint": 61742,
       "source": "./search.svg"
     },
+    "send-to": {
+      "codepoint": 61764,
+      "source": "./send-to.svg"
+    },
+    "settings": {
+      "codepoint": 61765,
+      "source": "./settings.svg"
+    },
     "share": {
       "codepoint": 61743,
       "source": "./share.svg"
+    },
+    "share-list": {
+      "codepoint": 61766,
+      "source": "./share-list.svg"
     },
     "star": {
       "codepoint": 61744,
@@ -254,6 +278,10 @@
     "upload": {
       "codepoint": 61751,
       "source": "./upload.svg"
+    },
+    "upload-to": {
+      "codepoint": 61767,
+      "source": "./upload-to.svg"
     },
     "user-lists": {
       "codepoint": 61752,

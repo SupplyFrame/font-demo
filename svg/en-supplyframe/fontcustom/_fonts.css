@@ -1,15 +1,15 @@
-//
-// Icon Font: fontcustom
-//
+/*
+  Icon Font: fontcustom
+*/
 
 @font-face {
   font-family: "fontcustom";
-  src: url("./fontcustom_462e1c4db3f5873b011d192df3bb4fd1.eot");
-  src: url("./fontcustom_462e1c4db3f5873b011d192df3bb4fd1.eot?#iefix") format("embedded-opentype"),
-       url("./fontcustom_462e1c4db3f5873b011d192df3bb4fd1.woff2") format("woff2"),
-       url("./fontcustom_462e1c4db3f5873b011d192df3bb4fd1.woff") format("woff"),
-       url("./fontcustom_462e1c4db3f5873b011d192df3bb4fd1.ttf") format("truetype"),
-       url("./fontcustom_462e1c4db3f5873b011d192df3bb4fd1.svg#fontcustom") format("svg");
+  src: url("./fontcustom_5cc035ab853ed0bff3f49382490d8b9b.eot");
+  src: url("./fontcustom_5cc035ab853ed0bff3f49382490d8b9b.eot?#iefix") format("embedded-opentype"),
+       url("./fontcustom_5cc035ab853ed0bff3f49382490d8b9b.woff2") format("woff2"),
+       url("./fontcustom_5cc035ab853ed0bff3f49382490d8b9b.woff") format("woff"),
+       url("./fontcustom_5cc035ab853ed0bff3f49382490d8b9b.ttf") format("truetype"),
+       url("./fontcustom_5cc035ab853ed0bff3f49382490d8b9b.svg#fontcustom") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -17,7 +17,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "fontcustom";
-    src: url("./fontcustom_462e1c4db3f5873b011d192df3bb4fd1.svg#fontcustom") format("svg");
+    src: url("./fontcustom_5cc035ab853ed0bff3f49382490d8b9b.svg#fontcustom") format("svg");
   }
 }
 
@@ -59,7 +59,7 @@
 .icon-link:before,
 .icon-lists:before,
 .icon-messages:before,
-.icon-more-dots:before,
+.icon-more_dots:before,
 .icon-mostrelevant:before,
 .icon-move:before,
 .icon-new-folder:before,
@@ -146,7 +146,7 @@
 .icon-link:before { content: "\f143"; }
 .icon-lists:before { content: "\f11a"; }
 .icon-messages:before { content: "\f148"; }
-.icon-more-dots:before { content: "\f14a"; }
+.icon-more_dots:before { content: "\f149"; }
 .icon-mostrelevant:before { content: "\f11b"; }
 .icon-move:before { content: "\f11c"; }
 .icon-new-folder:before { content: "\f11d"; }
@@ -184,77 +184,3 @@
 .icon-user-lists:before { content: "\f138"; }
 .icon-user-settings:before { content: "\f139"; }
 .icon-yes:before { content: "\f13a"; }
-
-$font-fontcustom-add: "\f100";
-$font-fontcustom-all-lists: "\f101";
-$font-fontcustom-all-members: "\f102";
-$font-fontcustom-aml: "\f13b";
-$font-fontcustom-analytics: "\f103";
-$font-fontcustom-arrow-down: "\f104";
-$font-fontcustom-arrow-stable: "\f105";
-$font-fontcustom-arrow-up: "\f106";
-$font-fontcustom-arrowdown: "\f107";
-$font-fontcustom-arrowleft: "\f108";
-$font-fontcustom-arrowright: "\f109";
-$font-fontcustom-arrowup: "\f10a";
-$font-fontcustom-avl: "\f13c";
-$font-fontcustom-bom: "\f10b";
-$font-fontcustom-chain: "\f13d";
-$font-fontcustom-close: "\f10c";
-$font-fontcustom-comp: "\f10d";
-$font-fontcustom-compliance: "\f10e";
-$font-fontcustom-dashboard: "\f10f";
-$font-fontcustom-default: "\f141";
-$font-fontcustom-dimensions: "\f110";
-$font-fontcustom-dot: "\f111";
-$font-fontcustom-download: "\f112";
-$font-fontcustom-edit: "\f113";
-$font-fontcustom-email-alert: "\f114";
-$font-fontcustom-export: "\f115";
-$font-fontcustom-eye: "\f116";
-$font-fontcustom-facebook: "\f117";
-$font-fontcustom-filter: "\f140";
-$font-fontcustom-googleplus: "\f118";
-$font-fontcustom-info: "\f119";
-$font-fontcustom-intelligence: "\f142";
-$font-fontcustom-link: "\f143";
-$font-fontcustom-lists: "\f11a";
-$font-fontcustom-messages: "\f148";
-$font-fontcustom-more-dots: "\f14a";
-$font-fontcustom-mostrelevant: "\f11b";
-$font-fontcustom-move: "\f11c";
-$font-fontcustom-new-folder: "\f11d";
-$font-fontcustom-notifications: "\f11e";
-$font-fontcustom-operatingconditions: "\f11f";
-$font-fontcustom-options: "\f120";
-$font-fontcustom-other: "\f121";
-$font-fontcustom-ownership: "\f122";
-$font-fontcustom-pbfree: "\f123";
-$font-fontcustom-physical: "\f124";
-$font-fontcustom-print: "\f125";
-$font-fontcustom-private: "\f126";
-$font-fontcustom-pro-settings: "\f127";
-$font-fontcustom-project: "\f128";
-$font-fontcustom-projects: "\f129";
-$font-fontcustom-public: "\f12a";
-$font-fontcustom-purchase: "\f13e";
-$font-fontcustom-refresh: "\f12b";
-$font-fontcustom-reports: "\f12c";
-$font-fontcustom-rohs: "\f12d";
-$font-fontcustom-search: "\f12e";
-$font-fontcustom-send-to: "\f144";
-$font-fontcustom-settings: "\f145";
-$font-fontcustom-share: "\f12f";
-$font-fontcustom-share-list: "\f146";
-$font-fontcustom-star: "\f130";
-$font-fontcustom-support: "\f131";
-$font-fontcustom-team: "\f132";
-$font-fontcustom-team-stats: "\f133";
-$font-fontcustom-technical: "\f134";
-$font-fontcustom-trash: "\f135";
-$font-fontcustom-twitter: "\f136";
-$font-fontcustom-upload: "\f137";
-$font-fontcustom-upload-to: "\f147";
-$font-fontcustom-user-lists: "\f138";
-$font-fontcustom-user-settings: "\f139";
-$font-fontcustom-yes: "\f13a";

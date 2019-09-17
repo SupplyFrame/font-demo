@@ -4,12 +4,12 @@
 
 @font-face {
   font-family: "fontcustom";
-  src: url("./fontcustom_1692518793cd49ed7f493ae0a59c4aeb.eot");
-  src: url("./fontcustom_1692518793cd49ed7f493ae0a59c4aeb.eot?#iefix") format("embedded-opentype"),
-       url("./fontcustom_1692518793cd49ed7f493ae0a59c4aeb.woff2") format("woff2"),
-       url("./fontcustom_1692518793cd49ed7f493ae0a59c4aeb.woff") format("woff"),
-       url("./fontcustom_1692518793cd49ed7f493ae0a59c4aeb.ttf") format("truetype"),
-       url("./fontcustom_1692518793cd49ed7f493ae0a59c4aeb.svg#fontcustom") format("svg");
+  src: url("./fontcustom_bd08eaaf1b6ebe6bc65e0f073ff45530.eot");
+  src: url("./fontcustom_bd08eaaf1b6ebe6bc65e0f073ff45530.eot?#iefix") format("embedded-opentype"),
+       url("./fontcustom_bd08eaaf1b6ebe6bc65e0f073ff45530.woff2") format("woff2"),
+       url("./fontcustom_bd08eaaf1b6ebe6bc65e0f073ff45530.woff") format("woff"),
+       url("./fontcustom_bd08eaaf1b6ebe6bc65e0f073ff45530.ttf") format("truetype"),
+       url("./fontcustom_bd08eaaf1b6ebe6bc65e0f073ff45530.svg#fontcustom") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -17,7 +17,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "fontcustom";
-    src: url("./fontcustom_1692518793cd49ed7f493ae0a59c4aeb.svg#fontcustom") format("svg");
+    src: url("./fontcustom_bd08eaaf1b6ebe6bc65e0f073ff45530.svg#fontcustom") format("svg");
   }
 }
 
@@ -38,10 +38,12 @@
 .icon-arrowup:before,
 .icon-avl:before,
 .icon-bom:before,
+.icon-boms:before,
 .icon-chain:before,
 .icon-close:before,
 .icon-comp:before,
 .icon-compliance:before,
+.icon-contactpricing:before,
 .icon-dashboard:before,
 .icon-default:before,
 .icon-dimensions:before,
@@ -68,6 +70,7 @@
 .icon-options:before,
 .icon-other:before,
 .icon-ownership:before,
+.icon-partlist:before,
 .icon-pbfree:before,
 .icon-physical:before,
 .icon-print:before,
@@ -79,6 +82,7 @@
 .icon-purchase:before,
 .icon-refresh:before,
 .icon-reports:before,
+.icon-rfq:before,
 .icon-rohs:before,
 .icon-search:before,
 .icon-send-to:before,
@@ -125,10 +129,12 @@
 .icon-arrowup:before { content: "\f10a"; }
 .icon-avl:before { content: "\f13c"; }
 .icon-bom:before { content: "\f10b"; }
+.icon-boms:before { content: "\f14a"; }
 .icon-chain:before { content: "\f13d"; }
 .icon-close:before { content: "\f10c"; }
 .icon-comp:before { content: "\f10d"; }
 .icon-compliance:before { content: "\f10e"; }
+.icon-contactpricing:before { content: "\f14b"; }
 .icon-dashboard:before { content: "\f10f"; }
 .icon-default:before { content: "\f141"; }
 .icon-dimensions:before { content: "\f110"; }
@@ -155,6 +161,7 @@
 .icon-options:before { content: "\f120"; }
 .icon-other:before { content: "\f121"; }
 .icon-ownership:before { content: "\f122"; }
+.icon-partlist:before { content: "\f14c"; }
 .icon-pbfree:before { content: "\f123"; }
 .icon-physical:before { content: "\f124"; }
 .icon-print:before { content: "\f125"; }
@@ -166,6 +173,7 @@
 .icon-purchase:before { content: "\f13e"; }
 .icon-refresh:before { content: "\f12b"; }
 .icon-reports:before { content: "\f12c"; }
+.icon-rfq:before { content: "\f14d"; }
 .icon-rohs:before { content: "\f12d"; }
 .icon-search:before { content: "\f12e"; }
 .icon-send-to:before { content: "\f144"; }

@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "1692518793cd49ed7f493ae0a59c4aeb59b0d3440995d07ae0dd70c80bbdff53",
-    "current": "1692518793cd49ed7f493ae0a59c4aeb59b0d3440995d07ae0dd70c80bbdff53"
+    "previous": "bd08eaaf1b6ebe6bc65e0f073ff45530ccf45fe7cc8465df2728e67d58b44361",
+    "current": "bd08eaaf1b6ebe6bc65e0f073ff45530ccf45fe7cc8465df2728e67d58b44361"
   },
   "fonts": [
-    "fontcustom/fontcustom_1692518793cd49ed7f493ae0a59c4aeb.ttf",
-    "fontcustom/fontcustom_1692518793cd49ed7f493ae0a59c4aeb.svg",
-    "fontcustom/fontcustom_1692518793cd49ed7f493ae0a59c4aeb.woff",
-    "fontcustom/fontcustom_1692518793cd49ed7f493ae0a59c4aeb.eot",
-    "fontcustom/fontcustom_1692518793cd49ed7f493ae0a59c4aeb.woff2"
+    "fontcustom/fontcustom_bd08eaaf1b6ebe6bc65e0f073ff45530.ttf",
+    "fontcustom/fontcustom_bd08eaaf1b6ebe6bc65e0f073ff45530.svg",
+    "fontcustom/fontcustom_bd08eaaf1b6ebe6bc65e0f073ff45530.woff",
+    "fontcustom/fontcustom_bd08eaaf1b6ebe6bc65e0f073ff45530.eot",
+    "fontcustom/fontcustom_bd08eaaf1b6ebe6bc65e0f073ff45530.woff2"
   ],
   "glyphs": {
     "add": {
@@ -67,6 +67,10 @@
       "codepoint": 61707,
       "source": "./bom.svg"
     },
+    "boms": {
+      "codepoint": 61770,
+      "source": "./boms.svg"
+    },
     "chain": {
       "codepoint": 61757,
       "source": "./chain.svg"
@@ -82,6 +86,10 @@
     "compliance": {
       "codepoint": 61710,
       "source": "./compliance.svg"
+    },
+    "contactpricing": {
+      "codepoint": 61771,
+      "source": "./contactpricing.svg"
     },
     "dashboard": {
       "codepoint": 61711,
@@ -187,6 +195,10 @@
       "codepoint": 61730,
       "source": "./ownership.svg"
     },
+    "partlist": {
+      "codepoint": 61772,
+      "source": "./partlist.svg"
+    },
     "pbfree": {
       "codepoint": 61731,
       "source": "./pbfree.svg"
@@ -230,6 +242,10 @@
     "reports": {
       "codepoint": 61740,
       "source": "./reports.svg"
+    },
+    "rfq": {
+      "codepoint": 61773,
+      "source": "./rfq.svg"
     },
     "rohs": {
       "codepoint": 61741,

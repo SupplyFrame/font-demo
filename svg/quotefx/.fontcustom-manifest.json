@@ -1,13 +1,14 @@
 {
   "checksum": {
-    "previous": "4b2bed51df855d9072dcf88ab2cad6a1de327faa4bd4d660a545d1a623f32a4f",
-    "current": "4b2bed51df855d9072dcf88ab2cad6a1de327faa4bd4d660a545d1a623f32a4f"
+    "previous": "cd9036e8bc773afffed15213684e97147cee535690317964bd3aa478969ee162",
+    "current": "cd9036e8bc773afffed15213684e97147cee535690317964bd3aa478969ee162"
   },
   "fonts": [
-    "fontcustom/fontcustom_4b2bed51df855d9072dcf88ab2cad6a1.ttf",
-    "fontcustom/fontcustom_4b2bed51df855d9072dcf88ab2cad6a1.svg",
-    "fontcustom/fontcustom_4b2bed51df855d9072dcf88ab2cad6a1.woff",
-    "fontcustom/fontcustom_4b2bed51df855d9072dcf88ab2cad6a1.eot"
+    "fontcustom/fontcustom_cd9036e8bc773afffed15213684e9714.ttf",
+    "fontcustom/fontcustom_cd9036e8bc773afffed15213684e9714.svg",
+    "fontcustom/fontcustom_cd9036e8bc773afffed15213684e9714.woff",
+    "fontcustom/fontcustom_cd9036e8bc773afffed15213684e9714.eot",
+    "fontcustom/fontcustom_cd9036e8bc773afffed15213684e9714.woff2"
   ],
   "glyphs": {
     "activity": {
@@ -142,6 +143,8 @@
   "options": {
     "autowidth": false,
     "config": false,
+    "copyright": "",
+    "css3": false,
     "css_selector": ".icon-{{glyph}}",
     "debug": false,
     "font_ascent": 448,

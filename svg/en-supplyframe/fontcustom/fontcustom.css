@@ -4,12 +4,12 @@
 
 @font-face {
   font-family: "fontcustom";
-  src: url("./fontcustom_bd08eaaf1b6ebe6bc65e0f073ff45530.eot");
-  src: url("./fontcustom_bd08eaaf1b6ebe6bc65e0f073ff45530.eot?#iefix") format("embedded-opentype"),
-       url("./fontcustom_bd08eaaf1b6ebe6bc65e0f073ff45530.woff2") format("woff2"),
-       url("./fontcustom_bd08eaaf1b6ebe6bc65e0f073ff45530.woff") format("woff"),
-       url("./fontcustom_bd08eaaf1b6ebe6bc65e0f073ff45530.ttf") format("truetype"),
-       url("./fontcustom_bd08eaaf1b6ebe6bc65e0f073ff45530.svg#fontcustom") format("svg");
+  src: url("./fontcustom_257ff8ac9b2d0d891555bad9a046a235.eot");
+  src: url("./fontcustom_257ff8ac9b2d0d891555bad9a046a235.eot?#iefix") format("embedded-opentype"),
+       url("./fontcustom_257ff8ac9b2d0d891555bad9a046a235.woff2") format("woff2"),
+       url("./fontcustom_257ff8ac9b2d0d891555bad9a046a235.woff") format("woff"),
+       url("./fontcustom_257ff8ac9b2d0d891555bad9a046a235.ttf") format("truetype"),
+       url("./fontcustom_257ff8ac9b2d0d891555bad9a046a235.svg#fontcustom") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -17,7 +17,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "fontcustom";
-    src: url("./fontcustom_bd08eaaf1b6ebe6bc65e0f073ff45530.svg#fontcustom") format("svg");
+    src: url("./fontcustom_257ff8ac9b2d0d891555bad9a046a235.svg#fontcustom") format("svg");
   }
 }
 
@@ -62,8 +62,10 @@
 .icon-lists:before,
 .icon-messages:before,
 .icon-more-dots:before,
+.icon-more-dots-vertical:before,
 .icon-mostrelevant:before,
 .icon-move:before,
+.icon-my-lists:before,
 .icon-new-folder:before,
 .icon-notifications:before,
 .icon-operatingconditions:before,
@@ -77,6 +79,7 @@
 .icon-private:before,
 .icon-pro-settings:before,
 .icon-project:before,
+.icon-project-view:before,
 .icon-projects:before,
 .icon-public:before,
 .icon-purchase:before,
@@ -153,8 +156,10 @@
 .icon-lists:before { content: "\f11a"; }
 .icon-messages:before { content: "\f148"; }
 .icon-more-dots:before { content: "\f149"; }
+.icon-more-dots-vertical:before { content: "\f14e"; }
 .icon-mostrelevant:before { content: "\f11b"; }
 .icon-move:before { content: "\f11c"; }
+.icon-my-lists:before { content: "\f14f"; }
 .icon-new-folder:before { content: "\f11d"; }
 .icon-notifications:before { content: "\f11e"; }
 .icon-operatingconditions:before { content: "\f11f"; }
@@ -168,6 +173,7 @@
 .icon-private:before { content: "\f126"; }
 .icon-pro-settings:before { content: "\f127"; }
 .icon-project:before { content: "\f128"; }
+.icon-project-view:before { content: "\f150"; }
 .icon-projects:before { content: "\f129"; }
 .icon-public:before { content: "\f12a"; }
 .icon-purchase:before { content: "\f13e"; }

@@ -4,12 +4,12 @@
 
 @font-face {
   font-family: "fontcustom";
-  src: url("./fontcustom_568bfd6945ad321c05019d16daf5abee.eot");
-  src: url("./fontcustom_568bfd6945ad321c05019d16daf5abee.eot?#iefix") format("embedded-opentype"),
-       url("./fontcustom_568bfd6945ad321c05019d16daf5abee.woff2") format("woff2"),
-       url("./fontcustom_568bfd6945ad321c05019d16daf5abee.woff") format("woff"),
-       url("./fontcustom_568bfd6945ad321c05019d16daf5abee.ttf") format("truetype"),
-       url("./fontcustom_568bfd6945ad321c05019d16daf5abee.svg#fontcustom") format("svg");
+  src: url("./fontcustom_e5f3ce79492e1ac459afeed02ce4fbac.eot");
+  src: url("./fontcustom_e5f3ce79492e1ac459afeed02ce4fbac.eot?#iefix") format("embedded-opentype"),
+       url("./fontcustom_e5f3ce79492e1ac459afeed02ce4fbac.woff2") format("woff2"),
+       url("./fontcustom_e5f3ce79492e1ac459afeed02ce4fbac.woff") format("woff"),
+       url("./fontcustom_e5f3ce79492e1ac459afeed02ce4fbac.ttf") format("truetype"),
+       url("./fontcustom_e5f3ce79492e1ac459afeed02ce4fbac.svg#fontcustom") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -17,7 +17,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "fontcustom";
-    src: url("./fontcustom_568bfd6945ad321c05019d16daf5abee.svg#fontcustom") format("svg");
+    src: url("./fontcustom_e5f3ce79492e1ac459afeed02ce4fbac.svg#fontcustom") format("svg");
   }
 }
 
@@ -72,6 +72,7 @@
 .icon-more-dots:before,
 .icon-mostrelevant:before,
 .icon-move:before,
+.icon-my-lists:before,
 .icon-new-folder:before,
 .icon-notifications:before,
 .icon-operatingconditions:before,
@@ -86,6 +87,7 @@
 .icon-private:before,
 .icon-pro-settings:before,
 .icon-project:before,
+.icon-project-view:before,
 .icon-projects:before,
 .icon-public:before,
 .icon-purchase:before,
@@ -177,6 +179,7 @@
 .icon-more-dots:before { content: "\f15a"; }
 .icon-mostrelevant:before { content: "\f128"; }
 .icon-move:before { content: "\f129"; }
+.icon-my-lists:before { content: "\f15b"; }
 .icon-new-folder:before { content: "\f12a"; }
 .icon-notifications:before { content: "\f12b"; }
 .icon-operatingconditions:before { content: "\f12c"; }
@@ -191,6 +194,7 @@
 .icon-private:before { content: "\f135"; }
 .icon-pro-settings:before { content: "\f136"; }
 .icon-project:before { content: "\f137"; }
+.icon-project-view:before { content: "\f15c"; }
 .icon-projects:before { content: "\f138"; }
 .icon-public:before { content: "\f139"; }
 .icon-purchase:before { content: "\f13a"; }

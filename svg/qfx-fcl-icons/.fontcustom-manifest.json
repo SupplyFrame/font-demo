@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "568bfd6945ad321c05019d16daf5abeeb0b73c0388b0b91a5074efb842bb7c1c",
-    "current": "568bfd6945ad321c05019d16daf5abeeb0b73c0388b0b91a5074efb842bb7c1c"
+    "previous": "e5f3ce79492e1ac459afeed02ce4fbac538dd370fe8647bbd7f56e7fe7cba3d0",
+    "current": "e5f3ce79492e1ac459afeed02ce4fbac538dd370fe8647bbd7f56e7fe7cba3d0"
   },
   "fonts": [
-    "fontcustom/fontcustom_568bfd6945ad321c05019d16daf5abee.ttf",
-    "fontcustom/fontcustom_568bfd6945ad321c05019d16daf5abee.svg",
-    "fontcustom/fontcustom_568bfd6945ad321c05019d16daf5abee.woff",
-    "fontcustom/fontcustom_568bfd6945ad321c05019d16daf5abee.eot",
-    "fontcustom/fontcustom_568bfd6945ad321c05019d16daf5abee.woff2"
+    "fontcustom/fontcustom_e5f3ce79492e1ac459afeed02ce4fbac.ttf",
+    "fontcustom/fontcustom_e5f3ce79492e1ac459afeed02ce4fbac.svg",
+    "fontcustom/fontcustom_e5f3ce79492e1ac459afeed02ce4fbac.woff",
+    "fontcustom/fontcustom_e5f3ce79492e1ac459afeed02ce4fbac.eot",
+    "fontcustom/fontcustom_e5f3ce79492e1ac459afeed02ce4fbac.woff2"
   ],
   "glyphs": {
     "activity": {
@@ -203,6 +203,10 @@
       "codepoint": 61737,
       "source": "./move.svg"
     },
+    "my-lists": {
+      "codepoint": 61787,
+      "source": "./my-lists.svg"
+    },
     "new-folder": {
       "codepoint": 61738,
       "source": "./new-folder.svg"
@@ -258,6 +262,10 @@
     "project": {
       "codepoint": 61751,
       "source": "./project.svg"
+    },
+    "project-view": {
+      "codepoint": 61788,
+      "source": "./project-view.svg"
     },
     "projects": {
       "codepoint": 61752,

@@ -1,0 +1,281 @@
+{
+  "checksum": {
+    "previous": "aab7167e2133dd2d165039516c42cf31aac9a21ae1fb1f47f0ee6f0628753b25",
+    "current": "aab7167e2133dd2d165039516c42cf31aac9a21ae1fb1f47f0ee6f0628753b25"
+  },
+  "fonts": [
+    "fontcustom/fontcustom_aab7167e2133dd2d165039516c42cf31.ttf",
+    "fontcustom/fontcustom_aab7167e2133dd2d165039516c42cf31.svg",
+    "fontcustom/fontcustom_aab7167e2133dd2d165039516c42cf31.woff",
+    "fontcustom/fontcustom_aab7167e2133dd2d165039516c42cf31.eot",
+    "fontcustom/fontcustom_aab7167e2133dd2d165039516c42cf31.woff2"
+  ],
+  "glyphs": {
+    "add": {
+      "codepoint": 61738,
+      "source": "./add.svg"
+    },
+    "all-lists": {
+      "codepoint": 61771,
+      "source": "./all-lists.svg"
+    },
+    "all-members": {
+      "codepoint": 61772,
+      "source": "./all-members.svg"
+    },
+    "analytics": {
+      "codepoint": 61739,
+      "source": "./analytics.svg"
+    },
+    "arrow-down": {
+      "codepoint": 61740,
+      "source": "./arrow-down.svg"
+    },
+    "arrow-stable": {
+      "codepoint": 61741,
+      "source": "./arrow-stable.svg"
+    },
+    "arrow-up": {
+      "codepoint": 61742,
+      "source": "./arrow-up.svg"
+    },
+    "arrowdown": {
+      "codepoint": 61743,
+      "source": "./arrowdown.svg"
+    },
+    "arrowleft": {
+      "codepoint": 61744,
+      "source": "./arrowleft.svg"
+    },
+    "arrowright": {
+      "codepoint": 61745,
+      "source": "./arrowright.svg"
+    },
+    "arrowup": {
+      "codepoint": 61746,
+      "source": "./arrowup.svg"
+    },
+    "bom": {
+      "codepoint": 61705,
+      "source": "./bom.svg"
+    },
+    "close": {
+      "codepoint": 61747,
+      "source": "./close.svg"
+    },
+    "comp": {
+      "codepoint": 61748,
+      "source": "./comp.svg"
+    },
+    "compliance": {
+      "codepoint": 61781,
+      "source": "./compliance.svg"
+    },
+    "dimensions": {
+      "codepoint": 61782,
+      "source": "./dimensions.svg"
+    },
+    "dot": {
+      "codepoint": 61749,
+      "source": "./dot.svg"
+    },
+    "download": {
+      "codepoint": 61792,
+      "source": "./download.svg"
+    },
+    "edit": {
+      "codepoint": 61750,
+      "source": "./edit.svg"
+    },
+    "email-alert": {
+      "codepoint": 61793,
+      "source": "./email-alert.svg"
+    },
+    "export": {
+      "codepoint": 61751,
+      "source": "./export.svg"
+    },
+    "eye": {
+      "codepoint": 61752,
+      "source": "./eye.svg"
+    },
+    "facebook": {
+      "codepoint": 61753,
+      "source": "./facebook.svg"
+    },
+    "filter": {
+      "codepoint": 61794,
+      "source": "./filter.svg"
+    },
+    "googleplus": {
+      "codepoint": 61754,
+      "source": "./googleplus.svg"
+    },
+    "info": {
+      "codepoint": 61755,
+      "source": "./info.svg"
+    },
+    "lists": {
+      "codepoint": 61756,
+      "source": "./lists.svg"
+    },
+    "mostrelevant": {
+      "codepoint": 61788,
+      "source": "./mostrelevant.svg"
+    },
+    "move": {
+      "codepoint": 61733,
+      "source": "./move.svg"
+    },
+    "new-folder": {
+      "codepoint": 61734,
+      "source": "./new-folder.svg"
+    },
+    "notifications": {
+      "codepoint": 61773,
+      "source": "./notifications.svg"
+    },
+    "operatingconditions": {
+      "codepoint": 61789,
+      "source": "./operatingconditions.svg"
+    },
+    "options": {
+      "codepoint": 61757,
+      "source": "./options.svg"
+    },
+    "other": {
+      "codepoint": 61790,
+      "source": "./other.svg"
+    },
+    "ownership": {
+      "codepoint": 61735,
+      "source": "./ownership.svg"
+    },
+    "pbfree": {
+      "codepoint": 61769,
+      "source": "./pbfree.svg"
+    },
+    "physical": {
+      "codepoint": 61791,
+      "source": "./physical.svg"
+    },
+    "print": {
+      "codepoint": 61758,
+      "source": "./print.svg"
+    },
+    "private": {
+      "codepoint": 61759,
+      "source": "./private.svg"
+    },
+    "pro-settings": {
+      "codepoint": 61774,
+      "source": "./pro-settings.svg"
+    },
+    "project": {
+      "codepoint": 61722,
+      "source": "./project.svg"
+    },
+    "projects": {
+      "codepoint": 61775,
+      "source": "./projects.svg"
+    },
+    "public": {
+      "codepoint": 61760,
+      "source": "./public.svg"
+    },
+    "refresh": {
+      "codepoint": 61761,
+      "source": "./refresh.svg"
+    },
+    "rohs": {
+      "codepoint": 61770,
+      "source": "./rohs.svg"
+    },
+    "search": {
+      "codepoint": 61762,
+      "source": "./search.svg"
+    },
+    "share": {
+      "codepoint": 61763,
+      "source": "./share.svg"
+    },
+    "star": {
+      "codepoint": 61764,
+      "source": "./star.svg"
+    },
+    "support": {
+      "codepoint": 61776,
+      "source": "./support.svg"
+    },
+    "team": {
+      "codepoint": 61777,
+      "source": "./team.svg"
+    },
+    "team-stats": {
+      "codepoint": 61778,
+      "source": "./team-stats.svg"
+    },
+    "technical": {
+      "codepoint": 61787,
+      "source": "./technical.svg"
+    },
+    "trash": {
+      "codepoint": 61765,
+      "source": "./trash.svg"
+    },
+    "twitter": {
+      "codepoint": 61766,
+      "source": "./twitter.svg"
+    },
+    "upload": {
+      "codepoint": 61767,
+      "source": "./upload.svg"
+    },
+    "user-lists": {
+      "codepoint": 61779,
+      "source": "./user-lists.svg"
+    },
+    "user-settings": {
+      "codepoint": 61780,
+      "source": "./user-settings.svg"
+    },
+    "yes": {
+      "codepoint": 61768,
+      "source": "./yes.svg"
+    }
+  },
+  "options": {
+    "autowidth": false,
+    "config": false,
+    "copyright": "",
+    "css3": false,
+    "css_selector": ".icon-{{glyph}}",
+    "debug": false,
+    "font_ascent": 448,
+    "font_descent": 64,
+    "font_design_size": 16,
+    "font_em": 512,
+    "font_name": "fontcustom",
+    "force": false,
+    "input": {
+      "templates": ".",
+      "vectors": "."
+    },
+    "no_hash": false,
+    "output": {
+      "css": "fontcustom",
+      "fonts": "fontcustom",
+      "preview": "fontcustom"
+    },
+    "preprocessor_path": null,
+    "quiet": false,
+    "templates": [
+      "css",
+      "preview"
+    ]
+  },
+  "templates": [
+    "fontcustom/fontcustom.css",
+    "fontcustom/fontcustom-preview.html"
+  ]
+}

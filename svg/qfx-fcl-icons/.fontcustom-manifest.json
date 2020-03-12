@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "e5f3ce79492e1ac459afeed02ce4fbac538dd370fe8647bbd7f56e7fe7cba3d0",
-    "current": "e5f3ce79492e1ac459afeed02ce4fbac538dd370fe8647bbd7f56e7fe7cba3d0"
+    "previous": "bf754fb6abc62a9e3acd57756cd95a01382defc6b823508edbdab3f9664f8311",
+    "current": "bf754fb6abc62a9e3acd57756cd95a01382defc6b823508edbdab3f9664f8311"
   },
   "fonts": [
-    "fontcustom/fontcustom_e5f3ce79492e1ac459afeed02ce4fbac.ttf",
-    "fontcustom/fontcustom_e5f3ce79492e1ac459afeed02ce4fbac.svg",
-    "fontcustom/fontcustom_e5f3ce79492e1ac459afeed02ce4fbac.woff",
-    "fontcustom/fontcustom_e5f3ce79492e1ac459afeed02ce4fbac.eot",
-    "fontcustom/fontcustom_e5f3ce79492e1ac459afeed02ce4fbac.woff2"
+    "fontcustom/fontcustom_bf754fb6abc62a9e3acd57756cd95a01.ttf",
+    "fontcustom/fontcustom_bf754fb6abc62a9e3acd57756cd95a01.svg",
+    "fontcustom/fontcustom_bf754fb6abc62a9e3acd57756cd95a01.woff",
+    "fontcustom/fontcustom_bf754fb6abc62a9e3acd57756cd95a01.eot",
+    "fontcustom/fontcustom_bf754fb6abc62a9e3acd57756cd95a01.woff2"
   ],
   "glyphs": {
     "activity": {
@@ -38,6 +38,18 @@
     "arrow-down": {
       "codepoint": 61702,
       "source": "./arrow-down.svg"
+    },
+    "arrow-long-down": {
+      "codepoint": 61789,
+      "source": "./arrow-long-down.svg"
+    },
+    "arrow-long-stable": {
+      "codepoint": 61790,
+      "source": "./arrow-long-stable.svg"
+    },
+    "arrow-long-up": {
+      "codepoint": 61791,
+      "source": "./arrow-long-up.svg"
     },
     "arrow-stable": {
       "codepoint": 61703,
@@ -98,6 +110,10 @@
     "compliance": {
       "codepoint": 61717,
       "source": "./compliance.svg"
+    },
+    "consollidate": {
+      "codepoint": 61794,
+      "source": "./consollidate.svg"
     },
     "contactpricing": {
       "codepoint": 61718,
@@ -176,7 +192,7 @@
       "source": "./link.svg"
     },
     "list": {
-      "codepoint": 61733,
+      "codepoint": 61793,
       "source": "./list.svg"
     },
     "lists": {
@@ -230,6 +246,10 @@
     "ownership": {
       "codepoint": 61743,
       "source": "./ownership.svg"
+    },
+    "part-list": {
+      "codepoint": 61792,
+      "source": "./part-list.svg"
     },
     "partlist": {
       "codepoint": 61744,

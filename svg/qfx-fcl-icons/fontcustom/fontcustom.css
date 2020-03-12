@@ -4,12 +4,12 @@
 
 @font-face {
   font-family: "fontcustom";
-  src: url("./fontcustom_e5f3ce79492e1ac459afeed02ce4fbac.eot");
-  src: url("./fontcustom_e5f3ce79492e1ac459afeed02ce4fbac.eot?#iefix") format("embedded-opentype"),
-       url("./fontcustom_e5f3ce79492e1ac459afeed02ce4fbac.woff2") format("woff2"),
-       url("./fontcustom_e5f3ce79492e1ac459afeed02ce4fbac.woff") format("woff"),
-       url("./fontcustom_e5f3ce79492e1ac459afeed02ce4fbac.ttf") format("truetype"),
-       url("./fontcustom_e5f3ce79492e1ac459afeed02ce4fbac.svg#fontcustom") format("svg");
+  src: url("./fontcustom_bf754fb6abc62a9e3acd57756cd95a01.eot");
+  src: url("./fontcustom_bf754fb6abc62a9e3acd57756cd95a01.eot?#iefix") format("embedded-opentype"),
+       url("./fontcustom_bf754fb6abc62a9e3acd57756cd95a01.woff2") format("woff2"),
+       url("./fontcustom_bf754fb6abc62a9e3acd57756cd95a01.woff") format("woff"),
+       url("./fontcustom_bf754fb6abc62a9e3acd57756cd95a01.ttf") format("truetype"),
+       url("./fontcustom_bf754fb6abc62a9e3acd57756cd95a01.svg#fontcustom") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -17,7 +17,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "fontcustom";
-    src: url("./fontcustom_e5f3ce79492e1ac459afeed02ce4fbac.svg#fontcustom") format("svg");
+    src: url("./fontcustom_bf754fb6abc62a9e3acd57756cd95a01.svg#fontcustom") format("svg");
   }
 }
 
@@ -31,6 +31,9 @@
 .icon-aml:before,
 .icon-analytics:before,
 .icon-arrow-down:before,
+.icon-arrow-long-down:before,
+.icon-arrow-long-stable:before,
+.icon-arrow-long-up:before,
 .icon-arrow-stable:before,
 .icon-arrow-up:before,
 .icon-arrow-up-down:before,
@@ -46,6 +49,7 @@
 .icon-close:before,
 .icon-comp:before,
 .icon-compliance:before,
+.icon-consollidate:before,
 .icon-contactpricing:before,
 .icon-dashboard:before,
 .icon-default:before,
@@ -79,6 +83,7 @@
 .icon-options:before,
 .icon-other:before,
 .icon-ownership:before,
+.icon-part-list:before,
 .icon-partlist:before,
 .icon-pbfree:before,
 .icon-phone:before,
@@ -138,6 +143,9 @@
 .icon-aml:before { content: "\f104"; }
 .icon-analytics:before { content: "\f105"; }
 .icon-arrow-down:before { content: "\f106"; }
+.icon-arrow-long-down:before { content: "\f15d"; }
+.icon-arrow-long-stable:before { content: "\f15e"; }
+.icon-arrow-long-up:before { content: "\f15f"; }
 .icon-arrow-stable:before { content: "\f107"; }
 .icon-arrow-up:before { content: "\f108"; }
 .icon-arrow-up-down:before { content: "\f109"; }
@@ -153,6 +161,7 @@
 .icon-close:before { content: "\f113"; }
 .icon-comp:before { content: "\f114"; }
 .icon-compliance:before { content: "\f115"; }
+.icon-consollidate:before { content: "\f162"; }
 .icon-contactpricing:before { content: "\f116"; }
 .icon-dashboard:before { content: "\f117"; }
 .icon-default:before { content: "\f151"; }
@@ -172,7 +181,7 @@
 .icon-info:before { content: "\f124"; }
 .icon-intelligence:before { content: "\f153"; }
 .icon-link:before { content: "\f154"; }
-.icon-list:before { content: "\f125"; }
+.icon-list:before { content: "\f161"; }
 .icon-lists:before { content: "\f126"; }
 .icon-location:before { content: "\f127"; }
 .icon-messages:before { content: "\f155"; }
@@ -186,6 +195,7 @@
 .icon-options:before { content: "\f12d"; }
 .icon-other:before { content: "\f12e"; }
 .icon-ownership:before { content: "\f12f"; }
+.icon-part-list:before { content: "\f160"; }
 .icon-partlist:before { content: "\f130"; }
 .icon-pbfree:before { content: "\f131"; }
 .icon-phone:before { content: "\f132"; }

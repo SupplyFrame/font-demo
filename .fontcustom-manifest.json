@@ -1,277 +1,474 @@
 {
   "checksum": {
-    "previous": "87eb798ec2228e54eb94f96ea19eb82a02e41c0b14e9499d8efc1c35b39d2d02",
-    "current": "87eb798ec2228e54eb94f96ea19eb82a02e41c0b14e9499d8efc1c35b39d2d02"
-  },
+    "current": "e3a8549cd9aea7847d8f85f78133d1ba8dab17b97c62e6c789188ad063410e80", 
+    "previous": "87eb798ec2228e54eb94f96ea19eb82a02e41c0b14e9499d8efc1c35b39d2d02"
+  }, 
   "fonts": [
-    "fontcustom/fontcustom_87eb798ec2228e54eb94f96ea19eb82a.ttf",
-    "fontcustom/fontcustom_87eb798ec2228e54eb94f96ea19eb82a.svg",
-    "fontcustom/fontcustom_87eb798ec2228e54eb94f96ea19eb82a.woff",
-    "fontcustom/fontcustom_87eb798ec2228e54eb94f96ea19eb82a.eot",
-    "fontcustom/fontcustom_87eb798ec2228e54eb94f96ea19eb82a.woff2"
-  ],
+    "fontcustom/fontcustom_e3a8549cd9aea7847d8f85f78133d1ba.ttf", 
+    "fontcustom/fontcustom_e3a8549cd9aea7847d8f85f78133d1ba.svg"
+  ], 
   "glyphs": {
+    "activity": {
+      "codepoint": 61878, 
+      "source": "svg/qfx-fcl-icons/activity.svg"
+    }, 
     "add": {
-      "codepoint": 61747,
-      "source": "svg/findchips/add.svg"
-    },
+      "codepoint": 61747, 
+      "source": "svg/qfx-fcl-icons/add.svg"
+    }, 
     "all-lists": {
-      "codepoint": 61835,
-      "source": "svg/findchips/all-lists.svg"
-    },
+      "codepoint": 61835, 
+      "source": "svg/qfx-fcl-icons/all-lists.svg"
+    }, 
     "all-members": {
-      "codepoint": 61836,
-      "source": "svg/findchips/all-members.svg"
-    },
+      "codepoint": 61836, 
+      "source": "svg/qfx-fcl-icons/all-members.svg"
+    }, 
+    "aml": {
+      "codepoint": 61879, 
+      "source": "svg/qfx-fcl-icons/aml.svg"
+    }, 
     "analytics": {
-      "codepoint": 61837,
-      "source": "svg/findchips/analytics.svg"
-    },
+      "codepoint": 61837, 
+      "source": "svg/qfx-fcl-icons/analytics.svg"
+    }, 
     "arrow-down": {
-      "codepoint": 61838,
-      "source": "svg/findchips/arrow-down.svg"
-    },
+      "codepoint": 61838, 
+      "source": "svg/qfx-fcl-icons/arrow-down.svg"
+    }, 
+    "arrow-long-down": {
+      "codepoint": 61880, 
+      "source": "svg/qfx-fcl-icons/arrow-long-down.svg"
+    }, 
+    "arrow-long-stable": {
+      "codepoint": 61881, 
+      "source": "svg/qfx-fcl-icons/arrow-long-stable.svg"
+    }, 
+    "arrow-long-up": {
+      "codepoint": 61882, 
+      "source": "svg/qfx-fcl-icons/arrow-long-up.svg"
+    }, 
     "arrow-stable": {
-      "codepoint": 61839,
-      "source": "svg/findchips/arrow-stable.svg"
-    },
+      "codepoint": 61839, 
+      "source": "svg/qfx-fcl-icons/arrow-stable.svg"
+    }, 
     "arrow-up": {
-      "codepoint": 61840,
-      "source": "svg/findchips/arrow-up.svg"
-    },
+      "codepoint": 61840, 
+      "source": "svg/qfx-fcl-icons/arrow-up.svg"
+    }, 
+    "arrow-up-down": {
+      "codepoint": 61883, 
+      "source": "svg/qfx-fcl-icons/arrow-up-down.svg"
+    }, 
     "arrowdown": {
-      "codepoint": 61749,
-      "source": "svg/findchips/arrowdown.svg"
-    },
+      "codepoint": 61749, 
+      "source": "svg/qfx-fcl-icons/arrowdown.svg"
+    }, 
     "arrowleft": {
-      "codepoint": 61750,
-      "source": "svg/findchips/arrowleft.svg"
-    },
+      "codepoint": 61750, 
+      "source": "svg/qfx-fcl-icons/arrowleft.svg"
+    }, 
     "arrowright": {
-      "codepoint": 61751,
-      "source": "svg/findchips/arrowright.svg"
-    },
+      "codepoint": 61751, 
+      "source": "svg/qfx-fcl-icons/arrowright.svg"
+    }, 
     "arrowup": {
-      "codepoint": 61841,
-      "source": "svg/findchips/arrowup.svg"
-    },
+      "codepoint": 61841, 
+      "source": "svg/qfx-fcl-icons/arrowup.svg"
+    }, 
+    "avl": {
+      "codepoint": 61884, 
+      "source": "svg/qfx-fcl-icons/avl.svg"
+    }, 
     "bom": {
-      "codepoint": 61842,
-      "source": "svg/findchips/bom.svg"
-    },
+      "codepoint": 61842, 
+      "source": "svg/qfx-fcl-icons/bom.svg"
+    }, 
+    "bom-insight-view": {
+      "codepoint": 61885, 
+      "source": "svg/qfx-fcl-icons/bom-insight-view.svg"
+    }, 
+    "boms": {
+      "codepoint": 61886, 
+      "source": "svg/qfx-fcl-icons/boms.svg"
+    }, 
+    "calendar": {
+      "codepoint": 61887, 
+      "source": "svg/qfx-fcl-icons/calendar.svg"
+    }, 
+    "chain": {
+      "codepoint": 61888, 
+      "source": "svg/qfx-fcl-icons/chain.svg"
+    }, 
     "close": {
-      "codepoint": 61756,
-      "source": "svg/findchips/close.svg"
-    },
+      "codepoint": 61756, 
+      "source": "svg/qfx-fcl-icons/close.svg"
+    }, 
     "comp": {
-      "codepoint": 61843,
-      "source": "svg/findchips/comp.svg"
-    },
+      "codepoint": 61843, 
+      "source": "svg/qfx-fcl-icons/comp.svg"
+    }, 
     "compliance": {
-      "codepoint": 61844,
-      "source": "svg/findchips/compliance.svg"
-    },
+      "codepoint": 61844, 
+      "source": "svg/qfx-fcl-icons/compliance.svg"
+    }, 
+    "consollidate": {
+      "codepoint": 61889, 
+      "source": "svg/qfx-fcl-icons/consollidate.svg"
+    }, 
+    "contactpricing": {
+      "codepoint": 61890, 
+      "source": "svg/qfx-fcl-icons/contactpricing.svg"
+    }, 
+    "contract-price": {
+      "codepoint": 61891, 
+      "source": "svg/qfx-fcl-icons/contract-price.svg"
+    }, 
+    "cost": {
+      "codepoint": 61892, 
+      "source": "svg/qfx-fcl-icons/cost.svg"
+    }, 
+    "customer-list": {
+      "codepoint": 61893, 
+      "source": "svg/qfx-fcl-icons/customer-list.svg"
+    }, 
+    "dashboard": {
+      "codepoint": 61894, 
+      "source": "svg/qfx-fcl-icons/dashboard.svg"
+    }, 
+    "default": {
+      "codepoint": 61895, 
+      "source": "svg/qfx-fcl-icons/default.svg"
+    }, 
+    "demand-list": {
+      "codepoint": 61896, 
+      "source": "svg/qfx-fcl-icons/demand-list.svg"
+    }, 
+    "demand-temp": {
+      "codepoint": 61897, 
+      "source": "svg/qfx-fcl-icons/demand-temp.svg"
+    }, 
     "dimensions": {
-      "codepoint": 61845,
-      "source": "svg/findchips/dimensions.svg"
-    },
+      "codepoint": 61845, 
+      "source": "svg/qfx-fcl-icons/dimensions.svg"
+    }, 
     "dot": {
-      "codepoint": 61811,
-      "source": "svg/findchips/dot.svg"
-    },
+      "codepoint": 61811, 
+      "source": "svg/qfx-fcl-icons/dot.svg"
+    }, 
     "download": {
-      "codepoint": 61812,
-      "source": "svg/findchips/download.svg"
-    },
+      "codepoint": 61812, 
+      "source": "svg/qfx-fcl-icons/download.svg"
+    }, 
     "edit": {
-      "codepoint": 61846,
-      "source": "svg/findchips/edit.svg"
-    },
+      "codepoint": 61846, 
+      "source": "svg/qfx-fcl-icons/edit.svg"
+    }, 
+    "email": {
+      "codepoint": 61898, 
+      "source": "svg/qfx-fcl-icons/email.svg"
+    }, 
     "email-alert": {
-      "codepoint": 61847,
-      "source": "svg/findchips/email-alert.svg"
-    },
+      "codepoint": 61847, 
+      "source": "svg/qfx-fcl-icons/email-alert.svg"
+    }, 
+    "empty": {
+      "codepoint": 61899, 
+      "source": "svg/qfx-fcl-icons/empty.svg"
+    }, 
     "export": {
-      "codepoint": 61848,
-      "source": "svg/findchips/export.svg"
-    },
+      "codepoint": 61848, 
+      "source": "svg/qfx-fcl-icons/export.svg"
+    }, 
     "eye": {
-      "codepoint": 61761,
-      "source": "svg/findchips/eye.svg"
-    },
+      "codepoint": 61761, 
+      "source": "svg/qfx-fcl-icons/eye.svg"
+    }, 
     "facebook": {
-      "codepoint": 61849,
-      "source": "svg/findchips/facebook.svg"
-    },
+      "codepoint": 61849, 
+      "source": "svg/qfx-fcl-icons/facebook.svg"
+    }, 
+    "file": {
+      "codepoint": 61900, 
+      "source": "svg/qfx-fcl-icons/file.svg"
+    }, 
+    "filter": {
+      "codepoint": 61901, 
+      "source": "svg/qfx-fcl-icons/filter.svg"
+    }, 
+    "forecast-view": {
+      "codepoint": 61902, 
+      "source": "svg/qfx-fcl-icons/forecast-view.svg"
+    }, 
     "googleplus": {
-      "codepoint": 61850,
-      "source": "svg/findchips/googleplus.svg"
-    },
+      "codepoint": 61850, 
+      "source": "svg/qfx-fcl-icons/googleplus.svg"
+    }, 
     "info": {
-      "codepoint": 61818,
-      "source": "svg/findchips/info.svg"
-    },
+      "codepoint": 61818, 
+      "source": "svg/qfx-fcl-icons/info.svg"
+    }, 
+    "intelligence": {
+      "codepoint": 61903, 
+      "source": "svg/qfx-fcl-icons/intelligence.svg"
+    }, 
+    "link": {
+      "codepoint": 61904, 
+      "source": "svg/qfx-fcl-icons/link.svg"
+    }, 
+    "list": {
+      "codepoint": 61905, 
+      "source": "svg/qfx-fcl-icons/list.svg"
+    }, 
+    "list-status": {
+      "codepoint": 61906, 
+      "source": "svg/qfx-fcl-icons/list-status.svg"
+    }, 
     "lists": {
-      "codepoint": 61851,
-      "source": "svg/findchips/lists.svg"
-    },
+      "codepoint": 61851, 
+      "source": "svg/qfx-fcl-icons/lists.svg"
+    }, 
+    "location": {
+      "codepoint": 61907, 
+      "source": "svg/qfx-fcl-icons/location.svg"
+    }, 
+    "messages": {
+      "codepoint": 61908, 
+      "source": "svg/qfx-fcl-icons/messages.svg"
+    }, 
+    "more-dots": {
+      "codepoint": 61909, 
+      "source": "svg/qfx-fcl-icons/more-dots.svg"
+    }, 
     "mostrelevant": {
-      "codepoint": 61852,
-      "source": "svg/findchips/mostrelevant.svg"
-    },
+      "codepoint": 61852, 
+      "source": "svg/qfx-fcl-icons/mostrelevant.svg"
+    }, 
     "move": {
-      "codepoint": 61853,
-      "source": "svg/findchips/move.svg"
-    },
+      "codepoint": 61853, 
+      "source": "svg/qfx-fcl-icons/move.svg"
+    }, 
+    "my-lists": {
+      "codepoint": 61910, 
+      "source": "svg/qfx-fcl-icons/my-lists.svg"
+    }, 
     "new-folder": {
-      "codepoint": 61854,
-      "source": "svg/findchips/new-folder.svg"
-    },
+      "codepoint": 61854, 
+      "source": "svg/qfx-fcl-icons/new-folder.svg"
+    }, 
     "notifications": {
-      "codepoint": 61855,
-      "source": "svg/findchips/notifications.svg"
-    },
+      "codepoint": 61855, 
+      "source": "svg/qfx-fcl-icons/notifications.svg"
+    }, 
     "operatingconditions": {
-      "codepoint": 61856,
-      "source": "svg/findchips/operatingconditions.svg"
-    },
+      "codepoint": 61856, 
+      "source": "svg/qfx-fcl-icons/operatingconditions.svg"
+    }, 
     "options": {
-      "codepoint": 61782,
-      "source": "svg/findchips/options.svg"
-    },
+      "codepoint": 61782, 
+      "source": "svg/qfx-fcl-icons/options.svg"
+    }, 
+    "order-history": {
+      "codepoint": 61911, 
+      "source": "svg/qfx-fcl-icons/order-history.svg"
+    }, 
     "other": {
-      "codepoint": 61857,
-      "source": "svg/findchips/other.svg"
-    },
+      "codepoint": 61857, 
+      "source": "svg/qfx-fcl-icons/other.svg"
+    }, 
     "ownership": {
-      "codepoint": 61858,
-      "source": "svg/findchips/ownership.svg"
-    },
+      "codepoint": 61858, 
+      "source": "svg/qfx-fcl-icons/ownership.svg"
+    }, 
+    "part-list": {
+      "codepoint": 61912, 
+      "source": "svg/qfx-fcl-icons/part-list.svg"
+    }, 
+    "partlist": {
+      "codepoint": 61913, 
+      "source": "svg/qfx-fcl-icons/partlist.svg"
+    }, 
     "pbfree": {
-      "codepoint": 61859,
-      "source": "svg/findchips/pbfree.svg"
-    },
+      "codepoint": 61859, 
+      "source": "svg/qfx-fcl-icons/pbfree.svg"
+    }, 
+    "phone": {
+      "codepoint": 61914, 
+      "source": "svg/qfx-fcl-icons/phone.svg"
+    }, 
     "physical": {
-      "codepoint": 61860,
-      "source": "svg/findchips/physical.svg"
-    },
+      "codepoint": 61860, 
+      "source": "svg/qfx-fcl-icons/physical.svg"
+    }, 
     "print": {
-      "codepoint": 61861,
-      "source": "svg/findchips/print.svg"
-    },
+      "codepoint": 61861, 
+      "source": "svg/qfx-fcl-icons/print.svg"
+    }, 
     "private": {
-      "codepoint": 61862,
-      "source": "svg/findchips/private.svg"
-    },
+      "codepoint": 61862, 
+      "source": "svg/qfx-fcl-icons/private.svg"
+    }, 
     "pro-settings": {
-      "codepoint": 61863,
-      "source": "svg/findchips/pro-settings.svg"
-    },
+      "codepoint": 61863, 
+      "source": "svg/qfx-fcl-icons/pro-settings.svg"
+    }, 
     "project": {
-      "codepoint": 61864,
-      "source": "svg/findchips/project.svg"
-    },
+      "codepoint": 61864, 
+      "source": "svg/qfx-fcl-icons/project.svg"
+    }, 
+    "project-view": {
+      "codepoint": 61915, 
+      "source": "svg/qfx-fcl-icons/project-view.svg"
+    }, 
     "projects": {
-      "codepoint": 61865,
-      "source": "svg/findchips/projects.svg"
-    },
+      "codepoint": 61865, 
+      "source": "svg/qfx-fcl-icons/projects.svg"
+    }, 
     "public": {
-      "codepoint": 61866,
-      "source": "svg/findchips/public.svg"
-    },
+      "codepoint": 61866, 
+      "source": "svg/qfx-fcl-icons/public.svg"
+    }, 
+    "purchase": {
+      "codepoint": 61916, 
+      "source": "svg/qfx-fcl-icons/purchase.svg"
+    }, 
+    "question-mark": {
+      "codepoint": 61917, 
+      "source": "svg/qfx-fcl-icons/question-mark.svg"
+    }, 
     "refresh": {
-      "codepoint": 61867,
-      "source": "svg/findchips/refresh.svg"
-    },
+      "codepoint": 61867, 
+      "source": "svg/qfx-fcl-icons/refresh.svg"
+    }, 
+    "reload": {
+      "codepoint": 61918, 
+      "source": "svg/qfx-fcl-icons/reload.svg"
+    }, 
+    "reports": {
+      "codepoint": 61919, 
+      "source": "svg/qfx-fcl-icons/reports.svg"
+    }, 
+    "rfq": {
+      "codepoint": 61920, 
+      "source": "svg/qfx-fcl-icons/rfq.svg"
+    }, 
     "rohs": {
-      "codepoint": 61868,
-      "source": "svg/findchips/rohs.svg"
-    },
+      "codepoint": 61868, 
+      "source": "svg/qfx-fcl-icons/rohs.svg"
+    }, 
     "search": {
-      "codepoint": 61787,
-      "source": "svg/findchips/search.svg"
-    },
+      "codepoint": 61787, 
+      "source": "svg/qfx-fcl-icons/search.svg"
+    }, 
+    "send-to": {
+      "codepoint": 61921, 
+      "source": "svg/qfx-fcl-icons/send-to.svg"
+    }, 
+    "settings": {
+      "codepoint": 61922, 
+      "source": "svg/qfx-fcl-icons/settings.svg"
+    }, 
     "share": {
-      "codepoint": 61826,
-      "source": "svg/findchips/share.svg"
-    },
+      "codepoint": 61826, 
+      "source": "svg/qfx-fcl-icons/share.svg"
+    }, 
+    "share-list": {
+      "codepoint": 61923, 
+      "source": "svg/qfx-fcl-icons/share-list.svg"
+    }, 
+    "sidebar-hide": {
+      "codepoint": 61924, 
+      "source": "svg/qfx-fcl-icons/sidebar-hide.svg"
+    }, 
+    "sidebar-show": {
+      "codepoint": 61925, 
+      "source": "svg/qfx-fcl-icons/sidebar-show.svg"
+    }, 
     "star": {
-      "codepoint": 61869,
-      "source": "svg/findchips/star.svg"
-    },
+      "codepoint": 61869, 
+      "source": "svg/qfx-fcl-icons/star.svg"
+    }, 
     "support": {
-      "codepoint": 61870,
-      "source": "svg/findchips/support.svg"
-    },
+      "codepoint": 61870, 
+      "source": "svg/qfx-fcl-icons/support.svg"
+    }, 
     "team": {
-      "codepoint": 61871,
-      "source": "svg/findchips/team.svg"
-    },
+      "codepoint": 61871, 
+      "source": "svg/qfx-fcl-icons/team.svg"
+    }, 
     "team-stats": {
-      "codepoint": 61872,
-      "source": "svg/findchips/team-stats.svg"
-    },
+      "codepoint": 61872, 
+      "source": "svg/qfx-fcl-icons/team-stats.svg"
+    }, 
     "technical": {
-      "codepoint": 61873,
-      "source": "svg/findchips/technical.svg"
-    },
+      "codepoint": 61873, 
+      "source": "svg/qfx-fcl-icons/technical.svg"
+    }, 
     "trash": {
-      "codepoint": 61830,
-      "source": "svg/findchips/trash.svg"
-    },
+      "codepoint": 61830, 
+      "source": "svg/qfx-fcl-icons/trash.svg"
+    }, 
     "twitter": {
-      "codepoint": 61874,
-      "source": "svg/findchips/twitter.svg"
-    },
+      "codepoint": 61874, 
+      "source": "svg/qfx-fcl-icons/twitter.svg"
+    }, 
     "upload": {
-      "codepoint": 61875,
-      "source": "svg/findchips/upload.svg"
-    },
+      "codepoint": 61875, 
+      "source": "svg/qfx-fcl-icons/upload.svg"
+    }, 
+    "upload-to": {
+      "codepoint": 61926, 
+      "source": "svg/qfx-fcl-icons/upload-to.svg"
+    }, 
     "user-lists": {
-      "codepoint": 61876,
-      "source": "svg/findchips/user-lists.svg"
-    },
+      "codepoint": 61876, 
+      "source": "svg/qfx-fcl-icons/user-lists.svg"
+    }, 
     "user-settings": {
-      "codepoint": 61877,
-      "source": "svg/findchips/user-settings.svg"
-    },
+      "codepoint": 61877, 
+      "source": "svg/qfx-fcl-icons/user-settings.svg"
+    }, 
+    "warning": {
+      "codepoint": 61927, 
+      "source": "svg/qfx-fcl-icons/warning.svg"
+    }, 
     "yes": {
-      "codepoint": 61833,
-      "source": "svg/findchips/yes.svg"
+      "codepoint": 61833, 
+      "source": "svg/qfx-fcl-icons/yes.svg"
     }
-  },
+  }, 
   "options": {
-    "autowidth": false,
-    "config": "fontcustom.yml",
-    "copyright": "",
-    "css3": false,
-    "css_selector": ".icon-{{glyph}}",
-    "debug": false,
-    "font_ascent": 448,
-    "font_descent": 64,
-    "font_design_size": 16,
-    "font_em": 512,
-    "font_name": "fontcustom",
-    "force": false,
+    "autowidth": false, 
+    "config": "fontcustom.yml", 
+    "copyright": "", 
+    "css3": false, 
+    "css_selector": ".icon-{{glyph}}", 
+    "debug": false, 
+    "font_ascent": 448, 
+    "font_descent": 64, 
+    "font_design_size": 16, 
+    "font_em": 512, 
+    "font_name": "fontcustom", 
+    "force": false, 
     "input": {
-      "templates": "svg/findchips/",
-      "vectors": "svg/findchips/"
-    },
-    "no_hash": false,
+      "templates": "svg/qfx-fcl-icons/", 
+      "vectors": "svg/qfx-fcl-icons/"
+    }, 
+    "no_hash": false, 
     "output": {
-      "css": "fontcustom",
-      "fonts": "fontcustom",
+      "css": "fontcustom", 
+      "fonts": "fontcustom", 
       "preview": "fontcustom"
-    },
-    "preprocessor_path": null,
-    "quiet": false,
+    }, 
+    "preprocessor_path": null, 
+    "quiet": false, 
     "templates": [
-      "css",
+      "css", 
       "preview"
     ]
-  },
+  }, 
   "templates": [
-    "fontcustom/fontcustom.css",
+    "fontcustom/fontcustom.css", 
     "fontcustom/fontcustom-preview.html"
   ]
 }

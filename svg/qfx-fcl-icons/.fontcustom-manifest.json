@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "8bedcab514d958cf913959ac9e8d0a94ec8a899de1aae469ba38c6875a4ed576",
-    "current": "8bedcab514d958cf913959ac9e8d0a94ec8a899de1aae469ba38c6875a4ed576"
+    "previous": "60d3320a86e0332c47bf2a9d7aaf90cb30311ffb65ef3b9d9577bad82040a513",
+    "current": "60d3320a86e0332c47bf2a9d7aaf90cb30311ffb65ef3b9d9577bad82040a513"
   },
   "fonts": [
-    "fontcustom/fontcustom_8bedcab514d958cf913959ac9e8d0a94.ttf",
-    "fontcustom/fontcustom_8bedcab514d958cf913959ac9e8d0a94.svg",
-    "fontcustom/fontcustom_8bedcab514d958cf913959ac9e8d0a94.woff",
-    "fontcustom/fontcustom_8bedcab514d958cf913959ac9e8d0a94.eot",
-    "fontcustom/fontcustom_8bedcab514d958cf913959ac9e8d0a94.woff2"
+    "fontcustom/fontcustom_60d3320a86e0332c47bf2a9d7aaf90cb.ttf",
+    "fontcustom/fontcustom_60d3320a86e0332c47bf2a9d7aaf90cb.svg",
+    "fontcustom/fontcustom_60d3320a86e0332c47bf2a9d7aaf90cb.woff",
+    "fontcustom/fontcustom_60d3320a86e0332c47bf2a9d7aaf90cb.eot",
+    "fontcustom/fontcustom_60d3320a86e0332c47bf2a9d7aaf90cb.woff2"
   ],
   "glyphs": {
     "activity": {
@@ -118,6 +118,14 @@
     "contactpricing": {
       "codepoint": 61718,
       "source": "./contactpricing.svg"
+    },
+    "contract-price": {
+      "codepoint": 61797,
+      "source": "./contract-price.svg"
+    },
+    "cost": {
+      "codepoint": 61796,
+      "source": "./cost.svg"
     },
     "customer-list": {
       "codepoint": 61795,
@@ -242,6 +250,10 @@
     "options": {
       "codepoint": 61741,
       "source": "./options.svg"
+    },
+    "order-history": {
+      "codepoint": 61798,
+      "source": "./order-history.svg"
     },
     "other": {
       "codepoint": 61742,

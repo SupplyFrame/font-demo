@@ -1,474 +1,477 @@
 {
   "checksum": {
-    "current": "c71830f924083f9dcd4477580f88085595bc912f3202d3ca155d0ec67dd091f3", 
-    "previous": "60d3320a86e0332c47bf2a9d7aaf90cb30311ffb65ef3b9d9577bad82040a513"
-  }, 
+    "previous": "7e86f21687f23d66d068c04cf1de122cda9b5e7556554c720d9ed7d8594d632d",
+    "current": "7e86f21687f23d66d068c04cf1de122cda9b5e7556554c720d9ed7d8594d632d"
+  },
   "fonts": [
-    "fontcustom/fontcustom_c71830f924083f9dcd4477580f880855.ttf", 
-    "fontcustom/fontcustom_c71830f924083f9dcd4477580f880855.svg"
-  ], 
+    "fontcustom/fontcustom_7e86f21687f23d66d068c04cf1de122c.ttf",
+    "fontcustom/fontcustom_7e86f21687f23d66d068c04cf1de122c.svg",
+    "fontcustom/fontcustom_7e86f21687f23d66d068c04cf1de122c.woff",
+    "fontcustom/fontcustom_7e86f21687f23d66d068c04cf1de122c.eot",
+    "fontcustom/fontcustom_7e86f21687f23d66d068c04cf1de122c.woff2"
+  ],
   "glyphs": {
     "activity": {
-      "codepoint": 61696, 
+      "codepoint": 61696,
       "source": "./activity.svg"
-    }, 
+    },
     "add": {
-      "codepoint": 61697, 
+      "codepoint": 61806,
       "source": "./add.svg"
-    }, 
+    },
     "all-lists": {
-      "codepoint": 61698, 
+      "codepoint": 61698,
       "source": "./all-lists.svg"
-    }, 
+    },
     "all-members": {
-      "codepoint": 61699, 
+      "codepoint": 61699,
       "source": "./all-members.svg"
-    }, 
+    },
     "aml": {
-      "codepoint": 61700, 
+      "codepoint": 61700,
       "source": "./aml.svg"
-    }, 
+    },
     "analytics": {
-      "codepoint": 61701, 
+      "codepoint": 61701,
       "source": "./analytics.svg"
-    }, 
+    },
     "arrow-down": {
-      "codepoint": 61702, 
+      "codepoint": 61702,
       "source": "./arrow-down.svg"
-    }, 
+    },
     "arrow-long-down": {
-      "codepoint": 61789, 
+      "codepoint": 61789,
       "source": "./arrow-long-down.svg"
-    }, 
+    },
     "arrow-long-stable": {
-      "codepoint": 61790, 
+      "codepoint": 61790,
       "source": "./arrow-long-stable.svg"
-    }, 
+    },
     "arrow-long-up": {
-      "codepoint": 61791, 
+      "codepoint": 61791,
       "source": "./arrow-long-up.svg"
-    }, 
+    },
     "arrow-stable": {
-      "codepoint": 61703, 
+      "codepoint": 61703,
       "source": "./arrow-stable.svg"
-    }, 
+    },
     "arrow-up": {
-      "codepoint": 61704, 
+      "codepoint": 61704,
       "source": "./arrow-up.svg"
-    }, 
+    },
     "arrow-up-down": {
-      "codepoint": 61705, 
+      "codepoint": 61705,
       "source": "./arrow-up-down.svg"
-    }, 
+    },
     "arrowdown": {
-      "codepoint": 61706, 
+      "codepoint": 61706,
       "source": "./arrowdown.svg"
-    }, 
+    },
     "arrowleft": {
-      "codepoint": 61707, 
+      "codepoint": 61707,
       "source": "./arrowleft.svg"
-    }, 
+    },
     "arrowright": {
-      "codepoint": 61708, 
+      "codepoint": 61708,
       "source": "./arrowright.svg"
-    }, 
+    },
     "arrowup": {
-      "codepoint": 61709, 
+      "codepoint": 61709,
       "source": "./arrowup.svg"
-    }, 
+    },
     "avl": {
-      "codepoint": 61710, 
+      "codepoint": 61710,
       "source": "./avl.svg"
-    }, 
+    },
     "bom": {
-      "codepoint": 61711, 
+      "codepoint": 61711,
       "source": "./bom.svg"
-    }, 
+    },
     "bom-insight-view": {
-      "codepoint": 61799, 
+      "codepoint": 61799,
       "source": "./bom-insight-view.svg"
-    }, 
+    },
     "boms": {
-      "codepoint": 61712, 
+      "codepoint": 61712,
       "source": "./boms.svg"
-    }, 
+    },
     "calendar": {
-      "codepoint": 61713, 
+      "codepoint": 61713,
       "source": "./calendar.svg"
-    }, 
+    },
     "chain": {
-      "codepoint": 61714, 
+      "codepoint": 61714,
       "source": "./chain.svg"
-    }, 
+    },
     "close": {
-      "codepoint": 61715, 
+      "codepoint": 61715,
       "source": "./close.svg"
-    }, 
+    },
     "comp": {
-      "codepoint": 61716, 
+      "codepoint": 61716,
       "source": "./comp.svg"
-    }, 
+    },
     "compliance": {
-      "codepoint": 61717, 
+      "codepoint": 61717,
       "source": "./compliance.svg"
-    }, 
+    },
     "consollidate": {
-      "codepoint": 61794, 
+      "codepoint": 61794,
       "source": "./consollidate.svg"
-    }, 
+    },
     "contactpricing": {
-      "codepoint": 61718, 
+      "codepoint": 61718,
       "source": "./contactpricing.svg"
-    }, 
+    },
     "contract-price": {
-      "codepoint": 61797, 
+      "codepoint": 61797,
       "source": "./contract-price.svg"
-    }, 
+    },
     "cost": {
-      "codepoint": 61796, 
+      "codepoint": 61796,
       "source": "./cost.svg"
-    }, 
+    },
     "customer-list": {
-      "codepoint": 61795, 
+      "codepoint": 61795,
       "source": "./customer-list.svg"
-    }, 
+    },
     "dashboard": {
-      "codepoint": 61719, 
+      "codepoint": 61719,
       "source": "./dashboard.svg"
-    }, 
+    },
     "default": {
-      "codepoint": 61777, 
+      "codepoint": 61777,
       "source": "./default.svg"
-    }, 
+    },
     "demand-list": {
-      "codepoint": 61800, 
+      "codepoint": 61800,
       "source": "./demand-list.svg"
-    }, 
+    },
     "demand-temp": {
-      "codepoint": 61801, 
+      "codepoint": 61801,
       "source": "./demand-temp.svg"
-    }, 
+    },
     "dimensions": {
-      "codepoint": 61720, 
+      "codepoint": 61720,
       "source": "./dimensions.svg"
-    }, 
+    },
     "dot": {
-      "codepoint": 61721, 
+      "codepoint": 61721,
       "source": "./dot.svg"
-    }, 
+    },
     "download": {
-      "codepoint": 61722, 
+      "codepoint": 61722,
       "source": "./download.svg"
-    }, 
+    },
     "edit": {
-      "codepoint": 61723, 
+      "codepoint": 61723,
       "source": "./edit.svg"
-    }, 
+    },
     "email": {
-      "codepoint": 61724, 
+      "codepoint": 61724,
       "source": "./email.svg"
-    }, 
+    },
     "email-alert": {
-      "codepoint": 61725, 
+      "codepoint": 61725,
       "source": "./email-alert.svg"
-    }, 
+    },
     "empty": {
-      "codepoint": 61726, 
+      "codepoint": 61805,
       "source": "./empty.svg"
-    }, 
+    },
     "export": {
-      "codepoint": 61727, 
+      "codepoint": 61727,
       "source": "./export.svg"
-    }, 
+    },
     "eye": {
-      "codepoint": 61728, 
+      "codepoint": 61804,
       "source": "./eye.svg"
-    }, 
+    },
     "facebook": {
-      "codepoint": 61729, 
+      "codepoint": 61729,
       "source": "./facebook.svg"
-    }, 
+    },
     "file": {
-      "codepoint": 61730, 
+      "codepoint": 61730,
       "source": "./file.svg"
-    }, 
+    },
     "filter": {
-      "codepoint": 61778, 
+      "codepoint": 61778,
       "source": "./filter.svg"
-    }, 
+    },
     "forecast-view": {
-      "codepoint": 61802, 
+      "codepoint": 61802,
       "source": "./forecast-view.svg"
-    }, 
+    },
     "googleplus": {
-      "codepoint": 61731, 
+      "codepoint": 61731,
       "source": "./googleplus.svg"
-    }, 
+    },
     "info": {
-      "codepoint": 61732, 
+      "codepoint": 61732,
       "source": "./info.svg"
-    }, 
+    },
     "intelligence": {
-      "codepoint": 61779, 
+      "codepoint": 61779,
       "source": "./intelligence.svg"
-    }, 
+    },
     "link": {
-      "codepoint": 61780, 
+      "codepoint": 61780,
       "source": "./link.svg"
-    }, 
+    },
     "list": {
-      "codepoint": 61793, 
+      "codepoint": 61793,
       "source": "./list.svg"
-    }, 
+    },
     "list-status": {
-      "codepoint": 61803, 
+      "codepoint": 61803,
       "source": "./list-status.svg"
-    }, 
+    },
     "lists": {
-      "codepoint": 61734, 
+      "codepoint": 61734,
       "source": "./lists.svg"
-    }, 
+    },
     "location": {
-      "codepoint": 61735, 
+      "codepoint": 61735,
       "source": "./location.svg"
-    }, 
+    },
     "messages": {
-      "codepoint": 61781, 
+      "codepoint": 61781,
       "source": "./messages.svg"
-    }, 
+    },
     "more-dots": {
-      "codepoint": 61786, 
+      "codepoint": 61786,
       "source": "./more-dots.svg"
-    }, 
+    },
     "mostrelevant": {
-      "codepoint": 61736, 
+      "codepoint": 61736,
       "source": "./mostrelevant.svg"
-    }, 
+    },
     "move": {
-      "codepoint": 61737, 
+      "codepoint": 61737,
       "source": "./move.svg"
-    }, 
+    },
     "my-lists": {
-      "codepoint": 61787, 
+      "codepoint": 61787,
       "source": "./my-lists.svg"
-    }, 
+    },
     "new-folder": {
-      "codepoint": 61738, 
+      "codepoint": 61738,
       "source": "./new-folder.svg"
-    }, 
+    },
     "notifications": {
-      "codepoint": 61739, 
+      "codepoint": 61739,
       "source": "./notifications.svg"
-    }, 
+    },
     "operatingconditions": {
-      "codepoint": 61740, 
+      "codepoint": 61740,
       "source": "./operatingconditions.svg"
-    }, 
+    },
     "options": {
-      "codepoint": 61741, 
+      "codepoint": 61741,
       "source": "./options.svg"
-    }, 
+    },
     "order-history": {
-      "codepoint": 61798, 
+      "codepoint": 61798,
       "source": "./order-history.svg"
-    }, 
+    },
     "other": {
-      "codepoint": 61742, 
+      "codepoint": 61742,
       "source": "./other.svg"
-    }, 
+    },
     "ownership": {
-      "codepoint": 61743, 
+      "codepoint": 61743,
       "source": "./ownership.svg"
-    }, 
+    },
     "part-list": {
-      "codepoint": 61792, 
+      "codepoint": 61792,
       "source": "./part-list.svg"
-    }, 
+    },
     "partlist": {
-      "codepoint": 61744, 
+      "codepoint": 61744,
       "source": "./partlist.svg"
-    }, 
+    },
     "pbfree": {
-      "codepoint": 61745, 
+      "codepoint": 61745,
       "source": "./pbfree.svg"
-    }, 
+    },
     "phone": {
-      "codepoint": 61746, 
+      "codepoint": 61746,
       "source": "./phone.svg"
-    }, 
+    },
     "physical": {
-      "codepoint": 61747, 
+      "codepoint": 61747,
       "source": "./physical.svg"
-    }, 
+    },
     "print": {
-      "codepoint": 61748, 
+      "codepoint": 61748,
       "source": "./print.svg"
-    }, 
+    },
     "private": {
-      "codepoint": 61749, 
+      "codepoint": 61749,
       "source": "./private.svg"
-    }, 
+    },
     "pro-settings": {
-      "codepoint": 61750, 
+      "codepoint": 61750,
       "source": "./pro-settings.svg"
-    }, 
+    },
     "project": {
-      "codepoint": 61751, 
+      "codepoint": 61751,
       "source": "./project.svg"
-    }, 
+    },
     "project-view": {
-      "codepoint": 61788, 
+      "codepoint": 61788,
       "source": "./project-view.svg"
-    }, 
+    },
     "projects": {
-      "codepoint": 61752, 
+      "codepoint": 61752,
       "source": "./projects.svg"
-    }, 
+    },
     "public": {
-      "codepoint": 61753, 
+      "codepoint": 61753,
       "source": "./public.svg"
-    }, 
+    },
     "purchase": {
-      "codepoint": 61754, 
+      "codepoint": 61754,
       "source": "./purchase.svg"
-    }, 
+    },
     "question-mark": {
-      "codepoint": 61755, 
+      "codepoint": 61755,
       "source": "./question-mark.svg"
-    }, 
+    },
     "refresh": {
-      "codepoint": 61756, 
+      "codepoint": 61756,
       "source": "./refresh.svg"
-    }, 
+    },
     "reload": {
-      "codepoint": 61757, 
+      "codepoint": 61757,
       "source": "./reload.svg"
-    }, 
+    },
     "reports": {
-      "codepoint": 61758, 
+      "codepoint": 61758,
       "source": "./reports.svg"
-    }, 
+    },
     "rfq": {
-      "codepoint": 61759, 
+      "codepoint": 61759,
       "source": "./rfq.svg"
-    }, 
+    },
     "rohs": {
-      "codepoint": 61760, 
+      "codepoint": 61760,
       "source": "./rohs.svg"
-    }, 
+    },
     "search": {
-      "codepoint": 61761, 
+      "codepoint": 61761,
       "source": "./search.svg"
-    }, 
+    },
     "send-to": {
-      "codepoint": 61782, 
+      "codepoint": 61782,
       "source": "./send-to.svg"
-    }, 
+    },
     "settings": {
-      "codepoint": 61783, 
+      "codepoint": 61783,
       "source": "./settings.svg"
-    }, 
+    },
     "share": {
-      "codepoint": 61762, 
+      "codepoint": 61762,
       "source": "./share.svg"
-    }, 
+    },
     "share-list": {
-      "codepoint": 61784, 
+      "codepoint": 61784,
       "source": "./share-list.svg"
-    }, 
+    },
     "sidebar-hide": {
-      "codepoint": 61763, 
+      "codepoint": 61763,
       "source": "./sidebar-hide.svg"
-    }, 
+    },
     "sidebar-show": {
-      "codepoint": 61764, 
+      "codepoint": 61764,
       "source": "./sidebar-show.svg"
-    }, 
+    },
     "star": {
-      "codepoint": 61765, 
+      "codepoint": 61765,
       "source": "./star.svg"
-    }, 
+    },
     "support": {
-      "codepoint": 61766, 
+      "codepoint": 61766,
       "source": "./support.svg"
-    }, 
+    },
     "team": {
-      "codepoint": 61767, 
+      "codepoint": 61767,
       "source": "./team.svg"
-    }, 
+    },
     "team-stats": {
-      "codepoint": 61768, 
+      "codepoint": 61768,
       "source": "./team-stats.svg"
-    }, 
+    },
     "technical": {
-      "codepoint": 61769, 
+      "codepoint": 61769,
       "source": "./technical.svg"
-    }, 
+    },
     "trash": {
-      "codepoint": 61770, 
+      "codepoint": 61770,
       "source": "./trash.svg"
-    }, 
+    },
     "twitter": {
-      "codepoint": 61771, 
+      "codepoint": 61771,
       "source": "./twitter.svg"
-    }, 
+    },
     "upload": {
-      "codepoint": 61772, 
+      "codepoint": 61772,
       "source": "./upload.svg"
-    }, 
+    },
     "upload-to": {
-      "codepoint": 61785, 
+      "codepoint": 61785,
       "source": "./upload-to.svg"
-    }, 
+    },
     "user-lists": {
-      "codepoint": 61773, 
+      "codepoint": 61773,
       "source": "./user-lists.svg"
-    }, 
+    },
     "user-settings": {
-      "codepoint": 61774, 
+      "codepoint": 61774,
       "source": "./user-settings.svg"
-    }, 
+    },
     "warning": {
-      "codepoint": 61775, 
+      "codepoint": 61775,
       "source": "./warning.svg"
-    }, 
+    },
     "yes": {
-      "codepoint": 61776, 
+      "codepoint": 61776,
       "source": "./yes.svg"
     }
-  }, 
+  },
   "options": {
-    "autowidth": false, 
-    "config": "fontcustom.yml", 
-    "copyright": "", 
-    "css3": false, 
-    "css_selector": ".icon-{{glyph}}", 
-    "debug": false, 
-    "font_ascent": 448, 
-    "font_descent": 64, 
-    "font_design_size": 16, 
-    "font_em": 512, 
-    "font_name": "fontcustom", 
-    "force": false, 
+    "autowidth": false,
+    "config": false,
+    "copyright": "",
+    "css3": false,
+    "css_selector": ".icon-{{glyph}}",
+    "debug": false,
+    "font_ascent": 448,
+    "font_descent": 64,
+    "font_design_size": 16,
+    "font_em": 512,
+    "font_name": "fontcustom",
+    "force": false,
     "input": {
-      "templates": ".", 
+      "templates": ".",
       "vectors": "."
-    }, 
-    "no_hash": false, 
+    },
+    "no_hash": false,
     "output": {
-      "css": "fontcustom", 
-      "fonts": "fontcustom", 
+      "css": "fontcustom",
+      "fonts": "fontcustom",
       "preview": "fontcustom"
-    }, 
-    "preprocessor_path": null, 
-    "quiet": false, 
+    },
+    "preprocessor_path": null,
+    "quiet": false,
     "templates": [
-      "css", 
+      "css",
       "preview"
     ]
-  }, 
+  },
   "templates": [
-    "fontcustom/fontcustom.css", 
+    "fontcustom/fontcustom.css",
     "fontcustom/fontcustom-preview.html"
   ]
 }

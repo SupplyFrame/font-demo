@@ -4,12 +4,12 @@
 
 @font-face {
   font-family: "fontcustom";
-  src: url("./fontcustom_7e86f21687f23d66d068c04cf1de122c.eot");
-  src: url("./fontcustom_7e86f21687f23d66d068c04cf1de122c.eot?#iefix") format("embedded-opentype"),
-       url("./fontcustom_7e86f21687f23d66d068c04cf1de122c.woff2") format("woff2"),
-       url("./fontcustom_7e86f21687f23d66d068c04cf1de122c.woff") format("woff"),
-       url("./fontcustom_7e86f21687f23d66d068c04cf1de122c.ttf") format("truetype"),
-       url("./fontcustom_7e86f21687f23d66d068c04cf1de122c.svg#fontcustom") format("svg");
+  src: url("./fontcustom_f0e455ceb7e3061e90e35f741e8b356f.eot");
+  src: url("./fontcustom_f0e455ceb7e3061e90e35f741e8b356f.eot?#iefix") format("embedded-opentype"),
+       url("./fontcustom_f0e455ceb7e3061e90e35f741e8b356f.woff2") format("woff2"),
+       url("./fontcustom_f0e455ceb7e3061e90e35f741e8b356f.woff") format("woff"),
+       url("./fontcustom_f0e455ceb7e3061e90e35f741e8b356f.ttf") format("truetype"),
+       url("./fontcustom_f0e455ceb7e3061e90e35f741e8b356f.svg#fontcustom") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -17,7 +17,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "fontcustom";
-    src: url("./fontcustom_7e86f21687f23d66d068c04cf1de122c.svg#fontcustom") format("svg");
+    src: url("./fontcustom_f0e455ceb7e3061e90e35f741e8b356f.svg#fontcustom") format("svg");
   }
 }
 
@@ -120,6 +120,7 @@
 .icon-sidebar-show:before,
 .icon-star:before,
 .icon-support:before,
+.icon-system-settings:before,
 .icon-team:before,
 .icon-team-stats:before,
 .icon-technical:before,
@@ -241,6 +242,7 @@
 .icon-sidebar-show:before { content: "\f144"; }
 .icon-star:before { content: "\f145"; }
 .icon-support:before { content: "\f146"; }
+.icon-system-settings:before { content: "\f16f"; }
 .icon-team:before { content: "\f147"; }
 .icon-team-stats:before { content: "\f148"; }
 .icon-technical:before { content: "\f149"; }

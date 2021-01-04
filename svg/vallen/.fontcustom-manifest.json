@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "fb5cad889d9801a0226b416272bb7743167d290687cb51e8a73184fd6e59315f",
-    "current": "fb5cad889d9801a0226b416272bb7743167d290687cb51e8a73184fd6e59315f"
+    "previous": "b9a3b253df6d9e44e6b7e911ce91b3c5859500af582f346fb1578f76cd968cc8",
+    "current": "b9a3b253df6d9e44e6b7e911ce91b3c5859500af582f346fb1578f76cd968cc8"
   },
   "fonts": [
-    "fontcustom/fontcustom_fb5cad889d9801a0226b416272bb7743.ttf",
-    "fontcustom/fontcustom_fb5cad889d9801a0226b416272bb7743.svg",
-    "fontcustom/fontcustom_fb5cad889d9801a0226b416272bb7743.woff",
-    "fontcustom/fontcustom_fb5cad889d9801a0226b416272bb7743.eot",
-    "fontcustom/fontcustom_fb5cad889d9801a0226b416272bb7743.woff2"
+    "fontcustom/fontcustom_b9a3b253df6d9e44e6b7e911ce91b3c5.ttf",
+    "fontcustom/fontcustom_b9a3b253df6d9e44e6b7e911ce91b3c5.svg",
+    "fontcustom/fontcustom_b9a3b253df6d9e44e6b7e911ce91b3c5.woff",
+    "fontcustom/fontcustom_b9a3b253df6d9e44e6b7e911ce91b3c5.eot",
+    "fontcustom/fontcustom_b9a3b253df6d9e44e6b7e911ce91b3c5.woff2"
   ],
   "glyphs": {
     "add": {
@@ -74,6 +74,10 @@
     "dimensions": {
       "codepoint": 61782,
       "source": "./dimensions.svg"
+    },
+    "document-upload": {
+      "codepoint": 61796,
+      "source": "./document-upload.svg"
     },
     "dot": {
       "codepoint": 61749,
@@ -190,6 +194,10 @@
     "refresh": {
       "codepoint": 61761,
       "source": "./refresh.svg"
+    },
+    "reports": {
+      "codepoint": 61797,
+      "source": "./reports.svg"
     },
     "rohs": {
       "codepoint": 61770,

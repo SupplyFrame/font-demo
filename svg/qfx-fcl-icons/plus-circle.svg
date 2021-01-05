@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="496px" height="496px" viewBox="0 0 496 496" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>plus-circle</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="plus-circle" fill="#000000" fill-rule="nonzero">
+            <path d="M376,232 L376,264 C376,270.6 370.6,276 364,276 L276,276 L276,364 C276,370.6 270.6,376 264,376 L232,376 C225.4,376 220,370.6 220,364 L220,276 L132,276 C125.4,276 120,270.6 120,264 L120,232 C120,225.4 125.4,220 132,220 L220,220 L220,132 C220,125.4 225.4,120 232,120 L264,120 C270.6,120 276,125.4 276,132 L276,220 L364,220 C370.6,220 376,225.4 376,232 Z M496,248 C496,385 385,496 248,496 C111,496 0,385 0,248 C0,111 111,0 248,0 C385,0 496,111 496,248 Z M448,248 C448,137.5 358.5,48 248,48 C137.5,48 48,137.5 48,248 C48,358.5 137.5,448 248,448 C358.5,448 448,358.5 448,248 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

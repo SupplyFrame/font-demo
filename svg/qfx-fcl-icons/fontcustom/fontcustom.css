@@ -4,12 +4,12 @@
 
 @font-face {
   font-family: "fontcustom";
-  src: url("./fontcustom_a127b02d7ec40a7db53f58fe3fb77d0b.eot");
-  src: url("./fontcustom_a127b02d7ec40a7db53f58fe3fb77d0b.eot?#iefix") format("embedded-opentype"),
-       url("./fontcustom_a127b02d7ec40a7db53f58fe3fb77d0b.woff2") format("woff2"),
-       url("./fontcustom_a127b02d7ec40a7db53f58fe3fb77d0b.woff") format("woff"),
-       url("./fontcustom_a127b02d7ec40a7db53f58fe3fb77d0b.ttf") format("truetype"),
-       url("./fontcustom_a127b02d7ec40a7db53f58fe3fb77d0b.svg#fontcustom") format("svg");
+  src: url("./fontcustom_e487a39ac9a20a3961d97f1ddf2c6556.eot");
+  src: url("./fontcustom_e487a39ac9a20a3961d97f1ddf2c6556.eot?#iefix") format("embedded-opentype"),
+       url("./fontcustom_e487a39ac9a20a3961d97f1ddf2c6556.woff2") format("woff2"),
+       url("./fontcustom_e487a39ac9a20a3961d97f1ddf2c6556.woff") format("woff"),
+       url("./fontcustom_e487a39ac9a20a3961d97f1ddf2c6556.ttf") format("truetype"),
+       url("./fontcustom_e487a39ac9a20a3961d97f1ddf2c6556.svg#fontcustom") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -17,7 +17,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "fontcustom";
-    src: url("./fontcustom_a127b02d7ec40a7db53f58fe3fb77d0b.svg#fontcustom") format("svg");
+    src: url("./fontcustom_e487a39ac9a20a3961d97f1ddf2c6556.svg#fontcustom") format("svg");
   }
 }
 
@@ -47,6 +47,7 @@
 .icon-boms:before,
 .icon-calendar:before,
 .icon-chain:before,
+.icon-check-circle:before,
 .icon-close:before,
 .icon-comp:before,
 .icon-compliance:before,
@@ -100,6 +101,7 @@
 .icon-pbfree:before,
 .icon-phone:before,
 .icon-physical:before,
+.icon-plus-circle:before,
 .icon-pricing-engine:before,
 .icon-print:before,
 .icon-private:before,
@@ -151,114 +153,116 @@
 }
 
 .icon-activity:before { content: "\f100"; }
-.icon-add:before { content: "\f16e"; }
+.icon-add:before { content: "\f101"; }
 .icon-all-lists:before { content: "\f102"; }
 .icon-all-members:before { content: "\f103"; }
 .icon-aml:before { content: "\f104"; }
 .icon-analytics:before { content: "\f105"; }
 .icon-arrow-down:before { content: "\f106"; }
-.icon-arrow-long-down:before { content: "\f15d"; }
-.icon-arrow-long-stable:before { content: "\f15e"; }
-.icon-arrow-long-up:before { content: "\f15f"; }
-.icon-arrow-stable:before { content: "\f107"; }
-.icon-arrow-up:before { content: "\f108"; }
-.icon-arrow-up-down:before { content: "\f109"; }
-.icon-arrowdown:before { content: "\f10a"; }
-.icon-arrowleft:before { content: "\f10b"; }
-.icon-arrowright:before { content: "\f10c"; }
-.icon-arrowup:before { content: "\f10d"; }
-.icon-avl:before { content: "\f10e"; }
-.icon-bom:before { content: "\f10f"; }
-.icon-bom-insight-view:before { content: "\f167"; }
-.icon-boms:before { content: "\f110"; }
-.icon-calendar:before { content: "\f111"; }
-.icon-chain:before { content: "\f112"; }
-.icon-close:before { content: "\f113"; }
-.icon-comp:before { content: "\f114"; }
-.icon-compliance:before { content: "\f115"; }
-.icon-consollidate:before { content: "\f162"; }
-.icon-contactpricing:before { content: "\f116"; }
-.icon-contract-price:before { content: "\f165"; }
-.icon-cost:before { content: "\f164"; }
-.icon-customer-list:before { content: "\f163"; }
-.icon-dashboard:before { content: "\f117"; }
-.icon-default:before { content: "\f151"; }
-.icon-demand-list:before { content: "\f168"; }
-.icon-demand-temp:before { content: "\f169"; }
-.icon-dimensions:before { content: "\f118"; }
-.icon-dot:before { content: "\f119"; }
-.icon-download:before { content: "\f11a"; }
-.icon-edit:before { content: "\f11b"; }
-.icon-edit-history:before { content: "\f173"; }
-.icon-email:before { content: "\f11c"; }
-.icon-email-alert:before { content: "\f11d"; }
-.icon-empty:before { content: "\f16d"; }
-.icon-export:before { content: "\f11f"; }
-.icon-eye:before { content: "\f16c"; }
-.icon-facebook:before { content: "\f121"; }
-.icon-file:before { content: "\f122"; }
-.icon-filter:before { content: "\f152"; }
-.icon-forecast-view:before { content: "\f16a"; }
-.icon-googleplus:before { content: "\f123"; }
-.icon-info:before { content: "\f124"; }
-.icon-intelligence:before { content: "\f153"; }
-.icon-link:before { content: "\f154"; }
-.icon-list:before { content: "\f161"; }
-.icon-list-status:before { content: "\f16b"; }
-.icon-list-versions:before { content: "\f171"; }
-.icon-lists:before { content: "\f126"; }
-.icon-location:before { content: "\f127"; }
-.icon-mapping-tables:before { content: "\f172"; }
-.icon-messages:before { content: "\f155"; }
-.icon-more-dots:before { content: "\f15a"; }
-.icon-mostrelevant:before { content: "\f128"; }
-.icon-move:before { content: "\f129"; }
-.icon-my-lists:before { content: "\f15b"; }
-.icon-new-folder:before { content: "\f12a"; }
-.icon-notifications:before { content: "\f12b"; }
-.icon-operatingconditions:before { content: "\f12c"; }
-.icon-options:before { content: "\f12d"; }
-.icon-order-history:before { content: "\f166"; }
-.icon-other:before { content: "\f12e"; }
-.icon-ownership:before { content: "\f12f"; }
-.icon-part-list:before { content: "\f160"; }
-.icon-partlist:before { content: "\f130"; }
-.icon-pbfree:before { content: "\f131"; }
-.icon-phone:before { content: "\f132"; }
-.icon-physical:before { content: "\f133"; }
-.icon-pricing-engine:before { content: "\f170"; }
-.icon-print:before { content: "\f134"; }
-.icon-private:before { content: "\f135"; }
-.icon-pro-settings:before { content: "\f136"; }
-.icon-project:before { content: "\f137"; }
-.icon-project-view:before { content: "\f15c"; }
-.icon-projects:before { content: "\f138"; }
-.icon-public:before { content: "\f139"; }
-.icon-purchase:before { content: "\f13a"; }
-.icon-question-mark:before { content: "\f13b"; }
-.icon-refresh:before { content: "\f13c"; }
-.icon-reload:before { content: "\f13d"; }
-.icon-reports:before { content: "\f13e"; }
-.icon-rfq:before { content: "\f13f"; }
-.icon-rohs:before { content: "\f140"; }
-.icon-search:before { content: "\f141"; }
-.icon-send-to:before { content: "\f156"; }
-.icon-settings:before { content: "\f157"; }
-.icon-share:before { content: "\f142"; }
-.icon-share-list:before { content: "\f158"; }
-.icon-sidebar-hide:before { content: "\f143"; }
-.icon-sidebar-show:before { content: "\f144"; }
-.icon-star:before { content: "\f145"; }
-.icon-support:before { content: "\f146"; }
-.icon-system-settings:before { content: "\f16f"; }
-.icon-team:before { content: "\f147"; }
-.icon-team-stats:before { content: "\f148"; }
-.icon-technical:before { content: "\f149"; }
-.icon-trash:before { content: "\f14a"; }
-.icon-twitter:before { content: "\f14b"; }
-.icon-upload:before { content: "\f14c"; }
-.icon-upload-to:before { content: "\f159"; }
-.icon-user-lists:before { content: "\f14d"; }
-.icon-user-settings:before { content: "\f14e"; }
-.icon-warning:before { content: "\f14f"; }
-.icon-yes:before { content: "\f150"; }
+.icon-arrow-long-down:before { content: "\f107"; }
+.icon-arrow-long-stable:before { content: "\f108"; }
+.icon-arrow-long-up:before { content: "\f109"; }
+.icon-arrow-stable:before { content: "\f10a"; }
+.icon-arrow-up:before { content: "\f10b"; }
+.icon-arrow-up-down:before { content: "\f10c"; }
+.icon-arrowdown:before { content: "\f10d"; }
+.icon-arrowleft:before { content: "\f10e"; }
+.icon-arrowright:before { content: "\f10f"; }
+.icon-arrowup:before { content: "\f110"; }
+.icon-avl:before { content: "\f111"; }
+.icon-bom:before { content: "\f112"; }
+.icon-bom-insight-view:before { content: "\f113"; }
+.icon-boms:before { content: "\f114"; }
+.icon-calendar:before { content: "\f115"; }
+.icon-chain:before { content: "\f116"; }
+.icon-check-circle:before { content: "\f170"; }
+.icon-close:before { content: "\f117"; }
+.icon-comp:before { content: "\f118"; }
+.icon-compliance:before { content: "\f119"; }
+.icon-consollidate:before { content: "\f11a"; }
+.icon-contactpricing:before { content: "\f11b"; }
+.icon-contract-price:before { content: "\f11c"; }
+.icon-cost:before { content: "\f11d"; }
+.icon-customer-list:before { content: "\f11e"; }
+.icon-dashboard:before { content: "\f11f"; }
+.icon-default:before { content: "\f120"; }
+.icon-demand-list:before { content: "\f121"; }
+.icon-demand-temp:before { content: "\f122"; }
+.icon-dimensions:before { content: "\f123"; }
+.icon-dot:before { content: "\f124"; }
+.icon-download:before { content: "\f125"; }
+.icon-edit:before { content: "\f126"; }
+.icon-edit-history:before { content: "\f127"; }
+.icon-email:before { content: "\f128"; }
+.icon-email-alert:before { content: "\f129"; }
+.icon-empty:before { content: "\f12a"; }
+.icon-export:before { content: "\f12b"; }
+.icon-eye:before { content: "\f12c"; }
+.icon-facebook:before { content: "\f12d"; }
+.icon-file:before { content: "\f12e"; }
+.icon-filter:before { content: "\f12f"; }
+.icon-forecast-view:before { content: "\f130"; }
+.icon-googleplus:before { content: "\f131"; }
+.icon-info:before { content: "\f132"; }
+.icon-intelligence:before { content: "\f133"; }
+.icon-link:before { content: "\f134"; }
+.icon-list:before { content: "\f135"; }
+.icon-list-status:before { content: "\f136"; }
+.icon-list-versions:before { content: "\f137"; }
+.icon-lists:before { content: "\f138"; }
+.icon-location:before { content: "\f139"; }
+.icon-mapping-tables:before { content: "\f13a"; }
+.icon-messages:before { content: "\f13b"; }
+.icon-more-dots:before { content: "\f13c"; }
+.icon-mostrelevant:before { content: "\f13d"; }
+.icon-move:before { content: "\f13e"; }
+.icon-my-lists:before { content: "\f13f"; }
+.icon-new-folder:before { content: "\f140"; }
+.icon-notifications:before { content: "\f141"; }
+.icon-operatingconditions:before { content: "\f142"; }
+.icon-options:before { content: "\f143"; }
+.icon-order-history:before { content: "\f144"; }
+.icon-other:before { content: "\f145"; }
+.icon-ownership:before { content: "\f146"; }
+.icon-part-list:before { content: "\f147"; }
+.icon-partlist:before { content: "\f148"; }
+.icon-pbfree:before { content: "\f149"; }
+.icon-phone:before { content: "\f14a"; }
+.icon-physical:before { content: "\f14b"; }
+.icon-plus-circle:before { content: "\f171"; }
+.icon-pricing-engine:before { content: "\f14c"; }
+.icon-print:before { content: "\f14d"; }
+.icon-private:before { content: "\f14e"; }
+.icon-pro-settings:before { content: "\f14f"; }
+.icon-project:before { content: "\f150"; }
+.icon-project-view:before { content: "\f151"; }
+.icon-projects:before { content: "\f152"; }
+.icon-public:before { content: "\f153"; }
+.icon-purchase:before { content: "\f154"; }
+.icon-question-mark:before { content: "\f155"; }
+.icon-refresh:before { content: "\f156"; }
+.icon-reload:before { content: "\f157"; }
+.icon-reports:before { content: "\f158"; }
+.icon-rfq:before { content: "\f159"; }
+.icon-rohs:before { content: "\f15a"; }
+.icon-search:before { content: "\f15b"; }
+.icon-send-to:before { content: "\f15c"; }
+.icon-settings:before { content: "\f15d"; }
+.icon-share:before { content: "\f15e"; }
+.icon-share-list:before { content: "\f15f"; }
+.icon-sidebar-hide:before { content: "\f160"; }
+.icon-sidebar-show:before { content: "\f161"; }
+.icon-star:before { content: "\f162"; }
+.icon-support:before { content: "\f163"; }
+.icon-system-settings:before { content: "\f164"; }
+.icon-team:before { content: "\f165"; }
+.icon-team-stats:before { content: "\f166"; }
+.icon-technical:before { content: "\f167"; }
+.icon-trash:before { content: "\f168"; }
+.icon-twitter:before { content: "\f169"; }
+.icon-upload:before { content: "\f16a"; }
+.icon-upload-to:before { content: "\f16b"; }
+.icon-user-lists:before { content: "\f16c"; }
+.icon-user-settings:before { content: "\f16d"; }
+.icon-warning:before { content: "\f16e"; }
+.icon-yes:before { content: "\f16f"; }

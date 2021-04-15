@@ -4,12 +4,12 @@
 
 @font-face {
   font-family: "fontcustom";
-  src: url("./fontcustom_fdae21e36a7c0de8a554cb66288fb78e.eot");
-  src: url("./fontcustom_fdae21e36a7c0de8a554cb66288fb78e.eot?#iefix") format("embedded-opentype"),
-       url("./fontcustom_fdae21e36a7c0de8a554cb66288fb78e.woff2") format("woff2"),
-       url("./fontcustom_fdae21e36a7c0de8a554cb66288fb78e.woff") format("woff"),
-       url("./fontcustom_fdae21e36a7c0de8a554cb66288fb78e.ttf") format("truetype"),
-       url("./fontcustom_fdae21e36a7c0de8a554cb66288fb78e.svg#fontcustom") format("svg");
+  src: url("./fontcustom_2e1e45f14561dc3ed435d91680195bb5.eot");
+  src: url("./fontcustom_2e1e45f14561dc3ed435d91680195bb5.eot?#iefix") format("embedded-opentype"),
+       url("./fontcustom_2e1e45f14561dc3ed435d91680195bb5.woff2") format("woff2"),
+       url("./fontcustom_2e1e45f14561dc3ed435d91680195bb5.woff") format("woff"),
+       url("./fontcustom_2e1e45f14561dc3ed435d91680195bb5.ttf") format("truetype"),
+       url("./fontcustom_2e1e45f14561dc3ed435d91680195bb5.svg#fontcustom") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -17,7 +17,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "fontcustom";
-    src: url("./fontcustom_fdae21e36a7c0de8a554cb66288fb78e.svg#fontcustom") format("svg");
+    src: url("./fontcustom_2e1e45f14561dc3ed435d91680195bb5.svg#fontcustom") format("svg");
   }
 }
 
@@ -50,6 +50,7 @@
 .icon-googleplus:before,
 .icon-info:before,
 .icon-lists:before,
+.icon-model:before,
 .icon-mostrelevant:before,
 .icon-move:before,
 .icon-new-folder:before,
@@ -59,6 +60,7 @@
 .icon-other:before,
 .icon-ownership:before,
 .icon-pbfree:before,
+.icon-pcb:before,
 .icon-physical:before,
 .icon-print:before,
 .icon-private:before,
@@ -68,6 +70,7 @@
 .icon-public:before,
 .icon-refresh:before,
 .icon-rohs:before,
+.icon-schematic:before,
 .icon-search:before,
 .icon-share:before,
 .icon-star:before,
@@ -121,6 +124,7 @@
 .icon-googleplus:before { content: "\f13a"; }
 .icon-info:before { content: "\f13b"; }
 .icon-lists:before { content: "\f13c"; }
+.icon-model:before { content: "\f162"; }
 .icon-mostrelevant:before { content: "\f15c"; }
 .icon-move:before { content: "\f125"; }
 .icon-new-folder:before { content: "\f126"; }
@@ -130,6 +134,7 @@
 .icon-other:before { content: "\f15e"; }
 .icon-ownership:before { content: "\f127"; }
 .icon-pbfree:before { content: "\f149"; }
+.icon-pcb:before { content: "\f163"; }
 .icon-physical:before { content: "\f15f"; }
 .icon-print:before { content: "\f13e"; }
 .icon-private:before { content: "\f13f"; }
@@ -139,6 +144,7 @@
 .icon-public:before { content: "\f140"; }
 .icon-refresh:before { content: "\f141"; }
 .icon-rohs:before { content: "\f14a"; }
+.icon-schematic:before { content: "\f164"; }
 .icon-search:before { content: "\f142"; }
 .icon-share:before { content: "\f143"; }
 .icon-star:before { content: "\f144"; }

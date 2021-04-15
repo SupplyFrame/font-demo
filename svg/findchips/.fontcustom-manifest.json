@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "fdae21e36a7c0de8a554cb66288fb78eacf5fb6fdf847b6a0ef1da94f411fa3e",
-    "current": "fdae21e36a7c0de8a554cb66288fb78eacf5fb6fdf847b6a0ef1da94f411fa3e"
+    "previous": "2e1e45f14561dc3ed435d91680195bb5f6e962c35d86252da05553390bf51a20",
+    "current": "2e1e45f14561dc3ed435d91680195bb5f6e962c35d86252da05553390bf51a20"
   },
   "fonts": [
-    "fontcustom/fontcustom_fdae21e36a7c0de8a554cb66288fb78e.ttf",
-    "fontcustom/fontcustom_fdae21e36a7c0de8a554cb66288fb78e.svg",
-    "fontcustom/fontcustom_fdae21e36a7c0de8a554cb66288fb78e.woff",
-    "fontcustom/fontcustom_fdae21e36a7c0de8a554cb66288fb78e.eot",
-    "fontcustom/fontcustom_fdae21e36a7c0de8a554cb66288fb78e.woff2"
+    "fontcustom/fontcustom_2e1e45f14561dc3ed435d91680195bb5.ttf",
+    "fontcustom/fontcustom_2e1e45f14561dc3ed435d91680195bb5.svg",
+    "fontcustom/fontcustom_2e1e45f14561dc3ed435d91680195bb5.woff",
+    "fontcustom/fontcustom_2e1e45f14561dc3ed435d91680195bb5.eot",
+    "fontcustom/fontcustom_2e1e45f14561dc3ed435d91680195bb5.woff2"
   ],
   "glyphs": {
     "add": {
@@ -115,6 +115,10 @@
       "codepoint": 61756,
       "source": "./lists.svg"
     },
+    "model": {
+      "codepoint": 61794,
+      "source": "./model.svg"
+    },
     "mostrelevant": {
       "codepoint": 61788,
       "source": "./mostrelevant.svg"
@@ -151,6 +155,10 @@
       "codepoint": 61769,
       "source": "./pbfree.svg"
     },
+    "pcb": {
+      "codepoint": 61795,
+      "source": "./pcb.svg"
+    },
     "physical": {
       "codepoint": 61791,
       "source": "./physical.svg"
@@ -186,6 +194,10 @@
     "rohs": {
       "codepoint": 61770,
       "source": "./rohs.svg"
+    },
+    "schematic": {
+      "codepoint": 61796,
+      "source": "./schematic.svg"
     },
     "search": {
       "codepoint": 61762,

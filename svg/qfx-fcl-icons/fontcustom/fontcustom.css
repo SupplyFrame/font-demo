@@ -4,12 +4,12 @@
 
 @font-face {
   font-family: "fontcustom";
-  src: url("./fontcustom_e487a39ac9a20a3961d97f1ddf2c6556.eot");
-  src: url("./fontcustom_e487a39ac9a20a3961d97f1ddf2c6556.eot?#iefix") format("embedded-opentype"),
-       url("./fontcustom_e487a39ac9a20a3961d97f1ddf2c6556.woff2") format("woff2"),
-       url("./fontcustom_e487a39ac9a20a3961d97f1ddf2c6556.woff") format("woff"),
-       url("./fontcustom_e487a39ac9a20a3961d97f1ddf2c6556.ttf") format("truetype"),
-       url("./fontcustom_e487a39ac9a20a3961d97f1ddf2c6556.svg#fontcustom") format("svg");
+  src: url("./fontcustom_361b839b97ef0f001a6efc9b229b7e38.eot");
+  src: url("./fontcustom_361b839b97ef0f001a6efc9b229b7e38.eot?#iefix") format("embedded-opentype"),
+       url("./fontcustom_361b839b97ef0f001a6efc9b229b7e38.woff2") format("woff2"),
+       url("./fontcustom_361b839b97ef0f001a6efc9b229b7e38.woff") format("woff"),
+       url("./fontcustom_361b839b97ef0f001a6efc9b229b7e38.ttf") format("truetype"),
+       url("./fontcustom_361b839b97ef0f001a6efc9b229b7e38.svg#fontcustom") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -17,7 +17,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "fontcustom";
-    src: url("./fontcustom_e487a39ac9a20a3961d97f1ddf2c6556.svg#fontcustom") format("svg");
+    src: url("./fontcustom_361b839b97ef0f001a6efc9b229b7e38.svg#fontcustom") format("svg");
   }
 }
 
@@ -137,6 +137,7 @@
 .icon-user-lists:before,
 .icon-user-settings:before,
 .icon-warning:before,
+.icon-warning-circle:before,
 .icon-yes:before {
   display: inline-block;
   font-family: "fontcustom";
@@ -265,4 +266,5 @@
 .icon-user-lists:before { content: "\f16c"; }
 .icon-user-settings:before { content: "\f16d"; }
 .icon-warning:before { content: "\f16e"; }
+.icon-warning-circle:before { content: "\f172"; }
 .icon-yes:before { content: "\f16f"; }

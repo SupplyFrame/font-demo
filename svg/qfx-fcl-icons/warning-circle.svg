@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="496px" height="496px" viewBox="0 0 496 496" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>warning-circle</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="warning-circle" fill="#000000" fill-rule="nonzero">
+            <path d="M248,0 C111.043,0 0,111.083 0,248 C0,384.997 111.043,496 248,496 C384.957,496 496,384.997 496,248 C496,111.083 384.957,0 248,0 Z M248,448 C137.468,448 48,358.569 48,248 C48,137.505 137.472,48 248,48 C358.491,48 448,137.471 448,248 C448,358.53 358.569,448 248,448 Z M290,344 C290,367.159 271.159,386 248,386 C224.841,386 206,367.159 206,344 C206,320.841 224.841,302 248,302 C271.159,302 290,320.841 290,344 Z M208.63,132.599 L215.43,268.599 C215.749,274.986 221.021,280 227.415,280 L268.585,280 C274.979,280 280.251,274.986 280.57,268.599 L287.37,132.599 C287.713,125.745 282.248,120 275.385,120 L220.615,120 C213.752,120 208.287,125.745 208.63,132.599 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

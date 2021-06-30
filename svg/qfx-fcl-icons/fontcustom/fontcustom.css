@@ -4,12 +4,12 @@
 
 @font-face {
   font-family: "fontcustom";
-  src: url("./fontcustom_361b839b97ef0f001a6efc9b229b7e38.eot");
-  src: url("./fontcustom_361b839b97ef0f001a6efc9b229b7e38.eot?#iefix") format("embedded-opentype"),
-       url("./fontcustom_361b839b97ef0f001a6efc9b229b7e38.woff2") format("woff2"),
-       url("./fontcustom_361b839b97ef0f001a6efc9b229b7e38.woff") format("woff"),
-       url("./fontcustom_361b839b97ef0f001a6efc9b229b7e38.ttf") format("truetype"),
-       url("./fontcustom_361b839b97ef0f001a6efc9b229b7e38.svg#fontcustom") format("svg");
+  src: url("./fontcustom_43903881907938e70214498bc276724d.eot");
+  src: url("./fontcustom_43903881907938e70214498bc276724d.eot?#iefix") format("embedded-opentype"),
+       url("./fontcustom_43903881907938e70214498bc276724d.woff2") format("woff2"),
+       url("./fontcustom_43903881907938e70214498bc276724d.woff") format("woff"),
+       url("./fontcustom_43903881907938e70214498bc276724d.ttf") format("truetype"),
+       url("./fontcustom_43903881907938e70214498bc276724d.svg#fontcustom") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -17,7 +17,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "fontcustom";
-    src: url("./fontcustom_361b839b97ef0f001a6efc9b229b7e38.svg#fontcustom") format("svg");
+    src: url("./fontcustom_43903881907938e70214498bc276724d.svg#fontcustom") format("svg");
   }
 }
 
@@ -112,6 +112,7 @@
 .icon-public:before,
 .icon-purchase:before,
 .icon-question-mark:before,
+.icon-quote-from-sales:before,
 .icon-refresh:before,
 .icon-reload:before,
 .icon-reports:before,
@@ -119,6 +120,7 @@
 .icon-rohs:before,
 .icon-search:before,
 .icon-send-to:before,
+.icon-send-to-rep:before,
 .icon-settings:before,
 .icon-share:before,
 .icon-share-list:before,
@@ -241,6 +243,7 @@
 .icon-public:before { content: "\f153"; }
 .icon-purchase:before { content: "\f154"; }
 .icon-question-mark:before { content: "\f155"; }
+.icon-quote-from-sales:before { content: "\f173"; }
 .icon-refresh:before { content: "\f156"; }
 .icon-reload:before { content: "\f157"; }
 .icon-reports:before { content: "\f158"; }
@@ -248,6 +251,7 @@
 .icon-rohs:before { content: "\f15a"; }
 .icon-search:before { content: "\f15b"; }
 .icon-send-to:before { content: "\f15c"; }
+.icon-send-to-rep:before { content: "\f174"; }
 .icon-settings:before { content: "\f15d"; }
 .icon-share:before { content: "\f15e"; }
 .icon-share-list:before { content: "\f15f"; }

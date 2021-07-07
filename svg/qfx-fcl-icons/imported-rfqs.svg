@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="18px" viewBox="0 0 20 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-imported-rfqs</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon-imported-rfqs" fill="#000000" fill-rule="nonzero">
+            <path d="M11.999298,16.007843 L11.999298,13.762192 L12.829193,13.762192 C16.159088,13.762192 18.20816,15.269516 18.976471,17.428513 C18.976471,12.873703 15.927948,10.275987 11.999298,10.251329 L11.999298,7.992158 L7.608367,12.005786 L11.999298,16.007843 Z" id="Shape"></path>
+            <path d="M6.944458,16 L2,16 L2,2 L7.17157,2 L8.585816,3.414185 L9.17157,4 L10,4 L18,4 L18,10.027779 L20,10.027779 L20,4 C20,2.895386 19.104553,2 18,2 L10,2 L8,0 L1,0 C0.447693,0 0,0.447693 0,1 L0,16 C0,17.104553 0.895447,18 2,18 L6.944458,18 L6.944458,16 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

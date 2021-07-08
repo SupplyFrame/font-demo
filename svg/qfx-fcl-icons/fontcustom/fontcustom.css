@@ -4,12 +4,12 @@
 
 @font-face {
   font-family: "fontcustom";
-  src: url("./fontcustom_7d5c7baa85c99a925ebaebb6ad64cb83.eot");
-  src: url("./fontcustom_7d5c7baa85c99a925ebaebb6ad64cb83.eot?#iefix") format("embedded-opentype"),
-       url("./fontcustom_7d5c7baa85c99a925ebaebb6ad64cb83.woff2") format("woff2"),
-       url("./fontcustom_7d5c7baa85c99a925ebaebb6ad64cb83.woff") format("woff"),
-       url("./fontcustom_7d5c7baa85c99a925ebaebb6ad64cb83.ttf") format("truetype"),
-       url("./fontcustom_7d5c7baa85c99a925ebaebb6ad64cb83.svg#fontcustom") format("svg");
+  src: url("./fontcustom_25e65b4c629d0470f471034aaedb8103.eot");
+  src: url("./fontcustom_25e65b4c629d0470f471034aaedb8103.eot?#iefix") format("embedded-opentype"),
+       url("./fontcustom_25e65b4c629d0470f471034aaedb8103.woff2") format("woff2"),
+       url("./fontcustom_25e65b4c629d0470f471034aaedb8103.woff") format("woff"),
+       url("./fontcustom_25e65b4c629d0470f471034aaedb8103.ttf") format("truetype"),
+       url("./fontcustom_25e65b4c629d0470f471034aaedb8103.svg#fontcustom") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -17,7 +17,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "fontcustom";
-    src: url("./fontcustom_7d5c7baa85c99a925ebaebb6ad64cb83.svg#fontcustom") format("svg");
+    src: url("./fontcustom_25e65b4c629d0470f471034aaedb8103.svg#fontcustom") format("svg");
   }
 }
 
@@ -114,6 +114,7 @@
 .icon-purchase:before,
 .icon-question-mark:before,
 .icon-quote-from-sales:before,
+.icon-quotewin:before,
 .icon-refresh:before,
 .icon-reload:before,
 .icon-reports:before,
@@ -246,6 +247,7 @@
 .icon-purchase:before { content: "\f154"; }
 .icon-question-mark:before { content: "\f155"; }
 .icon-quote-from-sales:before { content: "\f173"; }
+.icon-quotewin:before { content: "\f176"; }
 .icon-refresh:before { content: "\f156"; }
 .icon-reload:before { content: "\f157"; }
 .icon-reports:before { content: "\f158"; }

@@ -1,14 +1,14 @@
 {
   "checksum": {
-    "previous": "25e65b4c629d0470f471034aaedb81033f0d07be2ed179a0b7a3e6ef45495da0",
-    "current": "25e65b4c629d0470f471034aaedb81033f0d07be2ed179a0b7a3e6ef45495da0"
+    "previous": "57827804ddd6a188553cbc1779a5947e81a9cc50f32596a90e854497601e63db",
+    "current": "57827804ddd6a188553cbc1779a5947e81a9cc50f32596a90e854497601e63db"
   },
   "fonts": [
-    "fontcustom/fontcustom_25e65b4c629d0470f471034aaedb8103.ttf",
-    "fontcustom/fontcustom_25e65b4c629d0470f471034aaedb8103.svg",
-    "fontcustom/fontcustom_25e65b4c629d0470f471034aaedb8103.woff",
-    "fontcustom/fontcustom_25e65b4c629d0470f471034aaedb8103.eot",
-    "fontcustom/fontcustom_25e65b4c629d0470f471034aaedb8103.woff2"
+    "fontcustom/fontcustom_57827804ddd6a188553cbc1779a5947e.ttf",
+    "fontcustom/fontcustom_57827804ddd6a188553cbc1779a5947e.svg",
+    "fontcustom/fontcustom_57827804ddd6a188553cbc1779a5947e.woff",
+    "fontcustom/fontcustom_57827804ddd6a188553cbc1779a5947e.eot",
+    "fontcustom/fontcustom_57827804ddd6a188553cbc1779a5947e.woff2"
   ],
   "glyphs": {
     "activity": {
@@ -326,6 +326,18 @@
     "plus-circle": {
       "codepoint": 61809,
       "source": "./plus-circle.svg"
+    },
+    "price-book": {
+      "codepoint": 61815,
+      "source": "./price-book.svg"
+    },
+    "price-registration": {
+      "codepoint": 61816,
+      "source": "./price-registration.svg"
+    },
+    "price-web": {
+      "codepoint": 61817,
+      "source": "./price-web.svg"
     },
     "pricing-engine": {
       "codepoint": 61772,
